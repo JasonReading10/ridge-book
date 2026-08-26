@@ -1,12 +1,11 @@
 # Daily Portfolio Brief · 2026-08-26
 
-Book marks at US close: NVDA 214, TSLA 351, TSM 418, AMD 482, GOOGL 347. No fills today; DAYS_7 empty. Options still Friday last-prints, LEAPs quiet.
+Joint IBKR book closed ~US$405k NLV (A$566k at 1.398). NVDA 213.5, TSLA 350.3, TSM 417.7, AMD 478.5, GOOGL 346.8. No fills today; DAYS_7 empty. CMC 25-Aug ATOM sell / BSOL buys already in the book. Options still on prior last-prints.
 
-Overnight grind. NVDA, AMD, TSM and DRAM added a little; GOOGL and AVGO lagged. Crypto sleeve (EBTC, CRYP, BSOL) held flat in AUD. Satellite TSLA mixed on price hikes and China recall noise.
+Tech rebound helped the semiconductor sleeve after the prior week’s grind; NVDA snapped a seven-session slide and AMD caught an upgrade bounce. TSLA lagged the Mag7 set. Crypto wrappers mixed with Bitcoin near 80k.
 
-Material: Marvell reports Thursday US. Book is long MRVL stock and calls; a clean AI-networking beat would lift the compute sleeve, while a miss hits the same names hard.
+Material item: Nvidia reports after the close. Consensus is still for ~97% revenue growth and double EPS; the market is treating the print as the next test of AI spend sustainability rather than a pure beat-and-raise day.
 
-**Risk** Concentrated AI-semiconductor and memory exposure into earnings season; options weight remains large relative to stock.
-**Reward** Upside if MRVL and later NVDA deliver; BSOL and EBTC give crypto beta without new capital.
+**Risk** — Guidance or commentary that softens the next-leg AI capex story, or another rate-driven de-rating of duration. **Reward** — Clean numbers plus any signal on Rubin ramp / China / hyperscaler follow-through would reset the tape for the whole compute book.
 
-Stand aside on size. Watch MRVL print; no add until post-earnings tape clears.
+Hold the core. No forced adds into the print; watch post-call marks on NVDA, TSM, AMD and the LEAP complex before any size change.
