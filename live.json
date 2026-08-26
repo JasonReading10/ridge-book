@@ -1,5 +1,8 @@
 {
-  "generated": "2026-08-26T08:19:30Z",
-  "asOf": "2026-08-26T08:19:30Z",
-  "fx_aud_per_usd": 1.39821
+  "generated": "2026-08-26T21:36:58Z",
+  "asOf": "2026-08-26T21:36:58Z",
+  "fx_aud_per_usd": 1.396,
+  "ibkr_nlv_usd": 404875.09,
+  "joint_mv_aud_approx": 565000,
+  "note": "Restored full 97-position book to ridge-book after empty pack. No new fills. ATOM.AX."
 }
