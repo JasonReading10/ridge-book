@@ -1,8 +1,9 @@
 {
-  "generated": "2026-08-26T21:36:58Z",
-  "asOf": "2026-08-26T21:36:58Z",
-  "fx_aud_per_usd": 1.396,
-  "ibkr_nlv_usd": 404875.09,
+  "generated": "2026-08-26T21:45:46Z",
+  "asOf": "2026-08-26T21:45:46Z",
+  "session": "2026-08-26",
+  "fx_aud_per_usd": 1.3938,
+  "ibkr_nlv_usd": 404567.12,
   "joint_mv_aud_approx": 565000,
-  "note": "Restored full 97-position book to ridge-book after empty pack. No new fills. ATOM.AX."
+  "note": "IBKR Joint live marks 26-Aug US session + ASX 27-Aug open. No new fills. ATOM.AX. Qty/cost unchanged."
 }
