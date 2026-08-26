@@ -1,9 +1,10 @@
 {
-  "generated": "2026-08-26T21:49:00Z",
+  "generated": "2026-08-26T22:02:00Z",
   "asOf": "2026-08-26T21:49:00Z",
   "session": "2026-08-26",
   "fx_aud_per_usd": 1.3942,
   "ibkr_nlv_usd": 404943.51,
   "joint_mv_aud_approx": 564554.0,
-  "note": "Restored full book after thin ridge-book stub. IBKR Joint AH 26-Aug + TipRanks AH. ASX pre-open 27-Aug keep prior ATOM 22.24. No new fills. Qty/cost unchanged."
+  "positions": 97,
+  "note": "Full 97-line book restore in progress. Marks 26 Aug AH. Qty/cost unchanged."
 }
