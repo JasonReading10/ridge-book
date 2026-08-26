@@ -1,7 +1,7 @@
 {
   "asOf": "2026-08-25T23:53:51Z",
   "fx_aud_per_usd": 1.39821,
-  "source": "IBKR",
+  "source": "IBKR primary",
   "n": 10,
   "quotes": {
     "AMD": {

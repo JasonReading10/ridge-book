@@ -1,11 +1,12 @@
 # Daily Portfolio Brief · 2026-08-26
 
-Joint IBKR book closed ~US$405k NLV (A$566k at 1.398). NVDA 213.5, TSLA 350.3, TSM 417.7, AMD 478.5, GOOGL 346.8. No fills today; DAYS_7 empty. CMC 25-Aug ATOM sell / BSOL buys already in the book. Options still on prior last-prints.
+Webull Joint filled 25-Aug: bought MSTR $135 Jan-28 x1 @ 48.15, sold VRT $400 Jan-28 x1 @ 44.40 (closed). Net option cash about −US$375. No other new fills. CMC ATOM remainder 2319 / BSOL 1515 unchanged. IBKR DAYS_7 empty.
 
-Tech rebound helped the semiconductor sleeve after the prior week’s grind; NVDA snapped a seven-session slide and AMD caught an upgrade bounce. TSLA lagged the Mag7 set. Crypto wrappers mixed with Bitcoin near 80k.
+Book marks at last tape: NVDA 214, TSLA 351, TSM 418, AMD 482, GOOGL 347. Options otherwise Friday last-prints.
 
-Material item: Nvidia reports after the close. Consensus is still for ~97% revenue growth and double EPS; the market is treating the print as the next test of AI spend sustainability rather than a pure beat-and-raise day.
+Material: Marvell reports Thursday US. Book is long MRVL stock and calls.
 
-**Risk** — Guidance or commentary that softens the next-leg AI capex story, or another rate-driven de-rating of duration. **Reward** — Clean numbers plus any signal on Rubin ramp / China / hyperscaler follow-through would reset the tape for the whole compute book.
+**Risk** Concentrated AI-semiconductor and memory into earnings; options weight still large.
+**Reward** MRVL/NVDA if they deliver; BSOL/EBTC crypto beta without new stock capital.
 
-Hold the core. No forced adds into the print; watch post-call marks on NVDA, TSM, AMD and the LEAP complex before any size change.
+Stand aside on size into the prints. VRT 400 Joint is closed; new MSTR 135 is a 1-lot, not an add to SMSF MSTR 120s.

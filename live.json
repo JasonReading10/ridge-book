@@ -1,8 +1,5 @@
 {
-  "generated": "2026-08-26T07:58:29Z",
-  "asOf": "2026-08-26T07:58:29Z",
-  "fx_aud_per_usd": 1.39821,
-  "ibkr_nlv_usd": 404875.09,
-  "joint_mv_aud_approx": 566101.0,
-  "note": "IBKR Joint NLV US$404.9k. No DAYS_7 fills. CMC 25-Aug ATOM/BSOL already booked. Themes classified; ATOM.AX not Atomera."
+  "generated": "2026-08-26T08:19:30Z",
+  "asOf": "2026-08-26T08:19:30Z",
+  "fx_aud_per_usd": 1.39821
 }

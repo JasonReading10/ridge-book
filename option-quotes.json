@@ -1,10 +1,10 @@
 {
-  "priced_at": "2026-08-26T07:23:40Z",
+  "priced_at": "2026-08-26T08:19:30Z",
   "ibkr_account": {
     "id": "IBKR",
     "name": "Personal",
     "open_option_positions": 0,
-    "note": "No open option lines on the IBKR blotter."
+    "note": "No account identifiers."
   },
   "quotes": {
     "AMZN281215C00200000": {
@@ -762,6 +762,15 @@
       "source": "yahoo-last",
       "yahoo_last": 48.19,
       "as_of": "2026-08-21"
+    },
+    "MSTR280121C00135000": {
+      "price": 48.15,
+      "prev": 48.15,
+      "currency": "USD",
+      "name": "MSTR Jan 2028 135.000 call",
+      "source": "fill",
+      "yahoo_last": 48.15,
+      "as_of": "2026-08-25"
     }
   }
 }
