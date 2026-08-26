@@ -1,0 +1,17 @@
+{
+  "generated": "2026-08-26T07:23:40Z",
+  "asOf": "2026-08-25T23:53:51Z",
+  "files": [
+    "holdings.json",
+    "quotes.json",
+    "quotes-fallback.json",
+    "option-quotes.json",
+    "ibkr-tape.json",
+    "book-read.json",
+    "crypto.json",
+    "theme-overlay.json",
+    "desk-brief.md",
+    "live.json",
+    "manifest.json"
+  ]
+}

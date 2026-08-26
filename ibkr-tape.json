@@ -1,0 +1,140 @@
+{
+  "asOf": "2026-08-25T23:53:51Z",
+  "fx_aud_per_usd": 1.39821,
+  "source": "IBKR",
+  "n": 10,
+  "quotes": {
+    "AMD": {
+      "price": 479.1003113,
+      "prev": 481.7000122,
+      "currency": "USD",
+      "source": "ibkr"
+    },
+    "ARKQ": {
+      "price": 122.73999785,
+      "prev": 122.73999785,
+      "currency": "USD",
+      "source": "ibkr"
+    },
+    "AVGO": {
+      "price": 357.3800049,
+      "prev": 357.7000122,
+      "currency": "USD",
+      "source": "ibkr"
+    },
+    "CRYP": {
+      "price": 7.88999985,
+      "prev": 7.88999985,
+      "currency": "AUD",
+      "source": "ibkr"
+    },
+    "DRAM": {
+      "price": 55.9599991,
+      "prev": 56.27000045,
+      "currency": "USD",
+      "source": "ibkr"
+    },
+    "EBTC": {
+      "price": 10.8999996,
+      "prev": 10.8999996,
+      "currency": "AUD",
+      "source": "ibkr"
+    },
+    "GOOGL": {
+      "price": 346.3500061,
+      "prev": 347.1300049,
+      "currency": "USD",
+      "source": "ibkr"
+    },
+    "NVDA": {
+      "price": 213.5700073,
+      "prev": 214.1100006,
+      "currency": "USD",
+      "source": "ibkr"
+    },
+    "TSLA": {
+      "price": 350.55999755,
+      "prev": 350.75,
+      "currency": "USD",
+      "source": "ibkr"
+    },
+    "TSM": {
+      "price": 417.41000365,
+      "prev": 417.64001465,
+      "currency": "USD",
+      "source": "ibkr"
+    }
+  },
+  "marks": {
+    "AMD": {
+      "last": 479.1003113,
+      "prev": 481.7000122,
+      "currency": "USD",
+      "source": "IBKR",
+      "position": 45
+    },
+    "ARKQ": {
+      "last": 122.73999785,
+      "prev": 122.73999785,
+      "currency": "USD",
+      "source": "IBKR",
+      "position": 300
+    },
+    "AVGO": {
+      "last": 357.3800049,
+      "prev": 357.7000122,
+      "currency": "USD",
+      "source": "IBKR",
+      "position": 20
+    },
+    "CRYP": {
+      "last": 7.88999985,
+      "prev": 7.88999985,
+      "currency": "AUD",
+      "source": "IBKR",
+      "position": 2719
+    },
+    "DRAM": {
+      "last": 55.9599991,
+      "prev": 56.27000045,
+      "currency": "USD",
+      "source": "IBKR",
+      "position": 99
+    },
+    "EBTC": {
+      "last": 10.8999996,
+      "prev": 10.8999996,
+      "currency": "AUD",
+      "source": "IBKR",
+      "position": 3219
+    },
+    "GOOGL": {
+      "last": 346.3500061,
+      "prev": 347.1300049,
+      "currency": "USD",
+      "source": "IBKR",
+      "position": 200
+    },
+    "NVDA": {
+      "last": 213.5700073,
+      "prev": 214.1100006,
+      "currency": "USD",
+      "source": "IBKR",
+      "position": 200
+    },
+    "TSLA": {
+      "last": 350.55999755,
+      "prev": 350.75,
+      "currency": "USD",
+      "source": "IBKR",
+      "position": 375
+    },
+    "TSM": {
+      "last": 417.41000365,
+      "prev": 417.64001465,
+      "currency": "USD",
+      "source": "IBKR",
+      "position": 120
+    }
+  }
+}

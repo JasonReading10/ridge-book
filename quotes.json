@@ -1,0 +1,883 @@
+{
+  "AMD": {
+    "price": 479.1003113,
+    "prev": 481.7000122,
+    "currency": "USD",
+    "name": "Advanced Micro Devices, Inc.",
+    "exch": "NMS",
+    "source": "ibkr",
+    "stale": false
+  },
+  "ARKQ": {
+    "price": 122.73999785,
+    "prev": 122.73999785,
+    "currency": "USD",
+    "name": "ARK Autonomous Technology & Rob",
+    "exch": "BTS",
+    "source": "ibkr",
+    "stale": false
+  },
+  "AVGO": {
+    "price": 357.3800049,
+    "prev": 357.7000122,
+    "currency": "USD",
+    "name": "Broadcom Inc.",
+    "exch": "NMS",
+    "source": "ibkr",
+    "stale": false
+  },
+  "GOOGL": {
+    "price": 346.3500061,
+    "prev": 347.1300049,
+    "currency": "USD",
+    "name": "Alphabet Inc.",
+    "exch": "NMS",
+    "source": "ibkr",
+    "stale": false
+  },
+  "DRAM": {
+    "price": 55.9599991,
+    "prev": 56.27000045,
+    "currency": "USD",
+    "name": "Roundhill Memory ETF",
+    "exch": "BTS",
+    "source": "ibkr",
+    "stale": false
+  },
+  "NVDA": {
+    "price": 213.5700073,
+    "prev": 214.1100006,
+    "currency": "USD",
+    "name": "NVIDIA Corporation",
+    "exch": "NMS",
+    "source": "ibkr",
+    "stale": false
+  },
+  "TSLA": {
+    "price": 350.55999755,
+    "prev": 350.75,
+    "currency": "USD",
+    "name": "Tesla, Inc.",
+    "exch": "NMS",
+    "source": "ibkr",
+    "stale": false
+  },
+  "TSM": {
+    "price": 417.41000365,
+    "prev": 417.64001465,
+    "currency": "USD",
+    "name": "Taiwan Semiconductor Manufactur",
+    "exch": "NYQ",
+    "source": "ibkr",
+    "stale": false
+  },
+  "AIPO": {
+    "price": 28.42,
+    "prev": 28.91,
+    "currency": "USD",
+    "name": "Defiance AI & Power Infrastruct",
+    "exch": "NGM"
+  },
+  "ALAB": {
+    "price": 277.53,
+    "prev": 284.97,
+    "currency": "USD",
+    "name": "Astera Labs, Inc.",
+    "exch": "NMS"
+  },
+  "ARM": {
+    "price": 238.78,
+    "prev": 243.32,
+    "currency": "USD",
+    "name": "Arm Holdings plc",
+    "exch": "NMS"
+  },
+  "CRDO": {
+    "price": 222.61,
+    "prev": 230.57,
+    "currency": "USD",
+    "name": "Credo Technology Group Holding ",
+    "exch": "NMS"
+  },
+  "MRAM": {
+    "price": 16.14,
+    "prev": 17.11,
+    "currency": "USD",
+    "name": "Everspin Technologies, Inc.",
+    "exch": "NGM"
+  },
+  "MRVL": {
+    "price": 229.29,
+    "prev": 237.04,
+    "currency": "USD",
+    "name": "Marvell Technology, Inc.",
+    "exch": "NMS"
+  },
+  "MU": {
+    "price": 910.43,
+    "prev": 966.78,
+    "currency": "USD",
+    "name": "Micron Technology, Inc.",
+    "exch": "NMS"
+  },
+  "SNDK": {
+    "price": 1493.12,
+    "prev": 1596.08,
+    "currency": "USD",
+    "name": "Sandisk Corporation",
+    "exch": "NMS"
+  },
+  "VRT": {
+    "price": 254.97,
+    "prev": 261.95,
+    "currency": "USD",
+    "name": "Vertiv Holdings, LLC",
+    "exch": "NYQ"
+  },
+  "SPCX": {
+    "price": 135.0,
+    "prev": 136.97,
+    "currency": "USD",
+    "name": "Space Exploration Technologies ",
+    "exch": "NMS"
+  },
+  "AMZN": {
+    "price": 262.07,
+    "prev": 258.63,
+    "currency": "USD",
+    "name": "Amazon.com, Inc.",
+    "exch": "NMS"
+  },
+  "BSOL": {
+    "price": 13.25,
+    "prev": 12.48,
+    "currency": "USD",
+    "name": "Bitwise Solana Staking ETF",
+    "exch": "PCX"
+  },
+  "BTDR": {
+    "price": 10.91,
+    "prev": 11.37,
+    "currency": "USD",
+    "name": "Bitdeer Technologies Group",
+    "exch": "NCM"
+  },
+  "CBRS": {
+    "price": 185.43,
+    "prev": 196.13,
+    "currency": "USD",
+    "name": "Cerebras Systems Inc.",
+    "exch": "NMS"
+  },
+  "ENTG": {
+    "price": 138.25,
+    "prev": 143.66,
+    "currency": "USD",
+    "name": "Entegris, Inc.",
+    "exch": "NMS"
+  },
+  "INTC": {
+    "price": 87.26,
+    "prev": 90.07,
+    "currency": "USD",
+    "name": "Intel Corporation",
+    "exch": "NMS"
+  },
+  "NCLD": {
+    "price": 22.58,
+    "prev": 23.22,
+    "currency": "USD",
+    "name": "Roundhill Neocloud ETF",
+    "exch": "NGM"
+  },
+  "PLTR": {
+    "price": 175.89,
+    "prev": 179.94,
+    "currency": "USD",
+    "name": "Palantir Technologies Inc.",
+    "exch": "NMS"
+  },
+  "EUV": {
+    "price": 23.76,
+    "prev": 24.59,
+    "currency": "USD",
+    "name": "Corgi Lithography & Semiconduct",
+    "exch": "BTS"
+  },
+  "GLW": {
+    "price": 145.55,
+    "prev": 149.84,
+    "currency": "USD",
+    "name": "Corning Incorporated",
+    "exch": "NYQ"
+  },
+  "HPE": {
+    "price": 52.43,
+    "prev": 53.45,
+    "currency": "USD",
+    "name": "Hewlett Packard Enterprise Comp",
+    "exch": "NYQ"
+  },
+  "IBIT": {
+    "price": 44.64,
+    "prev": 43.68,
+    "currency": "USD",
+    "name": "iShares Bitcoin Trust ETF",
+    "exch": "NGM"
+  },
+  "LLY": {
+    "price": 1246.93,
+    "prev": 1255.4,
+    "currency": "USD",
+    "name": "Eli Lilly and Company",
+    "exch": "NYQ"
+  },
+  "MP": {
+    "price": 57.42,
+    "prev": 60.05,
+    "currency": "USD",
+    "name": "MP Materials Corp.",
+    "exch": "NYQ"
+  },
+  "QCOM": {
+    "price": 158.53,
+    "prev": 160.75,
+    "currency": "USD",
+    "name": "QUALCOMM Incorporated",
+    "exch": "NMS"
+  },
+  "TEM": {
+    "price": 66.17,
+    "prev": 72.69,
+    "currency": "USD",
+    "name": "Tempus AI, Inc.",
+    "exch": "NMS"
+  },
+  "VST": {
+    "price": 135.66,
+    "prev": 136.21,
+    "currency": "USD",
+    "name": "Vistra Corp.",
+    "exch": "NYQ"
+  },
+  "INFQ": {
+    "price": 12.5,
+    "prev": 13.41,
+    "currency": "USD",
+    "name": "Infleqtion, Inc.",
+    "exch": "NYSE"
+  },
+  "FLNC": {
+    "price": 10.86,
+    "prev": 11.34,
+    "currency": "USD",
+    "name": "Fluence Energy, Inc.",
+    "exch": "NMS"
+  },
+  "ETHI.AX": {
+    "price": 16.9,
+    "prev": 16.9,
+    "currency": "AUD",
+    "name": "BETASUST ETF UNITS [ETHI]",
+    "exch": "ASX"
+  },
+  "FETH": {
+    "price": 20.93,
+    "prev": 18.99,
+    "currency": "USD",
+    "name": "Fidelity Ethereum Fund",
+    "exch": "Cboe US"
+  },
+  "EETH": {
+    "price": 25.55,
+    "prev": 23.17,
+    "currency": "USD",
+    "name": "ProShares Ether ETF",
+    "exch": "NYSEArca"
+  },
+  "ETHE": {
+    "price": 16.93,
+    "prev": 15.36,
+    "currency": "USD",
+    "name": "Grayscale Ethereum Staking ETF ",
+    "exch": "NYSEArca"
+  },
+  "CRYP.AX": {
+    "price": 7.88999985,
+    "prev": 7.88999985,
+    "currency": "AUD",
+    "name": "BETACRYP ETF UNITS [CRYP]",
+    "exch": "ASX",
+    "source": "ibkr",
+    "stale": false
+  },
+  "ATOM.AX": {
+    "price": 21.24,
+    "prev": 20.89,
+    "currency": "AUD",
+    "name": "GBLXATOM ETF UNITS [ATOM]",
+    "exch": "ASX"
+  },
+  "SEMI.AX": {
+    "price": 34.54,
+    "prev": 35.49,
+    "currency": "AUD",
+    "name": "GBLX SEMI ETF UNITS [SEMI]",
+    "exch": "ASX"
+  },
+  "XMET.AX": {
+    "price": 16.13,
+    "prev": 15.67,
+    "currency": "AUD",
+    "name": "BETA XMET ETF UNITS [XMET]",
+    "exch": "ASX"
+  },
+  "AUDUSD=X": {
+    "price": 0.7152,
+    "prev": 0.7171,
+    "currency": "USD",
+    "name": "AUD/USD",
+    "exch": "CCY"
+  },
+  "EBTC": {
+    "price": 10.8999996,
+    "prev": 10.8999996,
+    "currency": "AUD",
+    "name": "Global X 21Shares Bitcoin ETF",
+    "exch": "CXA",
+    "source": "ibkr",
+    "stale": false
+  },
+  "AMZN281215C00200000": {
+    "price": 103.0,
+    "prev": 100.95,
+    "currency": "USD",
+    "name": "AMZN Dec 2028 200.000 call",
+    "exch": "OPR"
+  },
+  "AVGO270319C00350000": {
+    "price": 58.5,
+    "prev": 64.28,
+    "currency": "USD",
+    "name": "AVGO Mar 2027 350.000 call",
+    "exch": "OPR"
+  },
+  "BSOL261120C00015000": {
+    "price": 0.91,
+    "prev": 0.59,
+    "currency": "USD",
+    "name": "BSOL Nov 2026 15.000 call",
+    "exch": "OPR"
+  },
+  "BTDR280121C00010000": {
+    "price": 5.75,
+    "prev": 6.1,
+    "currency": "USD",
+    "name": "BTDR Jan 2028 10.000 call",
+    "exch": "OPR"
+  },
+  "CBRS280121C00200000": {
+    "price": 75.0,
+    "prev": 83.0,
+    "currency": "USD",
+    "name": "CBRS Jan 2028 200.000 call",
+    "exch": "OPR"
+  },
+  "CRDO261120C00290000": {
+    "price": 16.57,
+    "prev": 23.0,
+    "currency": "USD",
+    "name": "CRDO Nov 2026 290.000 call",
+    "exch": "OPR"
+  },
+  "ENTG280121C00170000": {
+    "price": 35.51,
+    "prev": 56.41,
+    "currency": "USD",
+    "name": "ENTG Jan 2028 170.000 call",
+    "exch": "OPR"
+  },
+  "GOOGL270319C00395000": {
+    "price": 22.15,
+    "prev": 20.95,
+    "currency": "USD",
+    "name": "GOOGL Mar 2027 395.000 call",
+    "exch": "OPR"
+  },
+  "GOOGL281215C00320000": {
+    "price": 105.05,
+    "prev": 101.0,
+    "currency": "USD",
+    "name": "GOOGL Dec 2028 320.000 call",
+    "exch": "OPR"
+  },
+  "INTC271217C00025000": {
+    "price": 65.23,
+    "prev": 67.7,
+    "currency": "USD",
+    "name": "INTC Dec 2027 25.000 call",
+    "exch": "OPR"
+  },
+  "MRVL270115C00077500": {
+    "price": 158.8,
+    "prev": 145.62,
+    "currency": "USD",
+    "name": "MRVL Jan 2027 77.500 call",
+    "exch": "OPR"
+  },
+  "MU280121C00330000": {
+    "price": 631.45,
+    "prev": 599.6,
+    "currency": "USD",
+    "name": "MU Jan 2028 330.000 call",
+    "exch": "OPR"
+  },
+  "NCLD270115C00030000": {
+    "price": 2.28,
+    "prev": 2.67,
+    "currency": "USD",
+    "name": "NCLD Jan 2027 30.000 call",
+    "exch": "OPR"
+  },
+  "NVDA261218C00130000": {
+    "price": 83.0,
+    "prev": 88.3,
+    "currency": "USD",
+    "name": "NVDA Dec 2026 130.000 call",
+    "exch": "OPR"
+  },
+  "NVDA271217C00110000": {
+    "price": 108.8,
+    "prev": 114.07,
+    "currency": "USD",
+    "name": "NVDA Dec 2027 110.000 call",
+    "exch": "OPR"
+  },
+  "NVDA271217C00155000": {
+    "price": 75.0,
+    "prev": 79.38,
+    "currency": "USD",
+    "name": "NVDA Dec 2027 155.000 call",
+    "exch": "OPR"
+  },
+  "NVDA281215C00170000": {
+    "price": 76.5,
+    "prev": 83.07,
+    "currency": "USD",
+    "name": "NVDA Dec 2028 170.000 call",
+    "exch": "OPR"
+  },
+  "PLTR281215C00110000": {
+    "price": 98.49,
+    "prev": 100.2,
+    "currency": "USD",
+    "name": "PLTR Dec 2028 110.000 call",
+    "exch": "OPR"
+  },
+  "TSLA270319C00410000": {
+    "price": 30.55,
+    "prev": 38.1,
+    "currency": "USD",
+    "name": "TSLA Mar 2027 410.000 call",
+    "exch": "OPR"
+  },
+  "TSLA270617C00300000": {
+    "price": 90.4,
+    "prev": 101.14,
+    "currency": "USD",
+    "name": "TSLA Jun 2027 300.000 call",
+    "exch": "OPR"
+  },
+  "TSLA270917C00390000": {
+    "price": 62.5,
+    "prev": 70.58,
+    "currency": "USD",
+    "name": "TSLA Sep 2027 390.000 call",
+    "exch": "OPR"
+  },
+  "TSLA281215C00400000": {
+    "price": 100.75,
+    "prev": 110.6,
+    "currency": "USD",
+    "name": "TSLA Dec 2028 400.000 call",
+    "exch": "OPR"
+  },
+  "VRT280121C00400000": {
+    "price": 45.2,
+    "prev": 45.75,
+    "currency": "USD",
+    "name": "VRT Jan 2028 400.000 call",
+    "exch": "OPR"
+  },
+  "AVGO261218C00420000": {
+    "price": 19.34,
+    "prev": 22.9,
+    "currency": "USD",
+    "name": "AVGO Dec 2026 420.000 call",
+    "exch": "OPR"
+  },
+  "BSOL261120C00010000": {
+    "price": 3.7,
+    "prev": 2.9,
+    "currency": "USD",
+    "name": "BSOL Nov 2026 10.000 call",
+    "exch": "OPR"
+  },
+  "BSOL261120C00012000": {
+    "price": 2.33,
+    "prev": 1.65,
+    "currency": "USD",
+    "name": "BSOL Nov 2026 12.000 call",
+    "exch": "OPR"
+  },
+  "BSOL270219C00010000": {
+    "price": 4.2,
+    "prev": 3.4,
+    "currency": "USD",
+    "name": "BSOL Feb 2027 10.000 call",
+    "exch": "OPR"
+  },
+  "BSOL270219C00011000": {
+    "price": 3.55,
+    "prev": 2.94,
+    "currency": "USD",
+    "name": "BSOL Feb 2027 11.000 call",
+    "exch": "OPR"
+  },
+  "DRAM270115C00060000": {
+    "price": 7.6,
+    "prev": 9.68,
+    "currency": "USD",
+    "name": "DRAM Jan 2027 60.000 call",
+    "exch": "OPR"
+  },
+  "EUV261218C00025000": {
+    "price": 2.9,
+    "prev": 3.5,
+    "currency": "USD",
+    "name": "EUV Dec 2026 25.000 call",
+    "exch": "OPR"
+  },
+  "GLW280121C00155000": {
+    "price": 45.09,
+    "prev": 49.0,
+    "currency": "USD",
+    "name": "GLW Jan 2028 155.000 call",
+    "exch": "OPR"
+  },
+  "GOOGL281215C00350000": {
+    "price": 90.9,
+    "prev": 90.3,
+    "currency": "USD",
+    "name": "GOOGL Dec 2028 350.000 call",
+    "exch": "OPR"
+  },
+  "HPE280121C00040000": {
+    "price": 22.25,
+    "prev": 22.75,
+    "currency": "USD",
+    "name": "HPE Jan 2028 40.000 call",
+    "exch": "OPR"
+  },
+  "HPE280121C00050000": {
+    "price": 17.6,
+    "prev": 18.5,
+    "currency": "USD",
+    "name": "HPE Jan 2028 50.000 call",
+    "exch": "OPR"
+  },
+  "IBIT261218C00040000": {
+    "price": 7.3,
+    "prev": 6.63,
+    "currency": "USD",
+    "name": "IBIT Dec 2026 40.000 call",
+    "exch": "OPR"
+  },
+  "IBIT270319C00040000": {
+    "price": 8.8,
+    "prev": 8.4,
+    "currency": "USD",
+    "name": "IBIT Mar 2027 40.000 call",
+    "exch": "OPR"
+  },
+  "IBIT280121C00040000": {
+    "price": 13.65,
+    "prev": 13.0,
+    "currency": "USD",
+    "name": "IBIT Jan 2028 40.000 call",
+    "exch": "OPR"
+  },
+  "IBIT281215C00037000": {
+    "price": 19.17,
+    "prev": 18.57,
+    "currency": "USD",
+    "name": "IBIT Dec 2028 37.000 call",
+    "exch": "OPR"
+  },
+  "INTC281215C00090000": {
+    "price": 36.84,
+    "prev": 39.25,
+    "currency": "USD",
+    "name": "INTC Dec 2028 90.000 call",
+    "exch": "OPR"
+  },
+  "LLY280121C01120000": {
+    "price": 330.1,
+    "prev": 296.0,
+    "currency": "USD",
+    "name": "LLY Jan 2028 1120.000 call",
+    "exch": "OPR"
+  },
+  "MP280121C00060000": {
+    "price": 18.54,
+    "prev": 20.13,
+    "currency": "USD",
+    "name": "MP Jan 2028 60.000 call",
+    "exch": "OPR"
+  },
+  "MRVL270115C00240000": {
+    "price": 41.4,
+    "prev": 45.1,
+    "currency": "USD",
+    "name": "MRVL Jan 2027 240.000 call",
+    "exch": "OPR"
+  },
+  "MRVL280616C00180000": {
+    "price": 113.05,
+    "prev": 123.75,
+    "currency": "USD",
+    "name": "MRVL Jun 2028 180.000 call",
+    "exch": "OPR"
+  },
+  "MU270617C00500000": {
+    "price": 460.31,
+    "prev": 486.77,
+    "currency": "USD",
+    "name": "MU Jun 2027 500.000 call",
+    "exch": "OPR"
+  },
+  "PLTR270219C00110000": {
+    "price": 68.37,
+    "prev": 70.65,
+    "currency": "USD",
+    "name": "PLTR Feb 2027 110.000 call",
+    "exch": "OPR"
+  },
+  "PLTR270917C00140000": {
+    "price": 60.3,
+    "prev": 65.2,
+    "currency": "USD",
+    "name": "PLTR Sep 2027 140.000 call",
+    "exch": "OPR"
+  },
+  "QCOM280121C00150000": {
+    "price": 41.55,
+    "prev": 45.0,
+    "currency": "USD",
+    "name": "QCOM Jan 2028 150.000 call",
+    "exch": "OPR"
+  },
+  "SPCX261120C00180000": {
+    "price": 4.94,
+    "prev": 5.91,
+    "currency": "USD",
+    "name": "SPCX Nov 2026 180.000 call",
+    "exch": "OPR"
+  },
+  "SPCX261120C00195000": {
+    "price": 3.3,
+    "prev": 4.0,
+    "currency": "USD",
+    "name": "SPCX Nov 2026 195.000 call",
+    "exch": "OPR"
+  },
+  "SPCX270319C00165000": {
+    "price": 15.73,
+    "prev": 17.3,
+    "currency": "USD",
+    "name": "SPCX Mar 2027 165.000 call",
+    "exch": "OPR"
+  },
+  "SPCX281215C00115000": {
+    "price": 60.45,
+    "prev": 62.0,
+    "currency": "USD",
+    "name": "SPCX Dec 2028 115.000 call",
+    "exch": "OPR"
+  },
+  "TEM281215C00065000": {
+    "price": 31.9,
+    "prev": 32.0,
+    "currency": "USD",
+    "name": "TEM Dec 2028 65.000 call",
+    "exch": "OPR"
+  },
+  "TSLA270917C00300000": {
+    "price": 100.0,
+    "prev": 113.25,
+    "currency": "USD",
+    "name": "TSLA Sep 2027 300.000 call",
+    "exch": "OPR"
+  },
+  "TSLA281215C00390000": {
+    "price": 103.75,
+    "prev": 115.43,
+    "currency": "USD",
+    "name": "TSLA Dec 2028 390.000 call",
+    "exch": "OPR"
+  },
+  "VRT280121C00260000": {
+    "price": 78.86,
+    "prev": 82.49,
+    "currency": "USD",
+    "name": "VRT Jan 2028 260.000 call",
+    "exch": "OPR"
+  },
+  "VST280121C00145000": {
+    "price": 31.85,
+    "prev": 33.04,
+    "currency": "USD",
+    "name": "VST Jan 2028 145.000 call",
+    "stale": false,
+    "source": "yahoo-last"
+  },
+  "ANET": {
+    "price": 188.15,
+    "prev": 188.65,
+    "currency": "USD",
+    "name": "Arista Networks, Inc.",
+    "exch": "NYQ"
+  },
+  "ETN": {
+    "price": 408.67,
+    "prev": 419.2,
+    "currency": "USD",
+    "name": "Eaton Corporation, PLC",
+    "exch": "NYQ"
+  },
+  "EBTC.AX": {
+    "price": 10.8999996,
+    "prev": 10.8999996,
+    "currency": "AUD",
+    "name": "Global X 21Shares Bitcoin ETF",
+    "exch": "CXA",
+    "source": "ibkr",
+    "stale": false
+  },
+  "EBTC.XA": {
+    "price": 10.8999996,
+    "prev": 10.8999996,
+    "currency": "AUD",
+    "name": "Global X 21Shares Bitcoin ETF",
+    "exch": "CXA",
+    "source": "ibkr",
+    "stale": false
+  },
+  "IBIT281215C00036000": {
+    "price": 19.85,
+    "prev": 18.99,
+    "currency": "USD",
+    "name": "IBIT Dec 2028 36.000 call",
+    "exch": "OPR"
+  },
+  "ANET270115C00190000": {
+    "price": 27.0,
+    "prev": 23.66,
+    "currency": "USD",
+    "name": "ANET Jan 2027 190.000 call",
+    "source": "yahoo-last"
+  },
+  "SPCX281215C00140000": {
+    "price": 51.55,
+    "prev": 53.5,
+    "currency": "USD",
+    "name": "SPCX Dec 2028 140.000 call",
+    "exch": "OPR"
+  },
+  "ETN280121C00420000": {
+    "price": 91.0,
+    "prev": 92.2,
+    "currency": "USD",
+    "name": "ETN Jan 2028 420.000 call",
+    "exch": "OPR"
+  },
+  "TSM280121C00400000": {
+    "price": 96.8,
+    "prev": 102.8,
+    "currency": "USD",
+    "name": "TSM Jan 2028 400.000 call",
+    "exch": "OPR"
+  },
+  "BMNR": {
+    "price": 24.14,
+    "prev": 22.83,
+    "currency": "USD",
+    "name": "BitMine Immersion Technologies,",
+    "exch": "NYQ"
+  },
+  "MSTR": {
+    "price": 122.63,
+    "prev": 119.25,
+    "currency": "USD",
+    "name": "Strategy Inc",
+    "exch": "NMS"
+  },
+  "BMNR280121C00030000": {
+    "price": 8.35,
+    "prev": 7.51,
+    "currency": "USD",
+    "name": "BMNR Jan 2028 30.000 call",
+    "exch": "OPR"
+  },
+  "MSTR280121C00120000": {
+    "price": 50.0,
+    "prev": 48.19,
+    "currency": "USD",
+    "name": "MSTR Jan 2028 120.000 call",
+    "exch": "OPR"
+  },
+  "ATOM": {
+    "price": 21.24,
+    "prev": 20.89,
+    "currency": "AUD",
+    "name": "GBLXATOM ETF UNITS [ATOM]",
+    "exch": "ASX"
+  },
+  "CRYP": {
+    "price": 7.88999985,
+    "prev": 7.88999985,
+    "currency": "AUD",
+    "name": "BETACRYP ETF UNITS [CRYP]",
+    "exch": "ASX",
+    "source": "ibkr",
+    "stale": false
+  },
+  "SEMI": {
+    "price": 34.54,
+    "prev": 35.49,
+    "currency": "AUD",
+    "name": "GBLX SEMI ETF UNITS [SEMI]",
+    "exch": "ASX"
+  },
+  "SMH": {
+    "price": 546.8,
+    "prev": 560.42,
+    "currency": "USD",
+    "name": "VanEck Semiconductor ETF",
+    "exch": "NGM"
+  },
+  "SPY": {
+    "price": 763.47,
+    "prev": 765.72,
+    "currency": "USD",
+    "name": "State Street SPDR S&P 500 ETF T",
+    "exch": "PCX"
+  },
+  "XMET": {
+    "price": 16.13,
+    "prev": 15.67,
+    "currency": "AUD",
+    "name": "BETA XMET ETF UNITS [XMET]",
+    "exch": "ASX"
+  }
+}

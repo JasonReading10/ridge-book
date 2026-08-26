@@ -1,0 +1,13 @@
+{
+  "asOf": "2026-08-26",
+  "note": "Crypto / BTC-SOL wrappers. Daily and after-trade MUST append a ticker here when a new fill is a miner, DAT, BTC/ETH/SOL ETF, or crypto wrapper. BSOL is crypto. CBRS and NCLD are not crypto.",
+  "symbols": [
+    "IBIT",
+    "BSOL",
+    "BTDR",
+    "CRYP",
+    "EBTC",
+    "BMNR",
+    "MSTR"
+  ]
+}

@@ -1,0 +1,806 @@
+{
+  "asOf": "2026-08-22",
+  "source": "src/data/baskets.ts",
+  "names": [
+    {
+      "symbol": "MU",
+      "yahoo": "MU",
+      "name": "Micron",
+      "inTen": true,
+      "in25": true,
+      "satellite": false
+    },
+    {
+      "symbol": "DELL",
+      "yahoo": "DELL",
+      "name": "Dell",
+      "inTen": true,
+      "in25": true,
+      "satellite": false
+    },
+    {
+      "symbol": "AMD",
+      "yahoo": "AMD",
+      "name": "AMD",
+      "inTen": false,
+      "in25": true,
+      "satellite": false
+    },
+    {
+      "symbol": "INTC",
+      "yahoo": "INTC",
+      "name": "Intel",
+      "inTen": true,
+      "in25": true,
+      "satellite": false
+    },
+    {
+      "symbol": "P",
+      "yahoo": "P",
+      "name": "Everpure",
+      "inTen": false,
+      "in25": true,
+      "satellite": false
+    },
+    {
+      "symbol": "ANET",
+      "yahoo": "ANET",
+      "name": "Arista",
+      "inTen": false,
+      "in25": true,
+      "satellite": false
+    },
+    {
+      "symbol": "VRT",
+      "yahoo": "VRT",
+      "name": "Vertiv",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "CSCO",
+      "yahoo": "CSCO",
+      "name": "Cisco",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "000660",
+      "yahoo": "000660.KS",
+      "name": "SK hynix",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "SU",
+      "yahoo": "SU.PA",
+      "name": "Schneider",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "TSM",
+      "yahoo": "TSM",
+      "name": "TSMC",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "SMCI",
+      "yahoo": "SMCI",
+      "name": "Super Micro",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "HPE",
+      "yahoo": "HPE",
+      "name": "HPE",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "ALAB",
+      "yahoo": "ALAB",
+      "name": "Astera Labs",
+      "inTen": false,
+      "in25": true,
+      "satellite": false
+    },
+    {
+      "symbol": "MRVL",
+      "yahoo": "MRVL",
+      "name": "Marvell",
+      "inTen": true,
+      "in25": true,
+      "satellite": false
+    },
+    {
+      "symbol": "GLW",
+      "yahoo": "GLW",
+      "name": "Corning",
+      "inTen": true,
+      "in25": true,
+      "satellite": false
+    },
+    {
+      "symbol": "COHR",
+      "yahoo": "COHR",
+      "name": "Coherent",
+      "inTen": false,
+      "in25": true,
+      "satellite": false
+    },
+    {
+      "symbol": "NVDA",
+      "yahoo": "NVDA",
+      "name": "NVIDIA",
+      "inTen": true,
+      "in25": true,
+      "satellite": false
+    },
+    {
+      "symbol": "CIEN",
+      "yahoo": "CIEN",
+      "name": "Ciena",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "FN",
+      "yahoo": "FN",
+      "name": "Fabrinet",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "APH",
+      "yahoo": "APH",
+      "name": "Amphenol",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "VIAV",
+      "yahoo": "VIAV",
+      "name": "Viavi",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "PRY",
+      "yahoo": "PRY.MI",
+      "name": "Prysmian",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "AAOI",
+      "yahoo": "AAOI",
+      "name": "Applied Opto",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "VISN",
+      "yahoo": "VISN",
+      "name": "Vistance",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "LITE",
+      "yahoo": "LITE",
+      "name": "Lumentum",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "BDC",
+      "yahoo": "BDC",
+      "name": "Belden",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "CRDO",
+      "yahoo": "CRDO",
+      "name": "Credo",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "SOTL",
+      "yahoo": "SOTL.NS",
+      "name": "Sterlite",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "CLFD",
+      "yahoo": "CLFD",
+      "name": "Clearfield",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "EXTR",
+      "yahoo": "EXTR",
+      "name": "Extreme",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "QCOM",
+      "yahoo": "QCOM",
+      "name": "Qualcomm",
+      "inTen": false,
+      "in25": true,
+      "satellite": false
+    },
+    {
+      "symbol": "IFX",
+      "yahoo": "IFNNY",
+      "name": "Infineon",
+      "inTen": false,
+      "in25": true,
+      "satellite": false
+    },
+    {
+      "symbol": "CDNS",
+      "yahoo": "CDNS",
+      "name": "Cadence",
+      "inTen": false,
+      "in25": true,
+      "satellite": false
+    },
+    {
+      "symbol": "ASML",
+      "yahoo": "ASML",
+      "name": "ASML",
+      "inTen": false,
+      "in25": true,
+      "satellite": false
+    },
+    {
+      "symbol": "6857",
+      "yahoo": "6857.T",
+      "name": "Advantest",
+      "inTen": false,
+      "in25": true,
+      "satellite": false
+    },
+    {
+      "symbol": "SIE",
+      "yahoo": "SIE.DE",
+      "name": "Siemens",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "LSCC",
+      "yahoo": "LSCC",
+      "name": "Lattice",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "4062",
+      "yahoo": "4062.T",
+      "name": "Ibiden",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "KLAC",
+      "yahoo": "KLAC",
+      "name": "KLA",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "AMKR",
+      "yahoo": "AMKR",
+      "name": "Amkor",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "BESI",
+      "yahoo": "BESI.AS",
+      "name": "BESI",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "6146",
+      "yahoo": "6146.T",
+      "name": "Disco",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "AIP",
+      "yahoo": "AIP",
+      "name": "Arteris",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "AVGO",
+      "yahoo": "AVGO",
+      "name": "Broadcom",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "NXPI",
+      "yahoo": "NXPI",
+      "name": "NXP",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "RMBS",
+      "yahoo": "RMBS",
+      "name": "Rambus",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "HO",
+      "yahoo": "HO.PA",
+      "name": "Thales",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "SNPS",
+      "yahoo": "SNPS",
+      "name": "Synopsys",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "SOI",
+      "yahoo": "SOI.PA",
+      "name": "Soitec",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "ARM",
+      "yahoo": "ARM",
+      "name": "Arm",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "6526",
+      "yahoo": "6526.T",
+      "name": "Socionext",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "MOD",
+      "yahoo": "MOD",
+      "name": "Modine",
+      "inTen": true,
+      "in25": true,
+      "satellite": false
+    },
+    {
+      "symbol": "BE",
+      "yahoo": "BE",
+      "name": "Bloom Energy",
+      "inTen": false,
+      "in25": true,
+      "satellite": false
+    },
+    {
+      "symbol": "CAT",
+      "yahoo": "CAT",
+      "name": "Caterpillar",
+      "inTen": true,
+      "in25": true,
+      "satellite": false
+    },
+    {
+      "symbol": "CVX",
+      "yahoo": "CVX",
+      "name": "Chevron",
+      "inTen": false,
+      "in25": true,
+      "satellite": false
+    },
+    {
+      "symbol": "ETN",
+      "yahoo": "ETN",
+      "name": "Eaton",
+      "inTen": true,
+      "in25": true,
+      "satellite": false
+    },
+    {
+      "symbol": "XOM",
+      "yahoo": "XOM",
+      "name": "Exxon",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "FLNC",
+      "yahoo": "FLNC",
+      "name": "Fluence",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "HUBB",
+      "yahoo": "HUBB",
+      "name": "Hubbell",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "NVT",
+      "yahoo": "NVT",
+      "name": "nVent",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "POWL",
+      "yahoo": "POWL",
+      "name": "Powell",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "PWR",
+      "yahoo": "PWR",
+      "name": "Quanta",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "D",
+      "yahoo": "D",
+      "name": "Dominion",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "EME",
+      "yahoo": "EME",
+      "name": "EMCOR",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "ETR",
+      "yahoo": "ETR",
+      "name": "Entergy",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "EOSE",
+      "yahoo": "EOSE",
+      "name": "Eos",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "GEV",
+      "yahoo": "GEV",
+      "name": "GE Vernova",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "J",
+      "yahoo": "J",
+      "name": "Jacobs",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "NEE",
+      "yahoo": "NEE",
+      "name": "NextEra",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "WMB",
+      "yahoo": "WMB",
+      "name": "Williams",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "BIPC",
+      "yahoo": "BIPC",
+      "name": "Brookfield Infra",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "CEG",
+      "yahoo": "CEG",
+      "name": "Constellation",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "ET",
+      "yahoo": "ET",
+      "name": "Energy Transfer",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "KMI",
+      "yahoo": "KMI",
+      "name": "Kinder Morgan",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "TT",
+      "yahoo": "TT",
+      "name": "Trane",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "ACM",
+      "yahoo": "ACM",
+      "name": "AECOM",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "VST",
+      "yahoo": "VST",
+      "name": "Vistra",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "MKSI",
+      "yahoo": "MKSI",
+      "name": "MKS",
+      "inTen": false,
+      "in25": true,
+      "satellite": false
+    },
+    {
+      "symbol": "ENTG",
+      "yahoo": "ENTG",
+      "name": "Entegris",
+      "inTen": false,
+      "in25": true,
+      "satellite": false
+    },
+    {
+      "symbol": "4063",
+      "yahoo": "4063.T",
+      "name": "Shin-Etsu",
+      "inTen": false,
+      "in25": true,
+      "satellite": false
+    },
+    {
+      "symbol": "CC",
+      "yahoo": "CC",
+      "name": "Chemours",
+      "inTen": true,
+      "in25": true,
+      "satellite": false
+    },
+    {
+      "symbol": "2802",
+      "yahoo": "2802.T",
+      "name": "Ajinomoto",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "ESI",
+      "yahoo": "ESI",
+      "name": "Element Solutions",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "4203",
+      "yahoo": "4203.T",
+      "name": "Sumitomo Bakelite",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "4186",
+      "yahoo": "4186.T",
+      "name": "TOK",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "MRN",
+      "yahoo": "MRN.PA",
+      "name": "Mersen",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "ROG",
+      "yahoo": "ROG",
+      "name": "Rogers",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "CE",
+      "yahoo": "CE",
+      "name": "Celanese",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "HEN3",
+      "yahoo": "HEN3.DE",
+      "name": "Henkel",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "Q",
+      "yahoo": "Q",
+      "name": "Qnity",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "MRK",
+      "yahoo": "MRK.DE",
+      "name": "Merck KGaA",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "CBT",
+      "yahoo": "CBT",
+      "name": "Cabot",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "AKE",
+      "yahoo": "AKE.PA",
+      "name": "Arkema",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "VCT",
+      "yahoo": "VCT.L",
+      "name": "Victrex",
+      "inTen": false,
+      "in25": false,
+      "satellite": false
+    },
+    {
+      "symbol": "PLTR",
+      "yahoo": "PLTR",
+      "name": "Palantir",
+      "inTen": false,
+      "in25": false,
+      "satellite": true
+    },
+    {
+      "symbol": "LLY",
+      "yahoo": "LLY",
+      "name": "Eli Lilly",
+      "inTen": false,
+      "in25": false,
+      "satellite": true
+    },
+    {
+      "symbol": "EWZ",
+      "yahoo": "EWZ",
+      "name": "Brazil",
+      "inTen": false,
+      "in25": false,
+      "satellite": true
+    },
+    {
+      "symbol": "SLV",
+      "yahoo": "SLV",
+      "name": "Silver",
+      "inTen": false,
+      "in25": false,
+      "satellite": true
+    },
+    {
+      "symbol": "IBIT",
+      "yahoo": "IBIT",
+      "name": "Bitcoin",
+      "inTen": false,
+      "in25": false,
+      "satellite": true
+    }
+  ]
+}
