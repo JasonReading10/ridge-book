@@ -1,10 +1,10 @@
 {
-  "generated": "2026-08-26T22:02:00Z",
+  "generated": "2026-08-26T22:03:00Z",
   "asOf": "2026-08-26T21:49:00Z",
   "session": "2026-08-26",
   "fx_aud_per_usd": 1.3942,
   "ibkr_nlv_usd": 404943.51,
-  "joint_mv_aud_approx": 564554.0,
-  "positions": 97,
-  "note": "Full 97-line book restore in progress. Marks 26 Aug AH. Qty/cost unchanged."
+  "positions_published": 33,
+  "positions_full_local": 97,
+  "note": "Stock lines restored (33). Option legs still local-only — GitHub write cap. Marks 26 Aug AH. Hard refresh the desk."
 }
