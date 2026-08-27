@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-27T02:52:47Z",
-  "asOf": "2026-08-27T02:52:47Z",
-  "session": "2026-08-26",
+  "generated": "2026-08-28T00:00:00Z",
+  "asOf": "2026-08-28T00:00:00Z",
+  "session": "2026-08-27",
   "fx_aud_per_usd": 1.39416,
-  "n_positions": 97,
-  "n_stocks": 33,
-  "n_options": 64
+  "ibkr_nlv_usd": 409190.08,
+  "joint_mv_aud_approx": 570500.0,
+  "note": "IBKR Joint live 28-Aug + TipRanks AH 27-Aug. No new fills. Qty/cost unchanged. ATOM.AX 22.00."
 }

@@ -1,7 +1,7 @@
 {
   "AMD": {
-    "price": 479.1003113,
-    "prev": 481.7000122,
+    "price": 482.00698855,
+    "prev": 479.18,
     "currency": "USD",
     "name": "Advanced Micro Devices, Inc.",
     "exch": "NMS",
@@ -9,8 +9,8 @@
     "stale": false
   },
   "ARKQ": {
-    "price": 122.73999785,
-    "prev": 122.73999785,
+    "price": 122.33000185,
+    "prev": 122.74,
     "currency": "USD",
     "name": "ARK Autonomous Technology & Rob",
     "exch": "BTS",
@@ -18,8 +18,8 @@
     "stale": false
   },
   "AVGO": {
-    "price": 357.3800049,
-    "prev": 357.7000122,
+    "price": 357.7788086,
+    "prev": 356.74,
     "currency": "USD",
     "name": "Broadcom Inc.",
     "exch": "NMS",
@@ -27,8 +27,8 @@
     "stale": false
   },
   "GOOGL": {
-    "price": 346.3500061,
-    "prev": 347.1300049,
+    "price": 341.82998655,
+    "prev": 346.96,
     "currency": "USD",
     "name": "Alphabet Inc.",
     "exch": "NMS",
@@ -36,8 +36,8 @@
     "stale": false
   },
   "DRAM": {
-    "price": 55.9599991,
-    "prev": 56.27000045,
+    "price": 58.4900017,
+    "prev": 56.24,
     "currency": "USD",
     "name": "Roundhill Memory ETF",
     "exch": "BTS",
@@ -45,8 +45,8 @@
     "stale": false
   },
   "NVDA": {
-    "price": 213.5700073,
-    "prev": 214.1100006,
+    "price": 219.6114044,
+    "prev": 213.05,
     "currency": "USD",
     "name": "NVIDIA Corporation",
     "exch": "NMS",
@@ -54,8 +54,8 @@
     "stale": false
   },
   "TSLA": {
-    "price": 350.55999755,
-    "prev": 350.75,
+    "price": 347.70999145,
+    "prev": 350.25,
     "currency": "USD",
     "name": "Tesla, Inc.",
     "exch": "NMS",
@@ -63,8 +63,8 @@
     "stale": false
   },
   "TSM": {
-    "price": 417.41000365,
-    "prev": 417.64001465,
+    "price": 423.83999635,
+    "prev": 417.41,
     "currency": "USD",
     "name": "Taiwan Semiconductor Manufactur",
     "exch": "NYQ",
@@ -72,130 +72,166 @@
     "stale": false
   },
   "AIPO": {
-    "price": 28.42,
-    "prev": 28.91,
+    "price": 29.33,
+    "prev": 28.72,
     "currency": "USD",
     "name": "Defiance AI & Power Infrastruct",
-    "exch": "NGM"
+    "exch": "NGM",
+    "source": "tipranks",
+    "stale": false
   },
   "ALAB": {
-    "price": 277.53,
-    "prev": 284.97,
+    "price": 297.86,
+    "prev": 282.65,
     "currency": "USD",
     "name": "Astera Labs, Inc.",
-    "exch": "NMS"
+    "exch": "NMS",
+    "source": "tipranks",
+    "stale": false
   },
   "ARM": {
-    "price": 238.78,
-    "prev": 243.32,
+    "price": 262.61,
+    "prev": 241.56,
     "currency": "USD",
     "name": "Arm Holdings plc",
-    "exch": "NMS"
+    "exch": "NMS",
+    "source": "tipranks",
+    "stale": false
   },
   "CRDO": {
-    "price": 222.61,
-    "prev": 230.57,
+    "price": 234.71,
+    "prev": 226.51,
     "currency": "USD",
     "name": "Credo Technology Group Holding ",
-    "exch": "NMS"
+    "exch": "NMS",
+    "source": "tipranks",
+    "stale": false
   },
   "MRAM": {
-    "price": 16.14,
-    "prev": 17.11,
+    "price": 18.3,
+    "prev": 17.63,
     "currency": "USD",
     "name": "Everspin Technologies, Inc.",
-    "exch": "NGM"
+    "exch": "NGM",
+    "source": "tipranks",
+    "stale": false
   },
   "MRVL": {
-    "price": 229.29,
-    "prev": 237.04,
+    "price": 253.88,
+    "prev": 240.38,
     "currency": "USD",
     "name": "Marvell Technology, Inc.",
-    "exch": "NMS"
+    "exch": "NMS",
+    "source": "tipranks",
+    "stale": false
   },
   "MU": {
-    "price": 910.43,
-    "prev": 966.78,
+    "price": 971.57,
+    "prev": 932.97,
     "currency": "USD",
     "name": "Micron Technology, Inc.",
-    "exch": "NMS"
+    "exch": "NMS",
+    "source": "tipranks",
+    "stale": false
   },
   "SNDK": {
-    "price": 1493.12,
-    "prev": 1596.08,
+    "price": 1554.78,
+    "prev": 1480.77,
     "currency": "USD",
     "name": "Sandisk Corporation",
-    "exch": "NMS"
+    "exch": "NMS",
+    "source": "tipranks",
+    "stale": false
   },
   "VRT": {
-    "price": 254.97,
-    "prev": 261.95,
+    "price": 271.47,
+    "prev": 255.75,
     "currency": "USD",
     "name": "Vertiv Holdings, LLC",
-    "exch": "NYQ"
+    "exch": "NYQ",
+    "source": "tipranks",
+    "stale": false
   },
   "SPCX": {
-    "price": 135.0,
-    "prev": 136.97,
+    "price": 140.41,
+    "prev": 137.95,
     "currency": "USD",
     "name": "Space Exploration Technologies ",
-    "exch": "NMS"
+    "exch": "NMS",
+    "source": "tipranks",
+    "stale": false
   },
   "AMZN": {
-    "price": 262.07,
-    "prev": 258.63,
+    "price": 262.6,
+    "prev": 261.06,
     "currency": "USD",
     "name": "Amazon.com, Inc.",
-    "exch": "NMS"
+    "exch": "NMS",
+    "source": "tipranks",
+    "stale": false
   },
   "BSOL": {
-    "price": 13.25,
-    "prev": 12.48,
+    "price": 13.3309,
+    "prev": 13.44,
     "currency": "USD",
     "name": "Bitwise Solana Staking ETF",
-    "exch": "PCX"
+    "exch": "PCX",
+    "source": "tipranks",
+    "stale": false
   },
   "BTDR": {
-    "price": 10.91,
-    "prev": 11.37,
+    "price": 10.81,
+    "prev": 11.29,
     "currency": "USD",
     "name": "Bitdeer Technologies Group",
-    "exch": "NCM"
+    "exch": "NCM",
+    "source": "tipranks",
+    "stale": false
   },
   "CBRS": {
-    "price": 185.43,
-    "prev": 196.13,
+    "price": 187.75,
+    "prev": 183.915,
     "currency": "USD",
     "name": "Cerebras Systems Inc.",
-    "exch": "NMS"
+    "exch": "NMS",
+    "source": "tipranks",
+    "stale": false
   },
   "ENTG": {
-    "price": 138.25,
-    "prev": 143.66,
+    "price": 143.48,
+    "prev": 138.87,
     "currency": "USD",
     "name": "Entegris, Inc.",
-    "exch": "NMS"
+    "exch": "NMS",
+    "source": "tipranks",
+    "stale": false
   },
   "INTC": {
-    "price": 87.26,
-    "prev": 90.07,
+    "price": 89.71,
+    "prev": 87.48,
     "currency": "USD",
     "name": "Intel Corporation",
-    "exch": "NMS"
+    "exch": "NMS",
+    "source": "tipranks",
+    "stale": false
   },
   "NCLD": {
-    "price": 22.58,
-    "prev": 23.22,
+    "price": 24.0,
+    "prev": 23.72,
     "currency": "USD",
     "name": "Roundhill Neocloud ETF",
-    "exch": "NGM"
+    "exch": "NGM",
+    "source": "tipranks",
+    "stale": false
   },
   "PLTR": {
-    "price": 175.89,
-    "prev": 179.94,
+    "price": 177.56,
+    "prev": 172.73,
     "currency": "USD",
     "name": "Palantir Technologies Inc.",
-    "exch": "NMS"
+    "exch": "NMS",
+    "source": "tipranks",
+    "stale": false
   },
   "EUV": {
     "price": 23.76,
@@ -205,53 +241,67 @@
     "exch": "BTS"
   },
   "GLW": {
-    "price": 145.55,
-    "prev": 149.84,
+    "price": 156.0,
+    "prev": 147.16,
     "currency": "USD",
     "name": "Corning Incorporated",
-    "exch": "NYQ"
+    "exch": "NYQ",
+    "source": "tipranks",
+    "stale": false
   },
   "HPE": {
-    "price": 52.43,
-    "prev": 53.45,
+    "price": 56.1,
+    "prev": 53.44,
     "currency": "USD",
     "name": "Hewlett Packard Enterprise Comp",
-    "exch": "NYQ"
+    "exch": "NYQ",
+    "source": "tipranks",
+    "stale": false
   },
   "IBIT": {
-    "price": 44.64,
-    "prev": 43.68,
+    "price": 44.6,
+    "prev": 44.72,
     "currency": "USD",
     "name": "iShares Bitcoin Trust ETF",
-    "exch": "NGM"
+    "exch": "NGM",
+    "source": "tipranks",
+    "stale": false
   },
   "LLY": {
-    "price": 1246.93,
-    "prev": 1255.4,
+    "price": 1189.94,
+    "prev": 1233.66,
     "currency": "USD",
     "name": "Eli Lilly and Company",
-    "exch": "NYQ"
+    "exch": "NYQ",
+    "source": "tipranks",
+    "stale": false
   },
   "MP": {
-    "price": 57.42,
-    "prev": 60.05,
+    "price": 59.65,
+    "prev": 60.17,
     "currency": "USD",
     "name": "MP Materials Corp.",
-    "exch": "NYQ"
+    "exch": "NYQ",
+    "source": "tipranks",
+    "stale": false
   },
   "QCOM": {
-    "price": 158.53,
-    "prev": 160.75,
+    "price": 164.2,
+    "prev": 160.56,
     "currency": "USD",
     "name": "QUALCOMM Incorporated",
-    "exch": "NMS"
+    "exch": "NMS",
+    "source": "tipranks",
+    "stale": false
   },
   "TEM": {
-    "price": 66.17,
-    "prev": 72.69,
+    "price": 68.8,
+    "prev": 68.73,
     "currency": "USD",
     "name": "Tempus AI, Inc.",
-    "exch": "NMS"
+    "exch": "NMS",
+    "source": "tipranks",
+    "stale": false
   },
   "VST": {
     "price": 135.66,
@@ -303,8 +353,8 @@
     "exch": "NYSEArca"
   },
   "CRYP.AX": {
-    "price": 7.88999985,
-    "prev": 7.88999985,
+    "price": 8.03,
+    "prev": 7.89,
     "currency": "AUD",
     "name": "BETACRYP ETF UNITS [CRYP]",
     "exch": "ASX",
@@ -312,36 +362,44 @@
     "stale": false
   },
   "ATOM.AX": {
-    "price": 21.24,
-    "prev": 20.89,
+    "price": 22.24,
+    "prev": 21.24,
     "currency": "AUD",
     "name": "GBLXATOM ETF UNITS [ATOM]",
-    "exch": "ASX"
+    "exch": "ASX",
+    "source": "yahoo",
+    "stale": false
   },
   "SEMI.AX": {
-    "price": 34.54,
-    "prev": 35.49,
+    "price": 34.75,
+    "prev": 34.54,
     "currency": "AUD",
     "name": "GBLX SEMI ETF UNITS [SEMI]",
-    "exch": "ASX"
+    "exch": "ASX",
+    "source": "yahoo",
+    "stale": false
   },
   "XMET.AX": {
-    "price": 16.13,
-    "prev": 15.67,
+    "price": 16.27,
+    "prev": 16.13,
     "currency": "AUD",
     "name": "BETA XMET ETF UNITS [XMET]",
-    "exch": "ASX"
+    "exch": "ASX",
+    "source": "yahoo",
+    "stale": false
   },
   "AUDUSD=X": {
-    "price": 0.7152,
-    "prev": 0.7171,
+    "price": 0.71728,
+    "prev": 0.7152,
     "currency": "USD",
     "name": "AUD/USD",
-    "exch": "CCY"
+    "exch": "CCY",
+    "source": "yahoo",
+    "stale": false
   },
   "EBTC": {
-    "price": 10.8999996,
-    "prev": 10.8999996,
+    "price": 10.60999965,
+    "prev": 10.9,
     "currency": "AUD",
     "name": "Global X 21Shares Bitcoin ETF",
     "exch": "CXA",
@@ -749,11 +807,13 @@
     "exch": "NYQ"
   },
   "ETN": {
-    "price": 408.67,
-    "prev": 419.2,
+    "price": 425.6117,
+    "prev": 409.2,
     "currency": "USD",
     "name": "Eaton Corporation, PLC",
-    "exch": "NYQ"
+    "exch": "NYQ",
+    "source": "tipranks",
+    "stale": false
   },
   "EBTC.AX": {
     "price": 10.8999996,
@@ -765,8 +825,8 @@
     "stale": false
   },
   "EBTC.XA": {
-    "price": 10.8999996,
-    "prev": 10.8999996,
+    "price": 10.61,
+    "prev": 10.9,
     "currency": "AUD",
     "name": "Global X 21Shares Bitcoin ETF",
     "exch": "CXA",
@@ -809,18 +869,22 @@
     "exch": "OPR"
   },
   "BMNR": {
-    "price": 24.14,
-    "prev": 22.83,
+    "price": 25.14,
+    "prev": 24.82,
     "currency": "USD",
     "name": "BitMine Immersion Technologies,",
-    "exch": "NYQ"
+    "exch": "NYQ",
+    "source": "tipranks",
+    "stale": false
   },
   "MSTR": {
-    "price": 122.63,
-    "prev": 119.25,
+    "price": 124.32,
+    "prev": 126.83,
     "currency": "USD",
     "name": "Strategy Inc",
-    "exch": "NMS"
+    "exch": "NMS",
+    "source": "tipranks",
+    "stale": false
   },
   "BMNR280121C00030000": {
     "price": 8.35,
@@ -837,15 +901,17 @@
     "exch": "OPR"
   },
   "ATOM": {
-    "price": 21.24,
-    "prev": 20.89,
+    "price": 22.24,
+    "prev": 21.24,
     "currency": "AUD",
     "name": "GBLXATOM ETF UNITS [ATOM]",
-    "exch": "ASX"
+    "exch": "ASX",
+    "source": "yahoo",
+    "stale": false
   },
   "CRYP": {
-    "price": 7.88999985,
-    "prev": 7.88999985,
+    "price": 8.02999975,
+    "prev": 7.89,
     "currency": "AUD",
     "name": "BETACRYP ETF UNITS [CRYP]",
     "exch": "ASX",
@@ -853,18 +919,22 @@
     "stale": false
   },
   "SEMI": {
-    "price": 34.54,
-    "prev": 35.49,
+    "price": 34.75,
+    "prev": 34.54,
     "currency": "AUD",
     "name": "GBLX SEMI ETF UNITS [SEMI]",
-    "exch": "ASX"
+    "exch": "ASX",
+    "source": "yahoo",
+    "stale": false
   },
   "SMH": {
-    "price": 546.8,
-    "prev": 560.42,
+    "price": 555.77,
+    "prev": 555.82,
     "currency": "USD",
     "name": "VanEck Semiconductor ETF",
-    "exch": "NGM"
+    "exch": "NGM",
+    "source": "yahoo",
+    "stale": false
   },
   "SPY": {
     "price": 763.47,
@@ -874,10 +944,12 @@
     "exch": "PCX"
   },
   "XMET": {
-    "price": 16.13,
-    "prev": 15.67,
+    "price": 16.27,
+    "prev": 16.13,
     "currency": "AUD",
     "name": "BETA XMET ETF UNITS [XMET]",
-    "exch": "ASX"
+    "exch": "ASX",
+    "source": "yahoo",
+    "stale": false
   }
 }
