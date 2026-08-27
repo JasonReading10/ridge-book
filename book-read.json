@@ -1,97 +1,86 @@
 {
-  "asOf": "2026-08-25T23:53:51Z",
-  "session": "2026-08-24",
-  "headline": "The book is sitting in a pre-Nvidia tape. Memory already paid.",
-  "lede": "Monday sold the AI and memory sleeve into Nvidia\u2019s Wednesday print. The only stories that matter for this book are that print, a >15% Nvidia server price hike driven by HBM/DRAM, CXMT\u2013Apple chatter that hit MU and SNDK, Broadcom\u2019s $60\u201380b Anthropic financing (and the CDS jump), Marvell\u2019s Google custom-silicon win into Thursday\u2019s print, and Tesla\u2019s China recall plus another AI-chip engineer leaving. Everything else is noise.",
+  "asOf": "2026-08-27T21:32:37Z",
+  "session": "2026-08-27",
+  "headline": "Nvidia beat-and-raised. The pre-print tape is done.",
+  "lede": "Wednesday’s print is in: NVDA did US$96.2b and guided Q3 to US$108b ±2%, above the ~US$104b street. Data centre US$89.0b. Vera Rubin in full production. Memory shortages still cap how fast they can ship — that is the MU/SNDK/DRAM line, not a scare. Marvell then printed Thursday (US$2.74b, Q3 US$3.15b ±5%) on the Google custom-silicon deal. Hugging Face talks (~US$13b) are product/ecosystem, not the quarter. Crypto sleeve bounced with bitcoin; MSTR’s US$2b raise did not sell coins. Tesla’s China door-handle recall is software/labels, not P&L. Everything else is noise.",
   "items": [
     {
       "kind": "earnings",
       "symbols": [
         "NVDA",
         "TSM",
-        "MU",
-        "SNDK",
-        "SEMI"
+        "SEMI",
+        "AVGO"
       ],
-      "title": "Nvidia prints Wednesday after the close",
-      "what": "Fiscal Q2 2027. Street ~US$92.1b revenue and US$2.09 EPS versus May guide of US$91b \u00b12%. KeyBanc keeps Buy / US$330 on the Rubin ramp. Seventh session down into the print.",
-      "impact": "This is the week\u2019s event for the whole book \u2014 stock and calls. A beat-and-raise with clean HBM commentary lifts NVDA, TSM, SEMI and should bounce MU/SNDK. A guide-down or margin squeeze hits every AI line at once. Do not add ahead of it.",
-      "tone": "mixed"
+      "title": "Nvidia Q2 FY27: US$96.2b, Q3 US$108b ±2%",
+      "what": "Beat street ~US$92b / US$2.08. Data centre US$89.0b (+117% y/y). GAAP EPS US$2.46, GM 75.0%. Q3 revenue outlook US$108.0b ±2% vs ~US$104b consensus. FY28 revenue ~+70%. No China data-centre compute in the outlook. Vera Rubin in full production. AWS: 2 million extra GPUs across 2027–28.",
+      "impact": "The week’s event for this book is now a beat-and-raise, not a binary print. NVDA, TSM, SEMI and the call book catch the bid if the tape holds the guide. Do not chase the first green; adds only on a confirmed dip. A fade that treats US$108b as ‘in the price’ is a gift, not a thesis change.",
+      "tone": "reward"
     },
     {
       "kind": "guidance",
       "symbols": [
-        "NVDA",
         "MU",
         "SNDK",
-        "DRAM"
+        "DRAM",
+        "NVDA"
       ],
-      "title": "Nvidia told customers AI servers go up >15% into 2027",
-      "what": "Bloomberg/Reuters: Grace Blackwell and Vera Rubin racks, memory now ~25% of high-end rack cost after server DRAM doubled. Hyperscalers already notified.",
-      "impact": "Pricing power for Nvidia if demand holds (reward). Sticker shock on hyperscaler capex if they push out (risk). Memory ASP is the fundamental support under MU/SNDK/DRAM \u2014 the tape sold it on CXMT scare anyway. Treat the hike as confirmation of tightness, not a buy signal before the print.",
+      "title": "Nvidia: memory shortages still throttle supply",
+      "what": "On the call Nvidia said memory-component shortages will keep limiting how fast it can expand. Q2 already priced servers >15% into 2027 on HBM/DRAM. CXMT–Apple chatter last week sold MU/SNDK; the print argues tightness, not dual-source.",
+      "impact": "Fundamental support under SMSF MU, SNDK and DRAM. The CXMT tape was the dip; the call is the confirmation. Still not a chase — memory is the most extended sleeve. Hold the lots. Add only if the book has room after a real washout.",
+      "tone": "mixed"
+    },
+    {
+      "kind": "earnings",
+      "symbols": [
+        "MRVL",
+        "GOOGL",
+        "AVGO"
+      ],
+      "title": "Marvell Q2: US$2.74b, Q3 US$3.15b ±5%, Google custom",
+      "what": "Thursday AMC: revenue US$2.739b vs ~US$2.71b and prior US$2.70b ±5% guide. Data centre ~US$2.2b (79% of sales). Q3 guide US$3.15b ±5%. Google custom-AI deal (up to US$120b over seven years, US$12.2b warrant) is the multi-year story. Shares dipped AH on the print.",
+      "impact": "Real for MRVL and a share-of-wallet worry for AVGO, not a cancelled cycle. GOOGL is the customer. AH dip is the first look — do not add size until the Q3 guide is digested. Keep AVGO small into 2 Sep.",
       "tone": "mixed"
     },
     {
       "kind": "product",
       "symbols": [
-        "MU",
-        "SNDK",
-        "DRAM"
+        "NVDA"
       ],
-      "title": "CXMT\u2013Apple China sourcing chatter",
-      "what": "Monday tape: reports the US may allow Apple more China memory sourcing. MU ~\u22126%, SNDK ~\u22126.5%, DRAM ETF with them. Analysts calling it overreaction \u2014 CXMT qualification is low-volume China SKUs, YMTC still not approved.",
-      "impact": "If it stays a China-handset footnote, this is a dip in a tight HBM cycle (reward after NVDA). If Apple actually dual-sources meaningful NAND/DRAM, SMSF memory is the wrong size. Wait for the Nvidia call to say whether server memory is still the bottleneck.",
-      "tone": "risk"
+      "title": "Hugging Face talks ~US$13b",
+      "what": "The Information: Nvidia agreed to buy Hugging Face for US$12.9b; Business Insider says talks are live and could still fall apart. Ecosystem/inference, not Q3 revenue.",
+      "impact": "Supports the software/agentic story around NVDA. Too small vs the US$96b quarter to re-rate the book on its own. Treat as optionality until there is a signed 8-K.",
+      "tone": "reward"
     },
     {
-      "kind": "rating",
+      "kind": "product",
       "symbols": [
-        "AVGO",
-        "MRVL",
-        "GOOGL"
+        "MSTR",
+        "IBIT",
+        "EBTC",
+        "BSOL",
+        "BMNR"
       ],
-      "title": "Broadcom PT trimmed; Marvell\u2013Google win; AVGO prints 2 Sep",
-      "what": "A top analyst cut the AVGO target after Marvell announced a custom AI chip deal with Google. AVGO 5y CDS +28bp as talks for US$60\u201380b (possibly US$100b with junior) Anthropic/AI-chip financing leak. Marvell prints 27 Aug; Morgan Stanley looks for beat-and-raise.",
-      "impact": "Financing is demand for Broadcom silicon (reward) and leverage the bond market is starting to price (risk). Marvell\u2019s Google win is real for MRVL this week; it is a share-of-wallet worry for AVGO, not a cancelled cycle. Size stays small on both until those two prints.",
-      "tone": "mixed"
+      "title": "Bitcoin bounce; Strategy raised US$2b without selling coins",
+      "what": "MSTR sold ~18m shares for ~US$2b, lifted USD reserve, did not sell bitcoin. Thursday MSTR ~US$138 (+11%) with BSOL ~+13% on the solana/bitcoin bid. BTC sleeve on this desk is EBTC + IBIT + MSTR.",
+      "impact": "Hedge working. Not a signal to rotate the core AI book into crypto. Leave the BSOL 1515 lot. No add to MSTR calls on the bounce.",
+      "tone": "reward"
     },
     {
       "kind": "lawsuit",
       "symbols": [
         "TSLA"
       ],
-      "title": "Tesla: China door-handle recall + AI-chip talent leak",
-      "what": "Industry-wide China campaign: Tesla recalling ~2.98m vehicles (labels + software, from 25 Sep) over hidden emergency releases. Separate: senior AI hardware engineer Shishuang Sun left for DensityAI, another knock to the in-house chip/Terafab story. Nevada approved a larger robotaxi fleet the same session; stock still \u22123.8%.",
-      "impact": "Recall is not a material P&L hit \u2014 software/labels, every OEM in the same rule. Talent leaving the AI-silicon effort is the actual risk to the Tesla-as-compute thesis. Robotaxi approval is longer-dated reward. Largest line in the book: do not add.",
+      "title": "Tesla China door-handle recall still the legal item",
+      "what": "2.98m vehicles, labels + OTA from 25 Sep. Industry-wide China rule, not a unique Tesla defect. Nevada robotaxi cap 10 → 5,000 is longer-dated. In-house AI-chip talent leak from last week still sits under the compute thesis.",
+      "impact": "Recall is not a material P&L hit. TSLA remains the largest satellite line. Do not add. Robotaxi is 2027+ optionality, not a reason to size up tonight.",
       "tone": "risk"
-    },
-    {
-      "kind": "product",
-      "symbols": [
-        "SPCX",
-        "NVDA",
-        "TSLA"
-      ],
-      "title": "SpaceX + Nvidia Vera Rubin for orbit in 2027",
-      "what": "Musk: space-optimised Vera Rubin NVL72 with Nvidia; SpaceXAI using Vera CPU on Grok. Nvidia also discussing a Perplexity stake ~US$30b and said Groq 3 LPX is in full production.",
-      "impact": "Narrative bid for SPCX stock/calls and a TAM footnote for NVDA. Not 2026 cash. Treat as optionality, not a reason to add size.",
-      "tone": "reward"
-    },
-    {
-      "kind": "leadership",
-      "symbols": [
-        "NVDA"
-      ],
-      "title": "Nvidia: Groq 3 LPX in production; Perplexity / Poolside talks",
-      "what": "Full production on Groq 3 LPX inference. Reported talks on Perplexity (~US$30b) and a multibillion Poolside open-weight deal. Software/ecosystem, not the quarter.",
-      "impact": "Supports the inference/agentic story into the print. Does not change Wednesday\u2019s numbers. Secondary to guide and HBM commentary.",
-      "tone": "reward"
     }
   ],
   "risks": [
     {
-      "title": "Print risk is the book",
-      "text": "NVDA + TSLA + MU are the three largest names. A Nvidia miss or a soft data-centre guide reprices compute, memory, SEMI and the call book in one session. Stand aside until the print is digested.",
+      "title": "Guide already in the price",
+      "text": "US$108b can sell off if the tape wanted US$112b. NVDA + TSLA + MU are still the three largest names. A fade is not a thesis break; a China-compute surprise or a GM squeeze would be.",
       "symbols": [
         "NVDA",
         "TSLA",
@@ -99,8 +88,8 @@
       ]
     },
     {
-      "title": "Memory dual-source",
-      "text": "If CXMT/YMTC in Apple becomes more than a China-SKU rumour, SMSF MU/SNDK/DRAM is the wrong weight. The 15% rack hike argues the opposite (tightness) \u2014 do not pre-trade either side.",
+      "title": "Memory is extended",
+      "text": "Nvidia tightness is the fundamental. Valuations on MU/SNDK are not. One more CXMT-style headline and SMSF memory gives back a week.",
       "symbols": [
         "MU",
         "SNDK",
@@ -108,15 +97,16 @@
       ]
     },
     {
-      "title": "Broadcom financing scare",
-      "text": "CDS already jumped. A sloppy US$60\u201380b structure into 2 Sep earnings is a credit event that leaks into AVGO equity and the AI-capex complex.",
+      "title": "AVGO into 2 Sep",
+      "text": "Marvell–Google is share of wallet. Anthropic financing / CDS still sits under Broadcom. Keep it small through that print.",
       "symbols": [
-        "AVGO"
+        "AVGO",
+        "MRVL"
       ]
     },
     {
-      "title": "Tesla compute thesis",
-      "text": "Engineers leaving the in-house silicon effort matter more than the China recall. TSLA is the largest line; no add, no heroics on robotaxi headlines.",
+      "title": "Tesla is still satellite",
+      "text": "Largest line, not a core compute name. Recall + chip-talent leak. No heroics on robotaxi headlines.",
       "symbols": [
         "TSLA"
       ]
@@ -124,8 +114,17 @@
   ],
   "rewards": [
     {
-      "title": "Tight memory, if Nvidia says so",
-      "text": "A clean HBM/DRAM comment on the call plus the server price hike is the bounce setup for MU, SNDK and DRAM \u2014 after the print, on a confirmed dip, not before.",
+      "title": "Beat-and-raise is the core bid",
+      "text": "NVDA/TSM/SEMI and the NVDA calls if the guide holds. Adds only on a confirmed dip, not the first green after the print.",
+      "symbols": [
+        "NVDA",
+        "TSM",
+        "SEMI"
+      ]
+    },
+    {
+      "title": "Memory tightness confirmed on the call",
+      "text": "HBM/DRAM as the bottleneck is what we wanted Nvidia to say. Hold MU/SNDK/DRAM. Bounce setup after any washout, not a chase.",
       "symbols": [
         "MU",
         "SNDK",
@@ -133,32 +132,23 @@
       ]
     },
     {
-      "title": "Rubin / inference stack",
-      "text": "KeyBanc US$330, Groq 3 LPX production, Vera Rubin with SpaceX. If guide holds, NVDA and TSM catch the bid first.",
-      "symbols": [
-        "NVDA",
-        "TSM",
-        "SPCX"
-      ]
-    },
-    {
-      "title": "Marvell\u2013Google this week",
-      "text": "Custom silicon win is already in the tape. Thursday\u2019s print is the second catalyst. Small, not a chase.",
+      "title": "Marvell–Google is multi-year",
+      "text": "US$120b custom plus a US$3.15b Q3 guide. AH dip is the first look. Small, not a rotate-out-of-NVDA.",
       "symbols": [
         "MRVL",
         "GOOGL"
       ]
     },
     {
-      "title": "Crypto sleeve already bid",
-      "text": "IBIT/MSTR/BMNR/BSOL were green while AI was red. That is the hedge working, not a signal to rotate the core book.",
+      "title": "Crypto sleeve did the job",
+      "text": "EBTC/IBIT/MSTR/BSOL bid while the print digested. Hedge, not a new core.",
       "symbols": [
         "IBIT",
         "MSTR",
-        "BMNR",
+        "EBTC",
         "BSOL"
       ]
     }
   ],
-  "stance": "Sit. No adds into Wednesday. Heavy names stay heavy. Memory only after Nvidia, on a confirmed dip \u2014 not on the CXMT headline."
+  "stance": "Print is in. Hold the core. No forced action. Adds only on a confirmed dip in NVDA/TSM. Leave BSOL and TSLA. Watch MU/SNDK and Marvell’s Q3 guide."
 }
