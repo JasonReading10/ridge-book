@@ -1,11 +1,23 @@
-# Daily Portfolio Brief · 2026-08-28
+# Daily Portfolio Brief · 2026-08-31
 
-Full book (stocks + option marks) sits near A$5.3m after refreshing LEAP marks that had lagged. Joint IBKR NLV US$409.2k. FX A$1.394/USD. No new fills — August Drive confirmations already booked; ATOM remainder 2319, BSOL 1515.
+Marks: Yahoo last US session **2026-08-28** (Monday Sydney desk; US cash closed Friday). IBKR MCP offline. No new August Drive PDFs after 25-Aug.
 
-Tape overnight: NVDA closed 228 / AH 227, TSLA 355, AMD 475, TSM 426, AVGO 370. Memory mixed — MU AH 928, SNDK 1478. Crypto sleeve lifted: BSOL +13% to ~15, MSTR +11% to 138 on the bitcoin bounce. ASX: ATOM.AX 22.00.
+## 1. Snapshot
+- **IBKR Joint stocks (Yahoo, 0 options):** US$404.6k · A$565.1k. Prior clerk tape ~US$410k on 27-Aug close — Friday fade ~US$5–6k on the Joint names. NLV / cash / 1D PA **not live** (MCP down).
+- **Unrealised (book vs cost, stocks+options):** still deeply in the black on NVDA/TSLA/MU/SEMI sleeves; Joint NVDA 200 and TSLA 375 remain the cash-equity engines.
+- **Cash:** not marked (IBKR balances unavailable).
+- **Stocks vs ETFs (cash book only):** named singles A$1.79m · wrappers/ETFs A$0.74m.
+- **US / AU / TW (cash book):** US A$1.97m · AU A$0.45m · TSM ADR A$0.11m.
+- **Full book AUD:** **A$3.696m** (stocks A$2.526m + options A$1.170m). Friday tape −A$100k vs Thursday marks (stocks −A$60k, LEAPs −A$40k).
+- **Option book AUD:** A$1.170m. Two OCC misses kept prior: LLY Jan-28 1120C, MRVL Jan-27 77.5C (intrinsic floor still on).
+- **FX:** AUDUSD 0.7160 → **A$1.3967 / USD**.
+- **Files written:** workspace src/data + public/data holdings/option-quotes/quotes/manifest/recent; Drive Ridge desk holdings.json + book.xlsx.
 
-Material item: Nvidia’s reported Hugging Face acquisition talk and continued data-centre demand narrative kept the semiconductor complex firm; MSTR followed bitcoin higher after its recent equity raise.
+## 2. Top 5 movers
+AMZN C +2.6k / GOOGL C +2.6k / GOOGL +1.7k / EBTC +0.6k / CRYP +0.5k
 
-**Risk**: Concentrated AI/memory/crypto beta remains high; LEAP marks are sensitive to any unwind in the cycle. **Reward**: The book is still geared to the multi-year AI infra build and any sustained crypto recovery.
+## 3. Bottom 5
+MRVL −15.5k (−10.3%) / NVDA −14.8k / TSLA −7.9k / BSOL C −6.2k / TSLA C −6.2k
 
-Hold the core; no forced action overnight. Watch MU/SNDK for memory leadership and BSOL for solana follow-through.
+## 6. Quick take
+Friday was a give-back after Nvidia’s print pop, not a thesis break. Pain in MRVL cash + NVDA/TSLA/BSOL options. No new fills.
