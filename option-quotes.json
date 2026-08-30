@@ -1,1 +1,5 @@
-see workspace - placeholder skip
+{
+  "priced_at": "2026-08-30T21:14:46Z",
+  "ibkr_account": {"id": "IBKR", "open_option_positions": 0, "note": "No account identifiers."},
+  "quotes": {}
+}
