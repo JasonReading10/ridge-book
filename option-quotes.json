@@ -1,5 +1,11 @@
 {
-  "priced_at": "2026-08-30T21:14:46Z",
+  "priced_at": "2026-08-30T21:20:20Z",
   "ibkr_account": {"id": "IBKR", "open_option_positions": 0, "note": "No account identifiers."},
-  "quotes": {}
+  "quotes": {
+    "AMZN281215C00200000": {"price": 106.69999694824219, "prev": 97.2300033569336, "currency": "USD", "name": "AMZN Dec 2028 200.000 call", "source": "yahoo-last+intrinsic-floor", "yahoo_last": 106.69999694824219, "as_of": "2026-08-28"},
+    "NCLD270115C00030000": {"price": 2.200000047683716, "prev": 2.799999952316284, "currency": "USD", "name": "NCLD Jan 2027 30.000 call", "source": "yahoo-last+intrinsic-floor", "yahoo_last": 2.200000047683716, "as_of": "2026-08-28"},
+    "MSTR280121C00135000": {"price": 47.08000183105469, "prev": 55.040000915527344, "currency": "USD", "name": "MSTR Jan 2028 135.000 call", "source": "yahoo-last+intrinsic-floor", "yahoo_last": 47.08000183105469, "as_of": "2026-08-28"},
+    "MSTR280121C00120000": {"price": 52.84000015258789, "prev": 59.93000030517578, "currency": "USD", "name": "MSTR Jan 2028 120.000 call", "source": "yahoo-last+intrinsic-floor", "yahoo_last": 52.84000015258789, "as_of": "2026-08-28"},
+    "BMNR280121C00030000": {"price": 7.949999809265137, "prev": 9.300000190734863, "currency": "USD", "name": "BMNR Jan 2028 30.000 call", "source": "yahoo-last+intrinsic-floor", "yahoo_last": 7.949999809265137, "as_of": "2026-08-28"}
+  }
 }
