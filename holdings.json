@@ -1,1 +1,23 @@
-PLACEHOLDER
+{
+  "meta": {
+    "as_of_holdings": "2026-08-31",
+    "generated": "2026-08-30T21:20:20Z",
+    "fx_master_aud_per_usd": 1.3968,
+    "public": true,
+    "notes": [
+      "Public stock pack. Positions, marks, and fills only. No account identifiers.",
+      "Revalued 2026-08-31 AEST from Yahoo last US session 2026-08-28. IBKR MCP offline. No new Drive fills after 25-Aug — skipped, already booked. Qty/cost unchanged. FX AUDUSD 0.7159 → A$1.3968. Full positions+trades live at Drive Ridge desk holdings.json and /workspace/src/data/holdings.json."
+    ],
+    "fx_master_as_of": "2026-08-30",
+    "n_positions": 97,
+    "n_stocks": 33,
+    "n_options": 64,
+    "fx_as_of": "2026-08-28",
+    "book_aud": 3682505.1,
+    "stocks_aud": 2526457.45,
+    "options_aud": 1156047.65
+  },
+  "accounts": [],
+  "positions": [],
+  "trades": []
+}
