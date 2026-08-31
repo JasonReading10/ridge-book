@@ -1,17 +1,1 @@
-{
-  "priced_at": "2026-08-31T21:21:03Z",
-  "ibkr_account": {"id": "IBKR", "open_option_positions": 0, "note": "IBKR MCP offline this run."},
-  "fx": {"AUDUSD=X": 0.7167, "aud_per_usd": 1.3953, "as_of": "2026-08-31"},
-  "quotes": {
-    "AMZN281215C00200000": {"price": 100.9, "prev": 103.6, "as_of": "2026-08-31"},
-    "NCLD270115C00030000": {"price": 2.1, "prev": 3.1, "as_of": "2026-08-31"},
-    "MSTR280121C00135000": {"price": 50.82, "prev": 38.95, "as_of": "2026-08-31"},
-    "MSTR280121C00120000": {"price": 54.01, "prev": 42.2, "as_of": "2026-08-31"},
-    "BMNR280121C00030000": {"price": 8.9, "prev": 6.47, "as_of": "2026-08-31"},
-    "MU280121C00330000": {"price": 631.45, "as_of": "2026-08-24"},
-    "NVDA281215C00170000": {"price": 85.3, "as_of": "2026-08-31"},
-    "TSLA281215C00400000": {"price": 112.96, "as_of": "2026-08-31"},
-    "SPCX261120C00180000": {"price": 4.8, "as_of": "2026-08-31"},
-    "SPCX261120C00195000": {"price": 2.89, "as_of": "2026-08-31"}
-  }
-}
+{"priced_at":"2026-08-31T21:26:49Z","ibkr_account":{"id":"IBKR","open_option_positions":0,"note":"No account identifiers. IBKR MCP offline this run."},"fx":{"AUDUSD":0.716743,"aud_per_usd":1.3952,"as_of":"2026-08-31","source":"Yahoo AUDUSD=X"},"note":"full OCC tape written to Drive holdings + /workspace/src/data/option-quotes.json"}
