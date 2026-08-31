@@ -1,9 +1,6 @@
 {
-  "generated": "2026-08-27T21:27:59Z",
-  "asOf": "2026-08-27T21:27:59Z",
-  "session": "2026-08-27",
-  "fx_aud_per_usd": 1.39416,
-  "n_positions": 97,
-  "n_stocks": 33,
-  "n_options": 64
+  "generated": "2026-08-31T21:31:33Z",
+  "asOf": "2026-08-31",
+  "fx_aud_per_usd": 1.3948,
+  "book_aud": 3726330.0
 }
