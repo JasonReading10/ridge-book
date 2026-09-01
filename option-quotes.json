@@ -1,9 +1,9 @@
 {
-  "priced_at": "2026-09-01T21:12:50Z",
+  "priced_at": "2026-09-01T21:21:49Z",
   "ibkr_account": {
     "id": "IBKR",
     "open_option_positions": 0,
     "note": "No account identifiers. IBKR MCP offline this run."
   },
-  "note": "Full OCC tape written to Ridge src/data/option-quotes.json and Drive Ridge desk. Applied 31-Aug SMSF: BSOL261016C17 x3, BMNR280616C25 x2, closed MRVL270115C240."
+  "note": "No new fills 02-Sep AEST. Full OCC tape written to /workspace/src/data/option-quotes.json and Drive Ridge desk. Last booked Drive 2026-08-31.PDF. Fresh Yahoo on AMZN/AVGO Dec-26/TSLA/SPCX/TEM/TSM/VRT; remainder carry 01-Sep + intrinsic floor."
 }
