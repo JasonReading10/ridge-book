@@ -1,1 +1,23 @@
-{"meta":{"as_of_holdings":"2026-09-02","generated":"2026-09-01T21:13:46Z","fx_master_aud_per_usd":1.3986,"public":true,"notes":["Public stock pack. Positions, marks, and fills only. No account identifiers.","Revalued 2026-09-01T21:13:46Z from IBKR positions + Yahoo last. Applied 31-Aug Webull SMSF fills: BUY BSOL $17 Oct-26 x3 @0.50, BUY BMNR $25 Jun-28 x2 @11.10, SELL close MRVL $240 Jan-27. Qty/cost updated on those three. FX AUDUSD 0.715 → A$1.3986."],"fx_master_as_of":"2026-09-01","n_positions":98,"n_stocks":33,"n_options":65,"fx_as_of":"2026-09-01","book_aud":{"stocks":2523330.62,"options":1171055.93,"total":3694386.55}},"accounts":[],"positions":[{"entity":"Personal","broker":"IBKR","broker_id":"IBKR","account":"IBKR","symbol":"AMD","name":"Advanced Micro Devices","units":45,"cost_aud":17349.68,"last_mv_aud":28926.5,"currency":"USD","kind":"stock","mark_usd":459.61,"last_price_aud":642.811,"theme":"compute"}],"trades":[]}
+{
+  "meta": {
+    "as_of_holdings": "2026-09-02",
+    "generated": "2026-09-01T21:21:49Z",
+    "fx_master_aud_per_usd": 1.3986,
+    "public": true,
+    "notes": [
+      "Public stock pack. Positions, marks, and fills only. No account identifiers.",
+      "Revalued 2026-09-01T21:21:49Z from Yahoo last US session 2026-09-01. IBKR MCP offline. No NEW Drive fills — August 2026 PDFs already booked (last 2026-08-31 SMSF Webull BSOL261016C17 x3 @0.50 / BMNR280616C25 x2 @11.10 / MRVL270115C240 close). FX AUDUSD 0.7150 → A$1.3986. Full tape in workspace src/data/holdings.json."
+    ],
+    "fx_master_as_of": "2026-09-01",
+    "n_positions": 98,
+    "n_stocks": 33,
+    "n_options": 65,
+    "fx_as_of": "2026-09-01",
+    "book_aud": {"stocks": 2512678.51, "options": 1118239.42, "total": 3630917.93}
+  },
+  "accounts": [],
+  "positions": [
+    {"entity": "Personal", "broker": "IBKR", "broker_id": "IBKR", "account": "IBKR", "symbol": "AMD", "name": "Advanced Micro Devices", "units": 45, "cost_aud": 17349.68, "last_mv_aud": 28926.5, "currency": "USD", "kind": "stock", "mark_usd": 459.61, "last_price_aud": 642.81, "theme": "compute"}
+  ],
+  "trades": []
+}
