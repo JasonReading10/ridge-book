@@ -1,1 +1,9 @@
-{"priced_at":"2026-08-31T21:26:49Z","ibkr_account":{"id":"IBKR","open_option_positions":0,"note":"No account identifiers. IBKR MCP offline this run."},"fx":{"AUDUSD":0.716743,"aud_per_usd":1.3952,"as_of":"2026-08-31","source":"Yahoo AUDUSD=X"},"note":"full OCC tape written to Drive holdings + /workspace/src/data/option-quotes.json"}
+{
+  "priced_at": "2026-09-01T21:12:50Z",
+  "ibkr_account": {
+    "id": "IBKR",
+    "open_option_positions": 0,
+    "note": "No account identifiers. IBKR MCP offline this run."
+  },
+  "note": "Full OCC tape written to Ridge src/data/option-quotes.json and Drive Ridge desk. Applied 31-Aug SMSF: BSOL261016C17 x3, BMNR280616C25 x2, closed MRVL270115C240."
+}
