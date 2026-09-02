@@ -1,0 +1,72 @@
+name: guard-pack
+on:
+  push:
+    branches: [main]
+jobs:
+  gate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    if: "!contains(github.event.head_commit.message, 'guard-pack revert')"
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 30
+      - name: Revert thin MCP stubs
+        run: |
+          python3 << 'PY'
+          import json, os, subprocess, sys
+
+          def size(p):
+              return os.path.getsize(p) if os.path.exists(p) else 0
+
+          def npos():
+              try:
+                  return len(json.load(open("holdings.json")).get("positions") or [])
+              except Exception:
+                  return 0
+
+          def nquotes():
+              try:
+                  d = json.load(open("quotes.json"))
+                  return sum(1 for v in d.values() if isinstance(v, dict) and isinstance(v.get("price"), (int, float)))
+              except Exception:
+                  return 0
+
+          def nopt():
+              try:
+                  return len(json.load(open("option-quotes.json")).get("quotes") or {})
+              except Exception:
+                  return 0
+
+          def brief_len():
+              try:
+                  t = open("desk-brief.md").read()
+                  return len(t) if t.startswith("# ") else 0
+              except Exception:
+                  return 0
+
+          ok = size("holdings.json") > 40000 and npos() >= 90 and nquotes() >= 80 and nopt() >= 50 and brief_len() >= 800
+          print("gate", ok, "hold", size("holdings.json"), npos(), "q", nquotes(), "oq", nopt(), "brief", brief_len())
+          if ok:
+              sys.exit(0)
+
+          # walk back to last passing tree
+          log = subprocess.check_output(["git", "log", "--format=%H", "-n", "25"], text=True).split()
+          restored = False
+          for sha in log[1:]:
+              subprocess.check_call(["git", "checkout", sha, "--", "holdings.json", "quotes.json", "quotes-fallback.json", "option-quotes.json", "desk-brief.md", "live.json"])
+              if size("holdings.json") > 40000 and npos() >= 90 and nquotes() >= 80 and nopt() >= 50 and brief_len() >= 800:
+                  print("restore from", sha[:8])
+                  restored = True
+                  break
+          if not restored:
+              print("no passing ancestor")
+              sys.exit(1)
+          PY
+          git config user.name "ridge-guard"
+          git config user.email "93503947+JasonReading10@users.noreply.github.com"
+          git add holdings.json quotes.json quotes-fallback.json option-quotes.json desk-brief.md live.json
+          git diff --cached --quiet && echo 'nothing to revert' && exit 0
+          git commit -m "guard-pack revert: daily MCP wrote a thin stub"
+          git push
