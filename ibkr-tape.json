@@ -1,66 +1,66 @@
 {
-  "asOf": "2026-08-26T21:49:00Z",
-  "fx_aud_per_usd": 1.39416,
+  "asOf": "2026-09-04T23:45:30Z",
+  "fx_aud_per_usd": 1.3887,
   "source": "IBKR Joint",
   "n": 10,
   "quotes": {
     "AMD": {
-      "price": 482.00698855,
-      "prev": 479.18,
+      "price": 475.87109375,
+      "prev": 456.16,
       "currency": "USD",
       "source": "ibkr"
     },
     "ARKQ": {
-      "price": 122.33000185,
-      "prev": 122.74,
+      "price": 121.33239745,
+      "prev": 122.81,
       "currency": "USD",
       "source": "ibkr"
     },
     "AVGO": {
-      "price": 357.7788086,
-      "prev": 356.74,
+      "price": 357.08999635,
+      "prev": 357.15999999999997,
       "currency": "USD",
       "source": "ibkr"
     },
     "CRYP": {
-      "price": 8.02999975,
-      "prev": null,
+      "price": 8.23999975,
+      "prev": 7.580000000000001,
       "currency": "AUD",
       "source": "ibkr"
     },
     "DRAM": {
-      "price": 58.4900017,
-      "prev": null,
+      "price": 59.41999815,
+      "prev": 55.989999999999995,
       "currency": "USD",
       "source": "ibkr"
     },
     "EBTC": {
-      "price": 10.60999965,
-      "prev": null,
+      "price": 10.8100004,
+      "prev": 10.37,
       "currency": "AUD",
       "source": "ibkr"
     },
     "GOOGL": {
-      "price": 341.82998655,
-      "prev": 346.96,
+      "price": 338.94699095,
+      "prev": 342.26,
       "currency": "USD",
       "source": "ibkr"
     },
     "NVDA": {
-      "price": 219.6114044,
-      "prev": 213.05,
+      "price": 229.8215027,
+      "prev": 228.45,
       "currency": "USD",
       "source": "ibkr"
     },
     "TSLA": {
-      "price": 347.70999145,
-      "prev": 350.25,
+      "price": 353.0730896,
+      "prev": 376.365,
       "currency": "USD",
       "source": "ibkr"
     },
     "TSM": {
-      "price": 423.83999635,
-      "prev": 417.41,
+      "price": 427.75,
+      "prev": 417.01,
       "currency": "USD",
       "source": "ibkr"
     }

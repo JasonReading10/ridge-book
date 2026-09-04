@@ -1,21 +1,41 @@
 {
-  "asOf": "2026-08-27T21:32:37Z",
-  "session": "2026-08-27",
-  "headline": "Nvidia beat-and-raised. The pre-print tape is done.",
-  "lede": "Wednesday’s print is in: NVDA did US$96.2b and guided Q3 to US$108b ±2%, above the ~US$104b street. Data centre US$89.0b. Vera Rubin in full production. Memory shortages still cap how fast they can ship — that is the MU/SNDK/DRAM line, not a scare. Marvell then printed Thursday (US$2.74b, Q3 US$3.15b ±5%) on the Google custom-silicon deal. Hugging Face talks (~US$13b) are product/ecosystem, not the quarter. Crypto sleeve bounced with bitcoin; MSTR’s US$2b raise did not sell coins. Tesla’s China door-handle recall is software/labels, not P&L. Everything else is noise.",
+  "asOf": "2026-09-04T23:45:30Z",
+  "session": "2026-09-04",
+  "headline": "Broadcom printed. Nvidia bought Hugging Face. Tesla launched Cybercab into a probe.",
+  "lede": "Friday 4-Sep close. Broadcom\u2019s Wednesday print is in: Q3 US$29.6b, AI semis US$16.7b (+221% y/y), Q4 guide US$34.8b a touch light vs ~US$35b. Nvidia closed Hugging Face at US$12.9b Thursday. Tesla unveiled Cybercab then drew a federal probe inside 24 hours \u2014 TSLA \u22125.9%. Memory (MU/SNDK/SKHY/DRAM) led the bid. SMSF sold CRDO 104 and AVGO 20 this week.",
   "items": [
     {
       "kind": "earnings",
       "symbols": [
+        "AVGO",
         "NVDA",
         "TSM",
-        "SEMI",
-        "AVGO"
+        "SEMI"
       ],
-      "title": "Nvidia Q2 FY27: US$96.2b, Q3 US$108b ±2%",
-      "what": "Beat street ~US$92b / US$2.08. Data centre US$89.0b (+117% y/y). GAAP EPS US$2.46, GM 75.0%. Q3 revenue outlook US$108.0b ±2% vs ~US$104b consensus. FY28 revenue ~+70%. No China data-centre compute in the outlook. Vera Rubin in full production. AWS: 2 million extra GPUs across 2027–28.",
-      "impact": "The week’s event for this book is now a beat-and-raise, not a binary print. NVDA, TSM, SEMI and the call book catch the bid if the tape holds the guide. Do not chase the first green; adds only on a confirmed dip. A fade that treats US$108b as ‘in the price’ is a gift, not a thesis change.",
+      "title": "Broadcom Q3 FY26: US$29.6b, AI semis US$16.7b, Q4 US$34.8b",
+      "what": "Beat street ~US$29.4b / $3.24 with adj. EPS $3.32. AI semiconductor revenue US$16.7b (+221% y/y, +54% q/q). Q4 revenue guide ~US$34.8b (street ~US$35.0b); AI semis guided to US$21.7b. Hock Tan: FY27 AI revenue ~US$115b, path to ~US$230b FY28. Stock shrugged \u2014 now 357.9 vs 369.7 last mark.",
+      "impact": "The print is a beat; the Q4 guide is the fade. AVGO SMSF now 100sh after selling 20. Do not chase. The FY27 AI number is the multi-year hold for AVGO/NVDA/TSM/SEMI, not a one-session add.",
+      "tone": "mixed"
+    },
+    {
+      "kind": "product",
+      "symbols": [
+        "NVDA"
+      ],
+      "title": "Nvidia buys Hugging Face for US$12.9b",
+      "what": "Signed Thursday. Jensen: platform stays open, Nvidia compute not required. ~18m developers, 3m models. Cash/ecosystem, not Q3 revenue.",
+      "impact": "Confirms the software/open-model bid around NVDA. Too small vs the chip run-rate to re-rate the book. Hold the NVDA stock and LEAPs.",
       "tone": "reward"
+    },
+    {
+      "kind": "product",
+      "symbols": [
+        "TSLA"
+      ],
+      "title": "Cybercab launch, then a federal probe",
+      "what": "Launch Thursday; within 24 hours a US probe and TSLA \u22125.9% Friday (354.08). Still the largest satellite line on the desk.",
+      "impact": "Do not add. Robotaxi remains 2027+ optionality. Size is already large vs the rest of the satellite sleeve.",
+      "tone": "risk"
     },
     {
       "kind": "guidance",
@@ -23,132 +43,25 @@
         "MU",
         "SNDK",
         "DRAM",
-        "NVDA"
+        "SKHY",
+        "ALAB",
+        "MRVL"
       ],
-      "title": "Nvidia: memory shortages still throttle supply",
-      "what": "On the call Nvidia said memory-component shortages will keep limiting how fast it can expand. Q2 already priced servers >15% into 2027 on HBM/DRAM. CXMT–Apple chatter last week sold MU/SNDK; the print argues tightness, not dual-source.",
-      "impact": "Fundamental support under SMSF MU, SNDK and DRAM. The CXMT tape was the dip; the call is the confirmation. Still not a chase — memory is the most extended sleeve. Hold the lots. Add only if the book has room after a real washout.",
-      "tone": "mixed"
-    },
-    {
-      "kind": "earnings",
-      "symbols": [
-        "MRVL",
-        "GOOGL",
-        "AVGO"
-      ],
-      "title": "Marvell Q2: US$2.74b, Q3 US$3.15b ±5%, Google custom",
-      "what": "Thursday AMC: revenue US$2.739b vs ~US$2.71b and prior US$2.70b ±5% guide. Data centre ~US$2.2b (79% of sales). Q3 guide US$3.15b ±5%. Google custom-AI deal (up to US$120b over seven years, US$12.2b warrant) is the multi-year story. Shares dipped AH on the print.",
-      "impact": "Real for MRVL and a share-of-wallet worry for AVGO, not a cancelled cycle. GOOGL is the customer. AH dip is the first look — do not add size until the Q3 guide is digested. Keep AVGO small into 2 Sep.",
-      "tone": "mixed"
-    },
-    {
-      "kind": "product",
-      "symbols": [
-        "NVDA"
-      ],
-      "title": "Hugging Face talks ~US$13b",
-      "what": "The Information: Nvidia agreed to buy Hugging Face for US$12.9b; Business Insider says talks are live and could still fall apart. Ecosystem/inference, not Q3 revenue.",
-      "impact": "Supports the software/agentic story around NVDA. Too small vs the US$96b quarter to re-rate the book on its own. Treat as optionality until there is a signed 8-K.",
+      "title": "Memory and connectivity ripped Friday",
+      "what": "MU 1016.6 (+6.1%), SNDK 1740 (+11.9%), SKHY 177 (+8.1%), DRAM 59.69, ALAB 310.4 (+9.8%), MRVL 223.6 (+7.0%). Tight HBM/DRAM + a rebound after Wednesday\u2019s risk-off.",
+      "impact": "Helps the SMSF memory sleeve and the new SKHY calls (Sep-18 180 is a two-week lot \u2014 watch expiry). Do not chase Friday\u2019s close.",
       "tone": "reward"
-    },
-    {
-      "kind": "product",
-      "symbols": [
-        "MSTR",
-        "IBIT",
-        "EBTC",
-        "BSOL",
-        "BMNR"
-      ],
-      "title": "Bitcoin bounce; Strategy raised US$2b without selling coins",
-      "what": "MSTR sold ~18m shares for ~US$2b, lifted USD reserve, did not sell bitcoin. Thursday MSTR ~US$138 (+11%) with BSOL ~+13% on the solana/bitcoin bid. BTC sleeve on this desk is EBTC + IBIT + MSTR.",
-      "impact": "Hedge working. Not a signal to rotate the core AI book into crypto. Leave the BSOL 1515 lot. No add to MSTR calls on the bounce.",
-      "tone": "reward"
-    },
-    {
-      "kind": "lawsuit",
-      "symbols": [
-        "TSLA"
-      ],
-      "title": "Tesla China door-handle recall still the legal item",
-      "what": "2.98m vehicles, labels + OTA from 25 Sep. Industry-wide China rule, not a unique Tesla defect. Nevada robotaxi cap 10 → 5,000 is longer-dated. In-house AI-chip talent leak from last week still sits under the compute thesis.",
-      "impact": "Recall is not a material P&L hit. TSLA remains the largest satellite line. Do not add. Robotaxi is 2027+ optionality, not a reason to size up tonight.",
-      "tone": "risk"
     }
   ],
   "risks": [
-    {
-      "title": "Guide already in the price",
-      "text": "US$108b can sell off if the tape wanted US$112b. NVDA + TSLA + MU are still the three largest names. A fade is not a thesis break; a China-compute surprise or a GM squeeze would be.",
-      "symbols": [
-        "NVDA",
-        "TSLA",
-        "MU"
-      ]
-    },
-    {
-      "title": "Memory is extended",
-      "text": "Nvidia tightness is the fundamental. Valuations on MU/SNDK are not. One more CXMT-style headline and SMSF memory gives back a week.",
-      "symbols": [
-        "MU",
-        "SNDK",
-        "DRAM"
-      ]
-    },
-    {
-      "title": "AVGO into 2 Sep",
-      "text": "Marvell–Google is share of wallet. Anthropic financing / CDS still sits under Broadcom. Keep it small through that print.",
-      "symbols": [
-        "AVGO",
-        "MRVL"
-      ]
-    },
-    {
-      "title": "Tesla is still satellite",
-      "text": "Largest line, not a core compute name. Recall + chip-talent leak. No heroics on robotaxi headlines.",
-      "symbols": [
-        "TSLA"
-      ]
-    }
+    "Stronger August jobs (~162k vs ~55k) lifted September hike odds toward 50% \u2014 duration and high-multiple AI can fade.",
+    "TSLA is still the biggest satellite line and just lost the Cybercab tape.",
+    "SKHY 180 call expires 18-Sep \u2014 a two-week lot, not a LEAP.",
+    "AVGO Q4 guide a touch light; the stock has not paid the print."
   ],
   "rewards": [
-    {
-      "title": "Beat-and-raise is the core bid",
-      "text": "NVDA/TSM/SEMI and the NVDA calls if the guide holds. Adds only on a confirmed dip, not the first green after the print.",
-      "symbols": [
-        "NVDA",
-        "TSM",
-        "SEMI"
-      ]
-    },
-    {
-      "title": "Memory tightness confirmed on the call",
-      "text": "HBM/DRAM as the bottleneck is what we wanted Nvidia to say. Hold MU/SNDK/DRAM. Bounce setup after any washout, not a chase.",
-      "symbols": [
-        "MU",
-        "SNDK",
-        "DRAM"
-      ]
-    },
-    {
-      "title": "Marvell–Google is multi-year",
-      "text": "US$120b custom plus a US$3.15b Q3 guide. AH dip is the first look. Small, not a rotate-out-of-NVDA.",
-      "symbols": [
-        "MRVL",
-        "GOOGL"
-      ]
-    },
-    {
-      "title": "Crypto sleeve did the job",
-      "text": "EBTC/IBIT/MSTR/BSOL bid while the print digested. Hedge, not a new core.",
-      "symbols": [
-        "IBIT",
-        "MSTR",
-        "EBTC",
-        "BSOL"
-      ]
-    }
-  ],
-  "stance": "Print is in. Hold the core. No forced action. Adds only on a confirmed dip in NVDA/TSM. Leave BSOL and TSLA. Watch MU/SNDK and Marvell’s Q3 guide."
+    "AVGO FY27 AI ~US$115b and NVDA Hugging Face keep the core AI backlog intact.",
+    "Memory tightness (MU/SNDK/DRAM/SKHY) is the same throttle Nvidia cited last week.",
+    "SMSF raised cash: CRDO 104 and AVGO 20 sold, VRT 260C and the SPCX Nov-26 vertical closed."
+  ]
 }

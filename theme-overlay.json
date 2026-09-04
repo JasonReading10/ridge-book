@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-08-26",
+  "asOf": "2026-09-05",
   "note": "Held names not in Jordi 100. Folded into compute / optical / packaging / energy / materials / satellite so Portfolio never keeps an Outside pile. Crypto tickers go in crypto.json, not here. Daily and after-trade MUST append a new underlying here when it is not in the 100 and not crypto. TSLA is satellite.",
   "into": {
     "TSLA": "satellite",
@@ -36,6 +36,8 @@
     "GLW": "optical",
     "VRT": "energy",
     "ETN": "energy",
-    "LLY": "satellite"
+    "LLY": "satellite",
+    "SKHY": "compute",
+    "ANET": "compute"
   }
 }

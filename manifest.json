@@ -1,16 +1,8 @@
 {
-  "generated": "2026-08-26T08:19:30Z",
-  "asOf": "2026-08-26T08:19:30Z",
-  "files": [
-    "holdings.json",
-    "quotes.json",
-    "option-quotes.json",
-    "ibkr-tape.json",
-    "book-read.json",
-    "crypto.json",
-    "theme-overlay.json",
-    "desk-brief.md",
-    "live.json",
-    "manifest.json"
-  ]
+  "generated": "2026-09-04T23:45:30Z",
+  "asOf": "2026-09-04",
+  "session": "2026-09-04",
+  "fx_aud_per_usd": 1.3887,
+  "n_positions": 97,
+  "book_aud": 3720077.06
 }
