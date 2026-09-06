@@ -1,8 +1,8 @@
 {
-  "asOf": "2026-09-04T23:45:30Z",
+  "asOf": "2026-09-06T09:11:48Z",
   "session": "2026-09-04",
-  "headline": "Broadcom printed. Nvidia bought Hugging Face. Tesla launched Cybercab into a probe.",
-  "lede": "Friday 4-Sep close. Broadcom\u2019s Wednesday print is in: Q3 US$29.6b, AI semis US$16.7b (+221% y/y), Q4 guide US$34.8b a touch light vs ~US$35b. Nvidia closed Hugging Face at US$12.9b Thursday. Tesla unveiled Cybercab then drew a federal probe inside 24 hours \u2014 TSLA \u22125.9%. Memory (MU/SNDK/SKHY/DRAM) led the bid. SMSF sold CRDO 104 and AVGO 20 this week.",
+  "headline": "September folder booked. SKHY/SPCX SMSF calls on. Memory still bid.",
+  "lede": "Weekend clerk. September Drive + Aug Webull monthlies reconciled. 04-Sep SMSF bought SKHY 182.5 Sep-11, SPCX 145 Mar-27 and SKHY 160 Jan-27 x2. Book A$3.734m on Friday’s tape. Joint IBKR qty match.",
   "items": [
     {
       "kind": "earnings",
@@ -13,7 +13,7 @@
         "SEMI"
       ],
       "title": "Broadcom Q3 FY26: US$29.6b, AI semis US$16.7b, Q4 US$34.8b",
-      "what": "Beat street ~US$29.4b / $3.24 with adj. EPS $3.32. AI semiconductor revenue US$16.7b (+221% y/y, +54% q/q). Q4 revenue guide ~US$34.8b (street ~US$35.0b); AI semis guided to US$21.7b. Hock Tan: FY27 AI revenue ~US$115b, path to ~US$230b FY28. Stock shrugged \u2014 now 357.9 vs 369.7 last mark.",
+      "what": "Beat street ~US$29.4b / $3.24 with adj. EPS $3.32. AI semiconductor revenue US$16.7b (+221% y/y, +54% q/q). Q4 revenue guide ~US$34.8b (street ~US$35.0b); AI semis guided to US$21.7b. Hock Tan: FY27 AI revenue ~US$115b, path to ~US$230b FY28. Stock shrugged — now 357.9 vs 369.7 last mark.",
       "impact": "The print is a beat; the Q4 guide is the fade. AVGO SMSF now 100sh after selling 20. Do not chase. The FY27 AI number is the multi-year hold for AVGO/NVDA/TSM/SEMI, not a one-session add.",
       "tone": "mixed"
     },
@@ -33,7 +33,7 @@
         "TSLA"
       ],
       "title": "Cybercab launch, then a federal probe",
-      "what": "Launch Thursday; within 24 hours a US probe and TSLA \u22125.9% Friday (354.08). Still the largest satellite line on the desk.",
+      "what": "Launch Thursday; within 24 hours a US probe and TSLA −5.9% Friday (354.08). Still the largest satellite line on the desk.",
       "impact": "Do not add. Robotaxi remains 2027+ optionality. Size is already large vs the rest of the satellite sleeve.",
       "tone": "risk"
     },
@@ -48,15 +48,15 @@
         "MRVL"
       ],
       "title": "Memory and connectivity ripped Friday",
-      "what": "MU 1016.6 (+6.1%), SNDK 1740 (+11.9%), SKHY 177 (+8.1%), DRAM 59.69, ALAB 310.4 (+9.8%), MRVL 223.6 (+7.0%). Tight HBM/DRAM + a rebound after Wednesday\u2019s risk-off.",
-      "impact": "Helps the SMSF memory sleeve and the new SKHY calls (Sep-18 180 is a two-week lot \u2014 watch expiry). Do not chase Friday\u2019s close.",
+      "what": "MU 1016.6 (+6.1%), SNDK 1740 (+11.9%), SKHY 177 (+8.1%), DRAM 59.69, ALAB 310.4 (+9.8%), MRVL 223.6 (+7.0%). Tight HBM/DRAM + a rebound after Wednesday’s risk-off.",
+      "impact": "Helps the SMSF memory sleeve and the new SKHY calls (Sep-18 180 is a two-week lot — watch expiry). Do not chase Friday’s close.",
       "tone": "reward"
     }
   ],
   "risks": [
-    "Stronger August jobs (~162k vs ~55k) lifted September hike odds toward 50% \u2014 duration and high-multiple AI can fade.",
+    "Stronger August jobs (~162k vs ~55k) lifted September hike odds toward 50% — duration and high-multiple AI can fade.",
     "TSLA is still the biggest satellite line and just lost the Cybercab tape.",
-    "SKHY 180 call expires 18-Sep \u2014 a two-week lot, not a LEAP.",
+    "SKHY 180 call expires 18-Sep — a two-week lot, not a LEAP.",
     "AVGO Q4 guide a touch light; the stock has not paid the print."
   ],
   "rewards": [

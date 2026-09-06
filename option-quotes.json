@@ -1,5 +1,5 @@
 {
-  "priced_at": "2026-09-04T23:45:30Z",
+  "priced_at": "2026-09-06T09:11:48Z",
   "ibkr_account": {
     "id": "IBKR",
     "open_option_positions": 0,
@@ -500,6 +500,30 @@
       "currency": "USD",
       "name": "EUV Mar 2027 25 call",
       "source": "tipranks",
+      "as_of": "2026-09-04"
+    },
+    "SKHY260911C00182500": {
+      "price": 3.75,
+      "prev": 1.94,
+      "currency": "USD",
+      "name": "SKHY Sep 2026 182.500 call",
+      "source": "yahoo",
+      "as_of": "2026-09-04"
+    },
+    "SPCX270319C00145000": {
+      "price": 26.0,
+      "prev": 26.3,
+      "currency": "USD",
+      "name": "SPCX Mar 2027 145.000 call",
+      "source": "yahoo",
+      "as_of": "2026-09-04"
+    },
+    "SKHY270115C00160000": {
+      "price": 36.12,
+      "prev": 32.7,
+      "currency": "USD",
+      "name": "SKHY Jan 2027 160.000 call",
+      "source": "yahoo",
       "as_of": "2026-09-04"
     }
   }

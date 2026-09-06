@@ -1,20 +1,22 @@
 {
   "meta": {
-    "as_of_holdings": "2026-09-05",
-    "generated": "2026-09-04T23:45:30Z",
+    "as_of_holdings": "2026-09-06",
+    "generated": "2026-09-06T09:11:48Z",
     "fx_master_aud_per_usd": 1.3887,
     "public": true,
     "notes": [
-      "2026-09-05 daily: Drive fills 31-Aug SMSF Webull (BSOL 17C Oct-26 x3, BMNR 25C Jun-28 x2, MRVL 240C close); 2-Sep SMSF Webull (BSOL 14C x4, SPCX 165C add, close 180/195 Nov-26 vertical, SPCX 140C add, VRT 260C close); CMC SMSF SELL CRDO 104 @191.70 (39821374) and AVGO 20 @360.50 (39847523); 3-Sep Joint Webull close CRDO 290C; SMSF Webull SKHY 180 Sep-18 + 190 Jan-28, close MP 60C and AVGO 420C, BSOL 15C x2, IBIT 40C add, SPCX 140C add, ANET 190 Jan-28 x2, EUV 25C Mar-27 x10. Tape TradingView Friday 4-Sep (ATOM.AX Global X Uranium 20.93). Qty/cost only on fills. FX AUDUSD 0.7201 \u2192 A$1.3887.",
+      "2026-09-06 clerk: Drive September 2026 folder scanned. Applied 04-Sep Webull SMSF BUY SKHY 182.5 Sep-11 x1 @ 1.94, BUY SPCX 145 Mar-27 x1 @ 26.30, BUY SKHY 160 Jan-27 x2 @ 32.70. Aug Webull monthly statements reconciled: Joint 22 legs match after 03-Sep CRDO 290 close; SMSF stocks DRAM 300 / SPCX 200 match; SMSF option qty matches after 31-Aug US-session (BSOL 17 Oct x3, BMNR 25 Jun-28 x2, MRVL 240 close — omitted from Aug statement because they settle 01-Sep) plus 02/03/04-Sep confirms. CMC CRDO 104 and AVGO 20 already booked. IBKR Joint 10 names qty match. Tape TradingView Friday 4-Sep (weekend). New OCC premiums Yahoo last-resort (TV OPRA miss, TipRanks quota). Intrinsic floor on. ATOM.AX Global X Uranium. Qty/cost only on the three 04-Sep names.",
+      "2026-09-06 clerk: Drive September 2026 folder scanned. Applied 04-Sep Webull SMSF BUY SKHY 182.5 Sep-11 x1 @ 1.94, BUY SPCX 145 Mar-27 x1 @ 26.30, BUY SKHY 160 Jan-27 x2 @ 32.70. Aug Webull monthly statements reconciled: Joint 22 legs match after 03-Sep CRDO 290 close; SMSF stocks DRAM 300 / SPCX 200 match; SMSF option qty matches after 31-Aug US-session (BSOL 17 Oct x3, BMNR 25 Jun-28 x2, MRVL 240 close — omitted from Aug statement because they settle 01-Sep) plus 02/03/04-Sep confirms. CMC CRDO 104 and AVGO 20 already booked. IBKR Joint 10 names qty match. Tape TradingView Friday 4-Sep (weekend). New OCC premiums Yahoo last-resort (TV OPRA miss, TipRanks quota). Intrinsic floor on. ATOM.AX Global X Uranium. Qty/cost only on the three 04-Sep names.",
+      "2026-09-05 daily: Drive fills 31-Aug SMSF Webull (BSOL 17C Oct-26 x3, BMNR 25C Jun-28 x2, MRVL 240C close); 2-Sep SMSF Webull (BSOL 14C x4, SPCX 165C add, close 180/195 Nov-26 vertical, SPCX 140C add, VRT 260C close); CMC SMSF SELL CRDO 104 @191.70 (39821374) and AVGO 20 @360.50 (39847523); 3-Sep Joint Webull close CRDO 290C; SMSF Webull SKHY 180 Sep-18 + 190 Jan-28, close MP 60C and AVGO 420C, BSOL 15C x2, IBIT 40C add, SPCX 140C add, ANET 190 Jan-28 x2, EUV 25C Mar-27 x10. Tape TradingView Friday 4-Sep (ATOM.AX Global X Uranium 20.93). Qty/cost only on fills. FX AUDUSD 0.7201 → A$1.3887.",
       "2026-09-02 restore: full 97-line pack after daily MCP stub (1-line holdings / empty option-quotes). Marks Yahoo 1-Sep close. Qty/cost unchanged. Option premium + intrinsic floor, never the stock price.",
-      "2026-08-28: option marks reset to Yahoo last (27-Aug close) with call intrinsic floor. Prior clerk had marked options at the stock price \u2014 option MV was ~A$1.6m too high. Qty/cost unchanged. Joint VRT 400 closed 25-Aug; MSTR 135 Jan-28 x1 booked.",
+      "2026-08-28: option marks reset to Yahoo last (27-Aug close) with call intrinsic floor. Prior clerk had marked options at the stock price — option MV was ~A$1.6m too high. Qty/cost unchanged. Joint VRT 400 closed 25-Aug; MSTR 135 Jan-28 x1 booked.",
       "2026-08-28 marks: IBKR Joint live + TipRanks AH 27-Aug close/AH. NVDA 226.95 TSLA 354.57 AMD 474.93 TSM 426.3. BSOL 14.96 MSTR 138.35 MU 927.7. ATOM.AX 22.00. No new Drive fills. Qty/cost unchanged. FX ~1.394.",
       "Public stock pack. Positions, marks, and fills only. No account identifiers."
     ],
     "fx_master_as_of": "2026-09-04",
-    "n_positions": 97,
+    "n_positions": 100,
     "n_stocks": 32,
-    "n_options": 65
+    "n_options": 68
   },
   "accounts": [
     {
@@ -69,11 +71,11 @@
       "name": "Defiance AI & Power Infrastructure",
       "units": 1301,
       "cost_aud": 46308.83,
-      "last_mv_aud": 52520.58,
+      "last_mv_aud": 52520.73,
       "currency": "USD",
       "quote": "AIPO",
       "mark_usd": 29.07,
-      "last_price_aud": 40.369393
+      "last_price_aud": 40.369509
     },
     {
       "entity": "SMSF",
@@ -85,11 +87,11 @@
       "name": "Astera Labs",
       "units": 149,
       "cost_aud": 35166.89,
-      "last_mv_aud": 64226.64,
+      "last_mv_aud": 64226.82,
       "currency": "USD",
       "quote": "ALAB",
       "mark_usd": 310.4,
-      "last_price_aud": 431.051243
+      "last_price_aud": 431.05248
     },
     {
       "entity": "SMSF",
@@ -101,11 +103,11 @@
       "name": "Advanced Micro Devices",
       "units": 182,
       "cost_aud": 57599.82,
-      "last_mv_aud": 120702.32,
+      "last_mv_aud": 120702.67,
       "currency": "USD",
       "quote": "AMD",
       "mark_usd": 477.57,
-      "last_price_aud": 663.199556
+      "last_price_aud": 663.201459
     },
     {
       "entity": "SMSF",
@@ -117,11 +119,11 @@
       "name": "ARK Autonomous Tech & Robotics ETF",
       "units": 365,
       "cost_aud": 28293.55,
-      "last_mv_aud": 61965.35,
+      "last_mv_aud": 61965.53,
       "currency": "USD",
       "quote": "ARKQ",
       "mark_usd": 122.25,
-      "last_price_aud": 169.768088
+      "last_price_aud": 169.768575
     },
     {
       "entity": "SMSF",
@@ -133,11 +135,11 @@
       "name": "Arm Holdings",
       "units": 137,
       "cost_aud": 24020.4,
-      "last_mv_aud": 47960.46,
+      "last_mv_aud": 47960.6,
       "currency": "USD",
       "quote": "ARM",
       "mark_usd": 252.09,
-      "last_price_aud": 350.076378
+      "last_price_aud": 350.077383
     },
     {
       "entity": "SMSF",
@@ -165,11 +167,11 @@
       "name": "Broadcom",
       "units": 100,
       "cost_aud": 48230.69,
-      "last_mv_aud": 49700.74,
+      "last_mv_aud": 49700.88,
       "currency": "USD",
       "quote": "AVGO",
       "mark_usd": 357.895,
-      "last_price_aud": 497.00736
+      "last_price_aud": 497.0087865
     },
     {
       "entity": "SMSF",
@@ -181,11 +183,11 @@
       "name": "Bitwise Solana Staking ETF",
       "units": 1515,
       "cost_aud": 29478.02,
-      "last_mv_aud": 29349.05,
+      "last_mv_aud": 29349.13,
       "currency": "USD",
       "quote": "BSOL",
       "mark_usd": 13.95,
-      "last_price_aud": 19.372309
+      "last_price_aud": 19.372365
     },
     {
       "entity": "SMSF",
@@ -212,11 +214,11 @@
       "name": "Everspin Technologies",
       "units": 750,
       "cost_aud": 14301.45,
-      "last_mv_aud": 17049.72,
+      "last_mv_aud": 17049.76,
       "currency": "USD",
       "quote": "MRAM",
       "mark_usd": 16.37,
-      "last_price_aud": 22.732954
+      "last_price_aud": 22.733019000000002
     },
     {
       "entity": "SMSF",
@@ -228,11 +230,11 @@
       "name": "Marvell Technology",
       "units": 446,
       "cost_aud": 52147.88,
-      "last_mv_aud": 138457.58,
+      "last_mv_aud": 138457.97,
       "currency": "USD",
       "quote": "MRVL",
       "mark_usd": 223.55,
-      "last_price_aud": 310.442994
+      "last_price_aud": 310.443885
     },
     {
       "entity": "SMSF",
@@ -244,11 +246,11 @@
       "name": "Micron Technology",
       "units": 96,
       "cost_aud": 50907.98,
-      "last_mv_aud": 135526.51,
+      "last_mv_aud": 135526.9,
       "currency": "USD",
       "quote": "MU",
       "mark_usd": 1016.59,
-      "last_price_aud": 1411.734481
+      "last_price_aud": 1411.7385330000002
     },
     {
       "entity": "SMSF",
@@ -260,11 +262,11 @@
       "name": "NVIDIA",
       "units": 814,
       "cost_aud": 109055.75,
-      "last_mv_aud": 260398.61,
+      "last_mv_aud": 260399.36,
       "currency": "USD",
       "quote": "NVDA",
       "mark_usd": 230.36,
-      "last_price_aud": 319.900014
+      "last_price_aud": 319.900932
     },
     {
       "entity": "SMSF",
@@ -292,11 +294,11 @@
       "name": "Sandisk",
       "units": 52,
       "cost_aud": 38457.17,
-      "last_mv_aud": 125649.22,
+      "last_mv_aud": 125649.58,
       "currency": "USD",
       "quote": "SNDK",
       "mark_usd": 1740.0,
-      "last_price_aud": 2416.331065
+      "last_price_aud": 2416.338
     },
     {
       "entity": "SMSF",
@@ -308,11 +310,11 @@
       "name": "Tesla",
       "units": 557,
       "cost_aud": 163007.99,
-      "last_mv_aud": 273882.18,
+      "last_mv_aud": 273882.97,
       "currency": "USD",
       "quote": "TSLA",
       "mark_usd": 354.08,
-      "last_price_aud": 491.709485
+      "last_price_aud": 491.710896
     },
     {
       "entity": "SMSF",
@@ -324,11 +326,11 @@
       "name": "TSMC ADR",
       "units": 72,
       "cost_aud": 12783.55,
-      "last_mv_aud": 42885.04,
+      "last_mv_aud": 42885.17,
       "currency": "USD",
       "quote": "TSM",
       "mark_usd": 428.91,
-      "last_price_aud": 595.625608
+      "last_price_aud": 595.6273170000001
     },
     {
       "entity": "SMSF",
@@ -340,11 +342,11 @@
       "name": "Vertiv Holdings",
       "units": 206,
       "cost_aud": 55976.03,
-      "last_mv_aud": 80251.6,
+      "last_mv_aud": 80251.83,
       "currency": "USD",
       "quote": "VRT",
       "mark_usd": 280.53,
-      "last_price_aud": 389.570893
+      "last_price_aud": 389.572011
     },
     {
       "entity": "SMSF",
@@ -372,10 +374,10 @@
       "name": "Space Exploration Technologies",
       "units": 124,
       "cost_aud": 16740,
-      "last_mv_aud": 25476.74,
+      "last_mv_aud": 25476.81,
       "currency": "USD",
       "mark_usd": 147.95,
-      "last_price_aud": 205.457575
+      "last_price_aud": 205.45816499999998
     },
     {
       "entity": "Personal",
@@ -387,10 +389,10 @@
       "name": "Advanced Micro Devices",
       "units": 45,
       "cost_aud": 17349.68,
-      "last_mv_aud": 29843.98,
+      "last_mv_aud": 29844.07,
       "currency": "USD",
       "mark_usd": 477.57,
-      "last_price_aud": 663.199556
+      "last_price_aud": 663.201459
     },
     {
       "entity": "Personal",
@@ -402,10 +404,10 @@
       "name": "ARK Autonomous Tech & Robotics ETF",
       "units": 300,
       "cost_aud": 21406.44,
-      "last_mv_aud": 50930.43,
+      "last_mv_aud": 50930.57,
       "currency": "USD",
       "mark_usd": 122.25,
-      "last_price_aud": 169.768088
+      "last_price_aud": 169.768575
     },
     {
       "entity": "Personal",
@@ -417,10 +419,10 @@
       "name": "Broadcom",
       "units": 20,
       "cost_aud": 10307.9,
-      "last_mv_aud": 9940.15,
+      "last_mv_aud": 9940.18,
       "currency": "USD",
       "mark_usd": 357.895,
-      "last_price_aud": 497.00736
+      "last_price_aud": 497.0087865
     },
     {
       "entity": "Personal",
@@ -448,11 +450,11 @@
       "name": "Roundhill Memory ETF",
       "units": 99,
       "cost_aud": 8389.94,
-      "last_mv_aud": 8206.24,
+      "last_mv_aud": 8206.26,
       "currency": "USD",
       "avg_cost_usd": 60.482121,
       "mark_usd": 59.69,
-      "last_price_aud": 82.891265
+      "last_price_aud": 82.891503
     },
     {
       "entity": "Personal",
@@ -479,10 +481,10 @@
       "name": "Alphabet Class A",
       "units": 200,
       "cost_aud": 23369.43,
-      "last_mv_aud": 94003.61,
+      "last_mv_aud": 94003.88,
       "currency": "USD",
       "mark_usd": 338.46,
-      "last_price_aud": 470.018053
+      "last_price_aud": 470.019402
     },
     {
       "entity": "Personal",
@@ -494,10 +496,10 @@
       "name": "NVIDIA",
       "units": 200,
       "cost_aud": 12703.52,
-      "last_mv_aud": 63980.0,
+      "last_mv_aud": 63980.19,
       "currency": "USD",
       "mark_usd": 230.36,
-      "last_price_aud": 319.900014
+      "last_price_aud": 319.900932
     },
     {
       "entity": "Personal",
@@ -509,10 +511,10 @@
       "name": "Tesla",
       "units": 375,
       "cost_aud": 81856.65,
-      "last_mv_aud": 184391.06,
+      "last_mv_aud": 184391.59,
       "currency": "USD",
       "mark_usd": 354.08,
-      "last_price_aud": 491.709485
+      "last_price_aud": 491.710896
     },
     {
       "entity": "Personal",
@@ -524,10 +526,10 @@
       "name": "TSMC ADR",
       "units": 120,
       "cost_aud": 27840.92,
-      "last_mv_aud": 71475.07,
+      "last_mv_aud": 71475.28,
       "currency": "USD",
       "mark_usd": 428.91,
-      "last_price_aud": 595.625608
+      "last_price_aud": 595.6273170000001
     },
     {
       "entity": "SMSF",
@@ -539,10 +541,10 @@
       "name": "Roundhill Memory ETF",
       "units": 300,
       "cost_aud": 12985.24,
-      "last_mv_aud": 24867.38,
+      "last_mv_aud": 24867.45,
       "currency": "USD",
       "mark_usd": 59.69,
-      "last_price_aud": 82.891265
+      "last_price_aud": 82.891503
     },
     {
       "entity": "SMSF",
@@ -554,10 +556,10 @@
       "name": "Space Exploration Technologies",
       "units": 200,
       "cost_aud": 48011.83,
-      "last_mv_aud": 41091.52,
+      "last_mv_aud": 41091.63,
       "currency": "USD",
       "mark_usd": 147.95,
-      "last_price_aud": 205.457575
+      "last_price_aud": 205.45816499999998
     },
     {
       "entity": "Personal",
@@ -568,7 +570,7 @@
       "symbol": "AMZN",
       "units": 2,
       "cost_aud": 18269.06,
-      "last_mv_aud": 27690.6,
+      "last_mv_aud": 27690.68,
       "currency": "USD",
       "occ": "O:AMZN281215C00200000",
       "option_type": "C",
@@ -578,7 +580,7 @@
       "mark_usd": 99.7,
       "pending": false,
       "mult": 100,
-      "last_price_aud": 138.452993
+      "last_price_aud": 138.45339
     },
     {
       "entity": "Personal",
@@ -589,7 +591,7 @@
       "symbol": "AVGO",
       "units": 3,
       "cost_aud": 25347.56,
-      "last_mv_aud": 21538.68,
+      "last_mv_aud": 21538.74,
       "currency": "USD",
       "occ": "O:AVGO270319C00350000",
       "option_type": "C",
@@ -599,7 +601,7 @@
       "mark_usd": 51.7,
       "pending": false,
       "mult": 100,
-      "last_price_aud": 71.795584
+      "last_price_aud": 71.79579000000001
     },
     {
       "entity": "Personal",
@@ -610,7 +612,7 @@
       "symbol": "BSOL",
       "units": 9,
       "cost_aud": 744.88,
-      "last_mv_aud": 1349.81,
+      "last_mv_aud": 1349.82,
       "currency": "USD",
       "occ": "O:BSOL261120C00015000",
       "option_type": "C",
@@ -620,7 +622,7 @@
       "mark_usd": 1.08,
       "pending": false,
       "mult": 100,
-      "last_price_aud": 1.499792
+      "last_price_aud": 1.4997960000000001
     },
     {
       "entity": "Personal",
@@ -631,7 +633,7 @@
       "symbol": "BTDR",
       "units": 7,
       "cost_aud": 3567.56,
-      "last_mv_aud": 4860.44,
+      "last_mv_aud": 4860.45,
       "currency": "USD",
       "occ": "O:BTDR280121C00010000",
       "option_type": "C",
@@ -641,7 +643,7 @@
       "mark_usd": 5.0,
       "pending": false,
       "mult": 100,
-      "last_price_aud": 6.94348
+      "last_price_aud": 6.9435
     },
     {
       "entity": "Personal",
@@ -652,7 +654,7 @@
       "symbol": "CBRS",
       "units": 1,
       "cost_aud": 13650.25,
-      "last_mv_aud": 8561.31,
+      "last_mv_aud": 8561.34,
       "currency": "USD",
       "occ": "O:CBRS280121C00200000",
       "option_type": "C",
@@ -662,7 +664,7 @@
       "mark_usd": 61.65,
       "pending": false,
       "mult": 100,
-      "last_price_aud": 85.613109
+      "last_price_aud": 85.613355
     },
     {
       "entity": "Personal",
@@ -673,7 +675,7 @@
       "symbol": "ENTG",
       "units": 1,
       "cost_aud": 8302.54,
-      "last_mv_aud": 4068.88,
+      "last_mv_aud": 4068.89,
       "currency": "USD",
       "occ": "O:ENTG280121C00170000",
       "option_type": "C",
@@ -683,7 +685,7 @@
       "mark_usd": 29.3,
       "pending": false,
       "mult": 100,
-      "last_price_aud": 40.688793
+      "last_price_aud": 40.68891
     },
     {
       "entity": "Personal",
@@ -694,7 +696,7 @@
       "symbol": "GOOGL",
       "units": 3,
       "cost_aud": 10027.51,
-      "last_mv_aud": 6374.11,
+      "last_mv_aud": 6374.13,
       "currency": "USD",
       "occ": "O:GOOGL270319C00395000",
       "option_type": "C",
@@ -704,7 +706,7 @@
       "mark_usd": 15.3,
       "pending": false,
       "mult": 100,
-      "last_price_aud": 21.247049
+      "last_price_aud": 21.247110000000003
     },
     {
       "entity": "Personal",
@@ -715,7 +717,7 @@
       "symbol": "GOOGL",
       "units": 1,
       "cost_aud": 12561.25,
-      "last_mv_aud": 12925.98,
+      "last_mv_aud": 12926.02,
       "currency": "USD",
       "occ": "O:GOOGL281215C00320000",
       "option_type": "C",
@@ -725,7 +727,7 @@
       "mark_usd": 93.08,
       "pending": false,
       "mult": 100,
-      "last_price_aud": 129.259825
+      "last_price_aud": 129.260196
     },
     {
       "entity": "Personal",
@@ -736,7 +738,7 @@
       "symbol": "INTC",
       "units": 6,
       "cost_aud": 6063.55,
-      "last_mv_aud": 59575.06,
+      "last_mv_aud": 59575.23,
       "currency": "USD",
       "occ": "O:INTC271217C00025000",
       "option_type": "C",
@@ -746,7 +748,7 @@
       "mark_usd": 71.5,
       "pending": false,
       "mult": 100,
-      "last_price_aud": 99.291765
+      "last_price_aud": 99.29205
     },
     {
       "entity": "Personal",
@@ -757,7 +759,7 @@
       "symbol": "MRVL",
       "units": 6,
       "cost_aud": 17972.86,
-      "last_mv_aud": 132314.96,
+      "last_mv_aud": 132315.34,
       "currency": "USD",
       "occ": "O:MRVL270115C00077500",
       "option_type": "C",
@@ -767,7 +769,7 @@
       "mark_usd": 158.8,
       "pending": false,
       "mult": 100,
-      "last_price_aud": 220.524927
+      "last_price_aud": 220.52556
     },
     {
       "entity": "Personal",
@@ -779,7 +781,7 @@
       "name": "Strategy Inc",
       "units": 1,
       "cost_aud": 6732.38,
-      "last_mv_aud": 6332.45,
+      "last_mv_aud": 6332.47,
       "currency": "USD",
       "occ": "O:MSTR280121C00135000",
       "option_type": "C",
@@ -790,7 +792,7 @@
       "pending": false,
       "opened": "2026-08-25",
       "mult": 100,
-      "last_price_aud": 63.324538
+      "last_price_aud": 63.324720000000006
     },
     {
       "entity": "Personal",
@@ -801,7 +803,7 @@
       "symbol": "MU",
       "units": 2,
       "cost_aud": 8976.26,
-      "last_mv_aud": 190692.96,
+      "last_mv_aud": 190693.51,
       "currency": "USD",
       "occ": "O:MU280121C00330000",
       "option_type": "C",
@@ -811,7 +813,7 @@
       "mark_usd": 686.59,
       "pending": false,
       "mult": 100,
-      "last_price_aud": 953.464797
+      "last_price_aud": 953.4675330000001
     },
     {
       "entity": "Personal",
@@ -833,7 +835,7 @@
       "pending": false,
       "opened": "2026-08-17",
       "mult": 100,
-      "last_price_aud": 2.499653
+      "last_price_aud": 2.49966
     },
     {
       "entity": "Personal",
@@ -844,7 +846,7 @@
       "symbol": "NVDA",
       "units": 2,
       "cost_aud": 7800.14,
-      "last_mv_aud": 28496.04,
+      "last_mv_aud": 28496.12,
       "currency": "USD",
       "occ": "O:NVDA261218C00130000",
       "option_type": "C",
@@ -854,7 +856,7 @@
       "mark_usd": 102.6,
       "pending": false,
       "mult": 100,
-      "last_price_aud": 142.480211
+      "last_price_aud": 142.48062
     },
     {
       "entity": "Personal",
@@ -865,7 +867,7 @@
       "symbol": "NVDA",
       "units": 1,
       "cost_aud": 5519.05,
-      "last_mv_aud": 17664.21,
+      "last_mv_aud": 17664.26,
       "currency": "USD",
       "occ": "O:NVDA271217C00110000",
       "option_type": "C",
@@ -875,7 +877,7 @@
       "mark_usd": 127.2,
       "pending": false,
       "mult": 100,
-      "last_price_aud": 176.642133
+      "last_price_aud": 176.64264
     },
     {
       "entity": "Personal",
@@ -886,7 +888,7 @@
       "symbol": "NVDA",
       "units": 1,
       "cost_aud": 5373.85,
-      "last_mv_aud": 12651.02,
+      "last_mv_aud": 12651.06,
       "currency": "USD",
       "occ": "O:NVDA271217C00155000",
       "option_type": "C",
@@ -896,7 +898,7 @@
       "mark_usd": 91.1,
       "pending": false,
       "mult": 100,
-      "last_price_aud": 126.510207
+      "last_price_aud": 126.51057
     },
     {
       "entity": "Personal",
@@ -907,7 +909,7 @@
       "symbol": "NVDA",
       "units": 3,
       "cost_aud": 23613.88,
-      "last_mv_aud": 39327.87,
+      "last_mv_aud": 39327.98,
       "currency": "USD",
       "occ": "O:NVDA281215C00170000",
       "option_type": "C",
@@ -917,7 +919,7 @@
       "mark_usd": 94.4,
       "pending": false,
       "mult": 100,
-      "last_price_aud": 131.092904
+      "last_price_aud": 131.09328000000002
     },
     {
       "entity": "Personal",
@@ -928,7 +930,7 @@
       "symbol": "PLTR",
       "units": 3,
       "cost_aud": 18299.56,
-      "last_mv_aud": 42244.13,
+      "last_mv_aud": 42244.25,
       "currency": "USD",
       "occ": "O:PLTR281215C00110000",
       "option_type": "C",
@@ -938,7 +940,7 @@
       "mark_usd": 101.4,
       "pending": false,
       "mult": 100,
-      "last_price_aud": 140.813776
+      "last_price_aud": 140.81418000000002
     },
     {
       "entity": "Personal",
@@ -949,7 +951,7 @@
       "symbol": "TSLA",
       "units": 2,
       "cost_aud": 24338.42,
-      "last_mv_aud": 8693.24,
+      "last_mv_aud": 8693.26,
       "currency": "USD",
       "occ": "O:TSLA270319C00410000",
       "option_type": "C",
@@ -959,7 +961,7 @@
       "mark_usd": 31.3,
       "pending": false,
       "mult": 100,
-      "last_price_aud": 43.466185
+      "last_price_aud": 43.46631
     },
     {
       "entity": "Personal",
@@ -970,7 +972,7 @@
       "symbol": "TSLA",
       "units": 2,
       "cost_aud": 28883.18,
-      "last_mv_aud": 25829.75,
+      "last_mv_aud": 25829.82,
       "currency": "USD",
       "occ": "O:TSLA270617C00300000",
       "option_type": "C",
@@ -980,7 +982,7 @@
       "mark_usd": 93.0,
       "pending": false,
       "mult": 100,
-      "last_price_aud": 129.148729
+      "last_price_aud": 129.1491
     },
     {
       "entity": "Personal",
@@ -991,7 +993,7 @@
       "symbol": "TSLA",
       "units": 1,
       "cost_aud": 13047.67,
-      "last_mv_aud": 8572.42,
+      "last_mv_aud": 8572.45,
       "currency": "USD",
       "occ": "O:TSLA270917C00390000",
       "option_type": "C",
@@ -1001,7 +1003,7 @@
       "mark_usd": 61.73,
       "pending": false,
       "mult": 100,
-      "last_price_aud": 85.724205
+      "last_price_aud": 85.724451
     },
     {
       "entity": "Personal",
@@ -1012,7 +1014,7 @@
       "symbol": "TSLA",
       "units": 1,
       "cost_aud": 21607.21,
-      "last_mv_aud": 14310.51,
+      "last_mv_aud": 14310.55,
       "currency": "USD",
       "occ": "O:TSLA281215C00400000",
       "option_type": "C",
@@ -1022,7 +1024,7 @@
       "mark_usd": 103.05,
       "pending": false,
       "mult": 100,
-      "last_price_aud": 143.105124
+      "last_price_aud": 143.105535
     },
     {
       "entity": "SMSF",
@@ -1034,7 +1036,7 @@
       "name": "Arista Networks",
       "units": 2,
       "cost_aud": 14716.51,
-      "last_mv_aud": 15275.66,
+      "last_mv_aud": 15275.7,
       "currency": "USD",
       "occ": "O:ANET280121C00190000",
       "option_type": "C",
@@ -1044,7 +1046,7 @@
       "mark_usd": 55.0,
       "pending": false,
       "mult": 100,
-      "last_price_aud": 76.378281
+      "last_price_aud": 76.3785
     },
     {
       "entity": "SMSF",
@@ -1055,7 +1057,7 @@
       "symbol": "BMNR",
       "units": 6,
       "cost_aud": 6355.4,
-      "last_mv_aud": 6182.47,
+      "last_mv_aud": 6182.49,
       "currency": "USD",
       "occ": "O:BMNR280121C00030000",
       "option_type": "C",
@@ -1066,7 +1068,7 @@
       "pending": false,
       "opened": "2026-08-21",
       "mult": 100,
-      "last_price_aud": 10.304124
+      "last_price_aud": 10.304154
     },
     {
       "entity": "SMSF",
@@ -1078,7 +1080,7 @@
       "name": "BitMine Immersion Technologies",
       "units": 2,
       "cost_aud": 3103.58,
-      "last_mv_aud": 3105.12,
+      "last_mv_aud": 3105.13,
       "currency": "USD",
       "occ": "O:BMNR280616C00025000",
       "option_type": "C",
@@ -1088,7 +1090,7 @@
       "mark_usd": 11.18,
       "pending": false,
       "mult": 100,
-      "last_price_aud": 15.525621
+      "last_price_aud": 15.525666
     },
     {
       "entity": "SMSF",
@@ -1110,7 +1112,7 @@
       "mark_usd": 0.29,
       "pending": false,
       "mult": 100,
-      "last_price_aud": 0.402722
+      "last_price_aud": 0.402723
     },
     {
       "entity": "SMSF",
@@ -1121,7 +1123,7 @@
       "symbol": "BSOL",
       "units": 23,
       "cost_aud": 4675.44,
-      "last_mv_aud": 14053.6,
+      "last_mv_aud": 14053.64,
       "currency": "USD",
       "occ": "O:BSOL261120C00010000",
       "option_type": "C",
@@ -1131,7 +1133,7 @@
       "mark_usd": 4.4,
       "pending": false,
       "mult": 100,
-      "last_price_aud": 6.110262
+      "last_price_aud": 6.11028
     },
     {
       "entity": "SMSF",
@@ -1142,7 +1144,7 @@
       "symbol": "BSOL",
       "units": 5,
       "cost_aud": 995.39,
-      "last_mv_aud": 1735.87,
+      "last_mv_aud": 1735.88,
       "currency": "USD",
       "occ": "O:BSOL261120C00012000",
       "option_type": "C",
@@ -1152,7 +1154,7 @@
       "mark_usd": 2.5,
       "pending": false,
       "mult": 100,
-      "last_price_aud": 3.47174
+      "last_price_aud": 3.47175
     },
     {
       "entity": "SMSF",
@@ -1163,7 +1165,7 @@
       "symbol": "BSOL",
       "units": 7,
       "cost_aud": 251.22,
-      "last_mv_aud": 1049.85,
+      "last_mv_aud": 1049.86,
       "currency": "USD",
       "occ": "O:BSOL261120C00015000",
       "option_type": "C",
@@ -1174,7 +1176,7 @@
       "pending": false,
       "opened": "2026-08-19",
       "mult": 100,
-      "last_price_aud": 1.499792
+      "last_price_aud": 1.4997960000000001
     },
     {
       "entity": "SMSF",
@@ -1185,7 +1187,7 @@
       "symbol": "BSOL",
       "units": 4,
       "cost_aud": 1295.18,
-      "last_mv_aud": 2610.75,
+      "last_mv_aud": 2610.76,
       "currency": "USD",
       "occ": "O:BSOL270219C00010000",
       "option_type": "C",
@@ -1195,7 +1197,7 @@
       "mark_usd": 4.7,
       "pending": false,
       "mult": 100,
-      "last_price_aud": 6.526871
+      "last_price_aud": 6.526890000000001
     },
     {
       "entity": "SMSF",
@@ -1206,7 +1208,7 @@
       "symbol": "BSOL",
       "units": 20,
       "cost_aud": 5691.84,
-      "last_mv_aud": 10720.73,
+      "last_mv_aud": 10720.76,
       "currency": "USD",
       "occ": "O:BSOL270219C00011000",
       "option_type": "C",
@@ -1216,7 +1218,7 @@
       "mark_usd": 3.86,
       "pending": false,
       "mult": 100,
-      "last_price_aud": 5.360367
+      "last_price_aud": 5.360382
     },
     {
       "entity": "SMSF",
@@ -1238,7 +1240,7 @@
       "mark_usd": 2.5,
       "pending": false,
       "mult": 100,
-      "last_price_aud": 3.47174
+      "last_price_aud": 3.47175
     },
     {
       "entity": "SMSF",
@@ -1260,7 +1262,7 @@
       "mark_usd": 2.15,
       "pending": false,
       "mult": 100,
-      "last_price_aud": 2.985696
+      "last_price_aud": 2.985705
     },
     {
       "entity": "SMSF",
@@ -1271,7 +1273,7 @@
       "symbol": "DRAM",
       "units": 4,
       "cost_aud": 9763.25,
-      "last_mv_aud": 3527.29,
+      "last_mv_aud": 3527.3,
       "currency": "USD",
       "occ": "O:DRAM270115C00060000",
       "option_type": "C",
@@ -1281,7 +1283,7 @@
       "mark_usd": 6.35,
       "pending": false,
       "mult": 100,
-      "last_price_aud": 8.81822
+      "last_price_aud": 8.818245
     },
     {
       "entity": "SMSF",
@@ -1292,7 +1294,7 @@
       "symbol": "ETN",
       "units": 1,
       "cost_aud": 12953.85,
-      "last_mv_aud": 9457.02,
+      "last_mv_aud": 9457.05,
       "currency": "USD",
       "occ": "O:ETN280121C00420000",
       "option_type": "C",
@@ -1303,7 +1305,7 @@
       "pending": false,
       "opened": "2026-08-19",
       "mult": 100,
-      "last_price_aud": 94.570199
+      "last_price_aud": 94.57047
     },
     {
       "entity": "SMSF",
@@ -1314,7 +1316,7 @@
       "symbol": "EUV",
       "units": 20,
       "cost_aud": 16001.04,
-      "last_mv_aud": 5138.18,
+      "last_mv_aud": 5138.19,
       "currency": "USD",
       "occ": "O:EUV261218C00025000",
       "option_type": "C",
@@ -1324,7 +1326,7 @@
       "mark_usd": 1.85,
       "pending": false,
       "mult": 100,
-      "last_price_aud": 2.569088
+      "last_price_aud": 2.5690950000000004
     },
     {
       "entity": "SMSF",
@@ -1336,7 +1338,7 @@
       "name": "EUV",
       "units": 10,
       "cost_aud": 4095.63,
-      "last_mv_aud": 4721.57,
+      "last_mv_aud": 4721.58,
       "currency": "USD",
       "occ": "O:EUV270319C00025000",
       "option_type": "C",
@@ -1346,7 +1348,7 @@
       "mark_usd": 3.4,
       "pending": false,
       "mult": 100,
-      "last_price_aud": 4.721566
+      "last_price_aud": 4.72158
     },
     {
       "entity": "SMSF",
@@ -1357,7 +1359,7 @@
       "symbol": "GLW",
       "units": 1,
       "cost_aud": 7579.44,
-      "last_mv_aud": 6144.98,
+      "last_mv_aud": 6145.0,
       "currency": "USD",
       "occ": "O:GLW280121C00155000",
       "option_type": "C",
@@ -1367,7 +1369,7 @@
       "mark_usd": 44.25,
       "pending": false,
       "mult": 100,
-      "last_price_aud": 61.449799
+      "last_price_aud": 61.449975
     },
     {
       "entity": "SMSF",
@@ -1378,7 +1380,7 @@
       "symbol": "GOOGL",
       "units": 1,
       "cost_aud": 16292.89,
-      "last_mv_aud": 11144.29,
+      "last_mv_aud": 11144.32,
       "currency": "USD",
       "occ": "O:GOOGL281215C00350000",
       "option_type": "C",
@@ -1388,7 +1390,7 @@
       "mark_usd": 80.25,
       "pending": false,
       "mult": 100,
-      "last_price_aud": 111.442855
+      "last_price_aud": 111.443175
     },
     {
       "entity": "SMSF",
@@ -1399,7 +1401,7 @@
       "symbol": "HPE",
       "units": 6,
       "cost_aud": 13991.47,
-      "last_mv_aud": 16356.06,
+      "last_mv_aud": 16356.11,
       "currency": "USD",
       "occ": "O:HPE280121C00040000",
       "option_type": "C",
@@ -1409,7 +1411,7 @@
       "mark_usd": 19.63,
       "pending": false,
       "mult": 100,
-      "last_price_aud": 27.260103
+      "last_price_aud": 27.260181
     },
     {
       "entity": "SMSF",
@@ -1420,7 +1422,7 @@
       "symbol": "HPE",
       "units": 10,
       "cost_aud": 22883.52,
-      "last_mv_aud": 21385.92,
+      "last_mv_aud": 21385.98,
       "currency": "USD",
       "occ": "O:HPE280121C00050000",
       "option_type": "C",
@@ -1430,7 +1432,7 @@
       "mark_usd": 15.4,
       "pending": false,
       "mult": 100,
-      "last_price_aud": 21.385919
+      "last_price_aud": 21.38598
     },
     {
       "entity": "SMSF",
@@ -1441,7 +1443,7 @@
       "symbol": "IBIT",
       "units": 14,
       "cost_aud": 6911.52,
-      "last_mv_aud": 12267.74,
+      "last_mv_aud": 12267.78,
       "currency": "USD",
       "occ": "O:IBIT261218C00040000",
       "option_type": "C",
@@ -1451,7 +1453,7 @@
       "mark_usd": 6.31,
       "pending": false,
       "mult": 100,
-      "last_price_aud": 8.762672
+      "last_price_aud": 8.762697
     },
     {
       "entity": "SMSF",
@@ -1472,7 +1474,7 @@
       "mark_usd": 7.91,
       "pending": false,
       "mult": 100,
-      "last_price_aud": 10.984585
+      "last_price_aud": 10.984617
     },
     {
       "entity": "SMSF",
@@ -1483,7 +1485,7 @@
       "symbol": "IBIT",
       "units": 5,
       "cost_aud": 6523.43,
-      "last_mv_aud": 8727.95,
+      "last_mv_aud": 8727.98,
       "currency": "USD",
       "occ": "O:IBIT280121C00040000",
       "option_type": "C",
@@ -1493,7 +1495,7 @@
       "mark_usd": 12.57,
       "pending": false,
       "mult": 100,
-      "last_price_aud": 17.455909
+      "last_price_aud": 17.455959
     },
     {
       "entity": "SMSF",
@@ -1504,7 +1506,7 @@
       "symbol": "IBIT",
       "units": 2,
       "cost_aud": 3829.85,
-      "last_mv_aud": 5168.73,
+      "last_mv_aud": 5168.74,
       "currency": "USD",
       "occ": "O:IBIT281215C00036000",
       "option_type": "C",
@@ -1515,7 +1517,7 @@
       "pending": false,
       "opened": "2026-08-19",
       "mult": 100,
-      "last_price_aud": 25.843633
+      "last_price_aud": 25.843707
     },
     {
       "entity": "SMSF",
@@ -1526,7 +1528,7 @@
       "symbol": "IBIT",
       "units": 3,
       "cost_aud": 5684.58,
-      "last_mv_aud": 7457.3,
+      "last_mv_aud": 7457.32,
       "currency": "USD",
       "occ": "O:IBIT281215C00037000",
       "option_type": "C",
@@ -1536,7 +1538,7 @@
       "mark_usd": 17.9,
       "pending": false,
       "mult": 100,
-      "last_price_aud": 24.857659
+      "last_price_aud": 24.85773
     },
     {
       "entity": "SMSF",
@@ -1547,7 +1549,7 @@
       "symbol": "INTC",
       "units": 1,
       "cost_aud": 9127.27,
-      "last_mv_aud": 5027.08,
+      "last_mv_aud": 5027.09,
       "currency": "USD",
       "occ": "O:INTC281215C00090000",
       "option_type": "C",
@@ -1557,7 +1559,7 @@
       "mark_usd": 36.2,
       "pending": false,
       "mult": 100,
-      "last_price_aud": 50.270796
+      "last_price_aud": 50.27094
     },
     {
       "entity": "SMSF",
@@ -1568,7 +1570,7 @@
       "symbol": "LLY",
       "units": 1,
       "cost_aud": 34704.25,
-      "last_mv_aud": 36396.33,
+      "last_mv_aud": 36396.44,
       "currency": "USD",
       "occ": "O:LLY280121C01120000",
       "option_type": "C",
@@ -1578,7 +1580,7 @@
       "mark_usd": 262.09,
       "pending": false,
       "mult": 100,
-      "last_price_aud": 363.963338
+      "last_price_aud": 363.964383
     },
     {
       "entity": "SMSF",
@@ -1589,7 +1591,7 @@
       "symbol": "MRVL",
       "units": 1,
       "cost_aud": 12062.2,
-      "last_mv_aud": 12269.13,
+      "last_mv_aud": 12269.16,
       "currency": "USD",
       "occ": "O:MRVL280616C00180000",
       "option_type": "C",
@@ -1599,7 +1601,7 @@
       "mark_usd": 88.35,
       "pending": false,
       "mult": 100,
-      "last_price_aud": 122.691293
+      "last_price_aud": 122.691645
     },
     {
       "entity": "SMSF",
@@ -1610,7 +1612,7 @@
       "symbol": "MSTR",
       "units": 2,
       "cost_aud": 13505.23,
-      "last_mv_aud": 13886.96,
+      "last_mv_aud": 13887.0,
       "currency": "USD",
       "occ": "O:MSTR280121C00120000",
       "option_type": "C",
@@ -1621,7 +1623,7 @@
       "pending": false,
       "opened": "2026-08-21",
       "mult": 100,
-      "last_price_aud": 69.434801
+      "last_price_aud": 69.435
     },
     {
       "entity": "SMSF",
@@ -1632,7 +1634,7 @@
       "symbol": "MU",
       "units": 1,
       "cost_aud": 23619.68,
-      "last_mv_aud": 75683.93,
+      "last_mv_aud": 75684.15,
       "currency": "USD",
       "occ": "O:MU270617C00500000",
       "option_type": "C",
@@ -1642,7 +1644,7 @@
       "mark_usd": 545.0,
       "pending": false,
       "mult": 100,
-      "last_price_aud": 756.839328
+      "last_price_aud": 756.8415
     },
     {
       "entity": "SMSF",
@@ -1653,7 +1655,7 @@
       "symbol": "NVDA",
       "units": 2,
       "cost_aud": 20647.44,
-      "last_mv_aud": 26218.58,
+      "last_mv_aud": 26218.66,
       "currency": "USD",
       "occ": "O:NVDA281215C00170000",
       "option_type": "C",
@@ -1663,7 +1665,7 @@
       "mark_usd": 94.4,
       "pending": false,
       "mult": 100,
-      "last_price_aud": 131.092904
+      "last_price_aud": 131.09328000000002
     },
     {
       "entity": "SMSF",
@@ -1674,7 +1676,7 @@
       "symbol": "PLTR",
       "units": 1,
       "cost_aud": 2949.01,
-      "last_mv_aud": 10915.15,
+      "last_mv_aud": 10915.18,
       "currency": "USD",
       "occ": "O:PLTR270219C00110000",
       "option_type": "C",
@@ -1684,7 +1686,7 @@
       "mark_usd": 78.6,
       "pending": false,
       "mult": 100,
-      "last_price_aud": 109.151507
+      "last_price_aud": 109.15182
     },
     {
       "entity": "SMSF",
@@ -1695,7 +1697,7 @@
       "symbol": "PLTR",
       "units": 2,
       "cost_aud": 10370.18,
-      "last_mv_aud": 18164.14,
+      "last_mv_aud": 18164.2,
       "currency": "USD",
       "occ": "O:PLTR270917C00140000",
       "option_type": "C",
@@ -1705,7 +1707,7 @@
       "mark_usd": 65.4,
       "pending": false,
       "mult": 100,
-      "last_price_aud": 90.820719
+      "last_price_aud": 90.82098
     },
     {
       "entity": "SMSF",
@@ -1716,7 +1718,7 @@
       "symbol": "QCOM",
       "units": 2,
       "cost_aud": 9830.04,
-      "last_mv_aud": 12789.89,
+      "last_mv_aud": 12789.93,
       "currency": "USD",
       "occ": "O:QCOM280121C00150000",
       "option_type": "C",
@@ -1726,7 +1728,7 @@
       "mark_usd": 46.05,
       "pending": false,
       "mult": 100,
-      "last_price_aud": 63.949451
+      "last_price_aud": 63.949635
     },
     {
       "entity": "SMSF",
@@ -1748,7 +1750,7 @@
       "mark_usd": 7.45,
       "pending": false,
       "mult": 100,
-      "last_price_aud": 10.345785
+      "last_price_aud": 10.345815
     },
     {
       "entity": "SMSF",
@@ -1760,7 +1762,7 @@
       "name": "SK hynix Inc.",
       "units": 1,
       "cost_aud": 5831.07,
-      "last_mv_aud": 5832.52,
+      "last_mv_aud": 5832.54,
       "currency": "USD",
       "occ": "O:SKHY280121C00190000",
       "option_type": "C",
@@ -1770,7 +1772,51 @@
       "mark_usd": 42.0,
       "pending": false,
       "mult": 100,
-      "last_price_aud": 58.325233
+      "last_price_aud": 58.3254
+    },
+    {
+      "entity": "SMSF",
+      "broker": "Webull",
+      "broker_id": "Webull-SMSF",
+      "account": "Webull-SMSF",
+      "kind": "option",
+      "symbol": "SKHY",
+      "name": "SK hynix Inc.",
+      "units": 1,
+      "cost_aud": 269.41,
+      "last_mv_aud": 520.76,
+      "currency": "USD",
+      "occ": "O:SKHY260911C00182500",
+      "option_type": "C",
+      "strike": 182.5,
+      "expiry": "2026-09-11",
+      "avg_cost_usd": 1.94,
+      "mark_usd": 3.75,
+      "pending": false,
+      "mult": 100,
+      "last_price_aud": 5.207625
+    },
+    {
+      "entity": "SMSF",
+      "broker": "Webull",
+      "broker_id": "Webull-SMSF",
+      "account": "Webull-SMSF",
+      "kind": "option",
+      "symbol": "SKHY",
+      "name": "SK hynix Inc.",
+      "units": 2,
+      "cost_aud": 9082.1,
+      "last_mv_aud": 10031.97,
+      "currency": "USD",
+      "occ": "O:SKHY270115C00160000",
+      "option_type": "C",
+      "strike": 160.0,
+      "expiry": "2027-01-15",
+      "avg_cost_usd": 32.7,
+      "mark_usd": 36.12,
+      "pending": false,
+      "mult": 100,
+      "last_price_aud": 50.159844
     },
     {
       "entity": "SMSF",
@@ -1781,7 +1827,7 @@
       "symbol": "SPCX",
       "units": 3,
       "cost_aud": 8965.24,
-      "last_mv_aud": 6457.44,
+      "last_mv_aud": 6457.46,
       "currency": "USD",
       "occ": "O:SPCX270319C00165000",
       "option_type": "C",
@@ -1792,7 +1838,29 @@
       "pending": false,
       "opened": "2026-08-17",
       "mult": 100,
-      "last_price_aud": 21.524788
+      "last_price_aud": 21.52485
+    },
+    {
+      "entity": "SMSF",
+      "broker": "Webull",
+      "broker_id": "Webull-SMSF",
+      "account": "Webull-SMSF",
+      "kind": "option",
+      "symbol": "SPCX",
+      "name": "Space Exploration Technologies Corp",
+      "units": 1,
+      "cost_aud": 3652.28,
+      "last_mv_aud": 3610.62,
+      "currency": "USD",
+      "occ": "O:SPCX270319C00145000",
+      "option_type": "C",
+      "strike": 145.0,
+      "expiry": "2027-03-19",
+      "avg_cost_usd": 26.3,
+      "mark_usd": 26.0,
+      "pending": false,
+      "mult": 100,
+      "last_price_aud": 36.1062
     },
     {
       "entity": "SMSF",
@@ -1803,7 +1871,7 @@
       "symbol": "SPCX",
       "units": 1,
       "cost_aud": 7203.37,
-      "last_mv_aud": 8811.28,
+      "last_mv_aud": 8811.3,
       "currency": "USD",
       "occ": "O:SPCX281215C00115000",
       "option_type": "C",
@@ -1813,7 +1881,7 @@
       "mark_usd": 63.45,
       "pending": false,
       "mult": 100,
-      "last_price_aud": 88.112762
+      "last_price_aud": 88.113015
     },
     {
       "entity": "SMSF",
@@ -1824,7 +1892,7 @@
       "symbol": "SPCX",
       "units": 4,
       "cost_aud": 31593.99,
-      "last_mv_aud": 29329.26,
+      "last_mv_aud": 29329.34,
       "currency": "USD",
       "occ": "O:SPCX281215C00140000",
       "option_type": "C",
@@ -1835,7 +1903,7 @@
       "pending": false,
       "opened": "2026-08-19",
       "mult": 100,
-      "last_price_aud": 73.32315
+      "last_price_aud": 73.32336
     },
     {
       "entity": "SMSF",
@@ -1846,7 +1914,7 @@
       "symbol": "TEM",
       "units": 2,
       "cost_aud": 4867.1,
-      "last_mv_aud": 8109.98,
+      "last_mv_aud": 8110.01,
       "currency": "USD",
       "occ": "O:TEM281215C00065000",
       "option_type": "C",
@@ -1856,7 +1924,7 @@
       "mark_usd": 29.2,
       "pending": false,
       "mult": 100,
-      "last_price_aud": 40.549924
+      "last_price_aud": 40.55004
     },
     {
       "entity": "SMSF",
@@ -1867,7 +1935,7 @@
       "symbol": "TSLA",
       "units": 1,
       "cost_aud": 10774.29,
-      "last_mv_aud": 14392.45,
+      "last_mv_aud": 14392.49,
       "currency": "USD",
       "occ": "O:TSLA270917C00300000",
       "option_type": "C",
@@ -1877,7 +1945,7 @@
       "mark_usd": 103.64,
       "pending": false,
       "mult": 100,
-      "last_price_aud": 143.924455
+      "last_price_aud": 143.924868
     },
     {
       "entity": "SMSF",
@@ -1888,7 +1956,7 @@
       "symbol": "TSLA",
       "units": 1,
       "cost_aud": 16712.52,
-      "last_mv_aud": 14664.63,
+      "last_mv_aud": 14664.67,
       "currency": "USD",
       "occ": "O:TSLA281215C00390000",
       "option_type": "C",
@@ -1898,7 +1966,7 @@
       "mark_usd": 105.6,
       "pending": false,
       "mult": 100,
-      "last_price_aud": 146.646299
+      "last_price_aud": 146.64672
     },
     {
       "entity": "SMSF",
@@ -1909,7 +1977,7 @@
       "symbol": "TSLA",
       "units": 1,
       "cost_aud": 20415.12,
-      "last_mv_aud": 14310.51,
+      "last_mv_aud": 14310.55,
       "currency": "USD",
       "occ": "O:TSLA281215C00400000",
       "option_type": "C",
@@ -1919,7 +1987,7 @@
       "mark_usd": 103.05,
       "pending": false,
       "mult": 100,
-      "last_price_aud": 143.105124
+      "last_price_aud": 143.105535
     },
     {
       "entity": "SMSF",
@@ -1930,7 +1998,7 @@
       "symbol": "TSM",
       "units": 1,
       "cost_aud": 13628.2,
-      "last_mv_aud": 12998.19,
+      "last_mv_aud": 12998.23,
       "currency": "USD",
       "occ": "O:TSM280121C00400000",
       "option_type": "C",
@@ -1941,7 +2009,7 @@
       "pending": false,
       "opened": "2026-08-19",
       "mult": 100,
-      "last_price_aud": 129.981947
+      "last_price_aud": 129.98232
     }
   ],
   "trades": [
@@ -2644,6 +2712,51 @@
       "currency": "USD",
       "gross": -2950.0,
       "id": "Webull-SMSF-2026-09-03-EUV270319C00025000"
+    },
+    {
+      "date": "2026-09-04",
+      "entity": "SMSF",
+      "broker": "Webull",
+      "account": "Webull-SMSF",
+      "side": "BUY",
+      "kind": "option",
+      "symbol": "SKHY",
+      "occ": "O:SKHY260911C00182500",
+      "qty": 1,
+      "price": 1.94,
+      "currency": "USD",
+      "gross": -194.0,
+      "id": "Webull-SMSF-2026-09-04-SKHY260911C00182500"
+    },
+    {
+      "date": "2026-09-04",
+      "entity": "SMSF",
+      "broker": "Webull",
+      "account": "Webull-SMSF",
+      "side": "BUY",
+      "kind": "option",
+      "symbol": "SPCX",
+      "occ": "O:SPCX270319C00145000",
+      "qty": 1,
+      "price": 26.3,
+      "currency": "USD",
+      "gross": -2630.0,
+      "id": "Webull-SMSF-2026-09-04-SPCX270319C00145000"
+    },
+    {
+      "date": "2026-09-04",
+      "entity": "SMSF",
+      "broker": "Webull",
+      "account": "Webull-SMSF",
+      "side": "BUY",
+      "kind": "option",
+      "symbol": "SKHY",
+      "occ": "O:SKHY270115C00160000",
+      "qty": 2,
+      "price": 32.7,
+      "currency": "USD",
+      "gross": -6540.0,
+      "id": "Webull-SMSF-2026-09-04-SKHY270115C00160000"
     }
   ]
 }

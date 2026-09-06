@@ -313,7 +313,7 @@
   },
   "DRAM": {
     "price": 59.69,
-    "prev": 55.64,
+    "prev": 55.99,
     "currency": "USD",
     "name": "Roundhill Memory ETF",
     "source": "tradingview",
@@ -1066,5 +1066,32 @@
     "name": "EUV Mar 2027 25 call",
     "source": "tipranks",
     "stale": false
+  },
+  "SKHY260911C00182500": {
+    "price": 3.75,
+    "prev": 1.94,
+    "currency": "USD",
+    "name": "SKHY Sep 2026 182.500 call",
+    "source": "yahoo",
+    "stale": false,
+    "as_of": "2026-09-04"
+  },
+  "SPCX270319C00145000": {
+    "price": 26.0,
+    "prev": 26.3,
+    "currency": "USD",
+    "name": "SPCX Mar 2027 145.000 call",
+    "source": "yahoo",
+    "stale": false,
+    "as_of": "2026-09-04"
+  },
+  "SKHY270115C00160000": {
+    "price": 36.12,
+    "prev": 32.7,
+    "currency": "USD",
+    "name": "SKHY Jan 2027 160.000 call",
+    "source": "yahoo",
+    "stale": false,
+    "as_of": "2026-09-04"
   }
 }
