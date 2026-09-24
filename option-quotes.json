@@ -1,5 +1,5 @@
 {
-  "priced_at": "2026-09-06T09:11:48Z",
+  "priced_at": "2026-09-18T21:26:15Z",
   "ibkr_account": {
     "id": "IBKR",
     "open_option_positions": 0,
@@ -7,524 +7,556 @@
   },
   "quotes": {
     "AMZN281215C00200000": {
-      "price": 99.7,
-      "prev": 99.8,
+      "price": 94.925,
+      "prev": 93.4,
       "currency": "USD",
-      "name": "AMZN Dec 2028 200 call",
-      "source": "tipranks",
-      "as_of": "2026-09-04"
+      "name": "AMZN 2028-12-15 200 C",
+      "source": "live",
+      "as_of": "2026-09-18"
     },
     "AVGO270319C00350000": {
-      "price": 51.7,
-      "prev": 50.94,
+      "price": 49.375,
+      "prev": 43.125,
       "currency": "USD",
-      "name": "AVGO Mar 2027 350 call",
-      "source": "tipranks",
-      "as_of": "2026-09-04"
+      "name": "AVGO 2027-03-19 350 C",
+      "source": "live",
+      "as_of": "2026-09-18"
     },
     "BSOL261120C00015000": {
-      "price": 1.08,
-      "prev": 1.82,
+      "price": 2.075,
+      "prev": 1.075,
       "currency": "USD",
-      "name": "BSOL Nov 2026 15 call",
-      "source": "prior",
-      "as_of": "2026-09-04"
+      "name": "BSOL 2026-11-20 15 C",
+      "source": "live",
+      "as_of": "2026-09-18"
     },
     "BTDR280121C00010000": {
-      "price": 5.0,
-      "prev": 6.05,
-      "currency": "USD",
-      "name": "BTDR Jan 2028 10 call",
-      "source": "prior",
-      "as_of": "2026-09-04"
-    },
-    "CBRS280121C00200000": {
-      "price": 61.65,
-      "prev": 71.0,
-      "currency": "USD",
-      "name": "CBRS Jan 2028 200 call",
-      "source": "prior",
-      "as_of": "2026-09-04"
-    },
-    "ENTG280121C00170000": {
-      "price": 29.3,
-      "prev": 33.8,
-      "currency": "USD",
-      "name": "ENTG Jan 2028 170 call",
-      "source": "prior",
-      "as_of": "2026-09-04"
-    },
-    "GOOGL270319C00395000": {
-      "price": 15.3,
-      "prev": 18.05,
-      "currency": "USD",
-      "name": "GOOGL Mar 2027 395 call",
-      "source": "prior",
-      "as_of": "2026-09-04"
-    },
-    "GOOGL281215C00320000": {
-      "price": 93.08,
-      "prev": 97.95,
-      "currency": "USD",
-      "name": "GOOGL Dec 2028 320 call",
-      "source": "prior",
-      "as_of": "2026-09-04"
-    },
-    "INTC271217C00025000": {
-      "price": 71.5,
-      "prev": 66.51,
-      "currency": "USD",
-      "name": "INTC Dec 2027 25 call",
-      "source": "tipranks",
-      "as_of": "2026-09-04"
-    },
-    "MRVL270115C00077500": {
-      "price": 158.8,
-      "prev": 145.62,
-      "currency": "USD",
-      "name": "MRVL Jan 2027 77.5 call",
-      "source": "tipranks",
-      "as_of": "2026-09-04"
-    },
-    "MU280121C00330000": {
-      "price": 686.59,
-      "prev": 599.6,
-      "currency": "USD",
-      "name": "MU Jan 2028 330 call",
-      "source": "tipranks+intrinsic",
-      "as_of": "2026-09-04"
-    },
-    "NCLD270115C00030000": {
-      "price": 1.8,
-      "prev": 2.8,
-      "currency": "USD",
-      "name": "NCLD Jan 2027 30 call",
-      "source": "prior",
-      "as_of": "2026-09-04"
-    },
-    "NVDA261218C00130000": {
-      "price": 102.6,
-      "prev": 100.7,
-      "currency": "USD",
-      "name": "NVDA Dec 2026 130 call",
-      "source": "tipranks",
-      "as_of": "2026-09-04"
-    },
-    "NVDA271217C00110000": {
-      "price": 127.2,
-      "prev": 125.0,
-      "currency": "USD",
-      "name": "NVDA Dec 2027 110 call",
-      "source": "tipranks",
-      "as_of": "2026-09-04"
-    },
-    "NVDA271217C00155000": {
-      "price": 91.1,
-      "prev": 90.65,
-      "currency": "USD",
-      "name": "NVDA Dec 2027 155 call",
-      "source": "tipranks",
-      "as_of": "2026-09-04"
-    },
-    "NVDA281215C00170000": {
-      "price": 94.4,
-      "prev": 93.71,
-      "currency": "USD",
-      "name": "NVDA Dec 2028 170 call",
-      "source": "tipranks",
-      "as_of": "2026-09-04"
-    },
-    "PLTR281215C00110000": {
-      "price": 101.4,
-      "prev": 105.0,
-      "currency": "USD",
-      "name": "PLTR Dec 2028 110 call",
-      "source": "prior",
-      "as_of": "2026-09-04"
-    },
-    "TSLA270319C00410000": {
-      "price": 31.3,
-      "prev": 32.33,
-      "currency": "USD",
-      "name": "TSLA Mar 2027 410 call",
-      "source": "prior",
-      "as_of": "2026-09-04"
-    },
-    "TSLA270617C00300000": {
-      "price": 93.0,
-      "prev": 93.67,
-      "currency": "USD",
-      "name": "TSLA Jun 2027 300 call",
-      "source": "prior",
-      "as_of": "2026-09-04"
-    },
-    "TSLA270917C00390000": {
-      "price": 61.73,
-      "prev": 63.2,
-      "currency": "USD",
-      "name": "TSLA Sep 2027 390 call",
-      "source": "prior",
-      "as_of": "2026-09-04"
-    },
-    "TSLA281215C00400000": {
-      "price": 103.05,
-      "prev": 104.0,
-      "currency": "USD",
-      "name": "TSLA Dec 2028 400 call",
-      "source": "prior",
-      "as_of": "2026-09-04"
-    },
-    "BSOL261120C00010000": {
-      "price": 4.4,
-      "prev": 5.35,
-      "currency": "USD",
-      "name": "BSOL Nov 2026 10 call",
-      "source": "prior",
-      "as_of": "2026-09-04"
-    },
-    "BSOL261120C00012000": {
-      "price": 2.5,
-      "prev": 3.7,
-      "currency": "USD",
-      "name": "BSOL Nov 2026 12 call",
-      "source": "prior",
-      "as_of": "2026-09-04"
-    },
-    "BSOL270219C00010000": {
-      "price": 4.7,
+      "price": 6.65,
       "prev": 5.8,
       "currency": "USD",
-      "name": "BSOL Feb 2027 10 call",
-      "source": "prior",
-      "as_of": "2026-09-04"
+      "name": "BTDR 2028-01-21 10 C",
+      "source": "live",
+      "as_of": "2026-09-18"
     },
-    "BSOL270219C00011000": {
-      "price": 3.86,
-      "prev": 5.02,
+    "CBRS280121C00200000": {
+      "price": 73.3,
+      "prev": 71.5,
       "currency": "USD",
-      "name": "BSOL Feb 2027 11 call",
-      "source": "prior",
-      "as_of": "2026-09-04"
+      "name": "CBRS 2028-01-21 200 C",
+      "source": "live",
+      "as_of": "2026-09-18"
     },
-    "DRAM270115C00060000": {
-      "price": 6.35,
-      "prev": 8.15,
+    "ENTG280121C00170000": {
+      "price": 34.0,
+      "prev": 30.35,
       "currency": "USD",
-      "name": "DRAM Jan 2027 60 call",
-      "source": "prior",
-      "as_of": "2026-09-04"
+      "name": "ENTG 2028-01-21 170 C",
+      "source": "live",
+      "as_of": "2026-09-18"
     },
-    "EUV261218C00025000": {
-      "price": 1.85,
-      "prev": 3.0,
+    "GOOGL281215C00320000": {
+      "price": 104.25,
+      "prev": 102.0,
       "currency": "USD",
-      "name": "EUV Dec 2026 25 call",
-      "source": "prior",
-      "as_of": "2026-09-04"
+      "name": "GOOGL 2028-12-15 320 C",
+      "source": "live",
+      "as_of": "2026-09-18"
     },
-    "GLW280121C00155000": {
-      "price": 44.25,
-      "prev": 45.98,
+    "INTC271217C00025000": {
+      "price": 86.4,
+      "prev": 85.475,
       "currency": "USD",
-      "name": "GLW Jan 2028 155 call",
-      "source": "prior",
-      "as_of": "2026-09-04"
+      "name": "INTC 2027-12-17 25 C",
+      "source": "live",
+      "as_of": "2026-09-18"
     },
-    "GOOGL281215C00350000": {
-      "price": 80.25,
-      "prev": 84.5,
+    "MRVL270115C00077500": {
+      "price": 167.875,
+      "prev": 164.55,
       "currency": "USD",
-      "name": "GOOGL Dec 2028 350 call",
-      "source": "prior",
-      "as_of": "2026-09-04"
-    },
-    "HPE280121C00040000": {
-      "price": 19.63,
-      "prev": 23.65,
-      "currency": "USD",
-      "name": "HPE Jan 2028 40 call",
-      "source": "prior",
-      "as_of": "2026-09-04"
-    },
-    "HPE280121C00050000": {
-      "price": 15.4,
-      "prev": 18.95,
-      "currency": "USD",
-      "name": "HPE Jan 2028 50 call",
-      "source": "prior",
-      "as_of": "2026-09-04"
-    },
-    "IBIT261218C00040000": {
-      "price": 6.31,
-      "prev": 7.68,
-      "currency": "USD",
-      "name": "IBIT Dec 2026 40 call",
-      "source": "prior",
-      "as_of": "2026-09-04"
-    },
-    "IBIT270319C00040000": {
-      "price": 7.91,
-      "prev": 9.31,
-      "currency": "USD",
-      "name": "IBIT Mar 2027 40 call",
-      "source": "prior",
-      "as_of": "2026-09-04"
-    },
-    "IBIT280121C00040000": {
-      "price": 12.57,
-      "prev": 14.15,
-      "currency": "USD",
-      "name": "IBIT Jan 2028 40 call",
-      "source": "prior",
-      "as_of": "2026-09-04"
-    },
-    "IBIT281215C00037000": {
-      "price": 17.9,
-      "prev": 19.9,
-      "currency": "USD",
-      "name": "IBIT Dec 2028 37 call",
-      "source": "prior",
-      "as_of": "2026-09-04"
-    },
-    "INTC281215C00090000": {
-      "price": 36.2,
-      "prev": 39.16,
-      "currency": "USD",
-      "name": "INTC Dec 2028 90 call",
-      "source": "prior",
-      "as_of": "2026-09-04"
-    },
-    "LLY280121C01120000": {
-      "price": 262.09,
-      "prev": 330.1,
-      "currency": "USD",
-      "name": "LLY Jan 2028 1120 call",
-      "source": "prior",
-      "as_of": "2026-09-04"
-    },
-    "MRVL280616C00180000": {
-      "price": 88.35,
-      "prev": 121.54,
-      "currency": "USD",
-      "name": "MRVL Jun 2028 180 call",
-      "source": "prior",
-      "as_of": "2026-09-04"
-    },
-    "MU270617C00500000": {
-      "price": 545.0,
-      "prev": 477.4,
-      "currency": "USD",
-      "name": "MU Jun 2027 500 call",
-      "source": "tipranks",
-      "as_of": "2026-09-04"
-    },
-    "PLTR270219C00110000": {
-      "price": 78.6,
-      "prev": 82.03,
-      "currency": "USD",
-      "name": "PLTR Feb 2027 110 call",
-      "source": "prior",
-      "as_of": "2026-09-04"
-    },
-    "PLTR270917C00140000": {
-      "price": 65.4,
-      "prev": 69.45,
-      "currency": "USD",
-      "name": "PLTR Sep 2027 140 call",
-      "source": "prior",
-      "as_of": "2026-09-04"
-    },
-    "QCOM280121C00150000": {
-      "price": 46.05,
-      "prev": 45.0,
-      "currency": "USD",
-      "name": "QCOM Jan 2028 150 call",
-      "source": "prior",
-      "as_of": "2026-09-04"
-    },
-    "SPCX270319C00165000": {
-      "price": 15.5,
-      "prev": 16.58,
-      "currency": "USD",
-      "name": "SPCX Mar 2027 165 call",
-      "source": "prior",
-      "as_of": "2026-09-04"
-    },
-    "SPCX281215C00115000": {
-      "price": 63.45,
-      "prev": 63.0,
-      "currency": "USD",
-      "name": "SPCX Dec 2028 115 call",
-      "source": "prior",
-      "as_of": "2026-09-04"
-    },
-    "TEM281215C00065000": {
-      "price": 29.2,
-      "prev": 35.6,
-      "currency": "USD",
-      "name": "TEM Dec 2028 65 call",
-      "source": "prior",
-      "as_of": "2026-09-04"
-    },
-    "TSLA270917C00300000": {
-      "price": 103.64,
-      "prev": 103.55,
-      "currency": "USD",
-      "name": "TSLA Sep 2027 300 call",
-      "source": "prior",
-      "as_of": "2026-09-04"
-    },
-    "TSLA281215C00390000": {
-      "price": 105.6,
-      "prev": 106.63,
-      "currency": "USD",
-      "name": "TSLA Dec 2028 390 call",
-      "source": "prior",
-      "as_of": "2026-09-04"
-    },
-    "IBIT281215C00036000": {
-      "price": 18.61,
-      "prev": 20.3,
-      "currency": "USD",
-      "name": "IBIT Dec 2028 36 call",
-      "source": "prior",
-      "as_of": "2026-09-04"
-    },
-    "SPCX281215C00140000": {
-      "price": 52.8,
-      "prev": 55.2,
-      "currency": "USD",
-      "name": "SPCX Dec 2028 140 call",
-      "source": "prior",
-      "as_of": "2026-09-04"
-    },
-    "ETN280121C00420000": {
-      "price": 68.1,
-      "prev": 77.93,
-      "currency": "USD",
-      "name": "ETN Jan 2028 420 call",
-      "source": "prior",
-      "as_of": "2026-09-04"
-    },
-    "TSM280121C00400000": {
-      "price": 93.6,
-      "prev": 105.4,
-      "currency": "USD",
-      "name": "TSM Jan 2028 400 call",
-      "source": "prior",
-      "as_of": "2026-09-04"
-    },
-    "BMNR280121C00030000": {
-      "price": 7.42,
-      "prev": 9.3,
-      "currency": "USD",
-      "name": "BMNR Jan 2028 30 call",
-      "source": "prior",
-      "as_of": "2026-09-04"
-    },
-    "MSTR280121C00120000": {
-      "price": 50.0,
-      "prev": 59.93,
-      "currency": "USD",
-      "name": "MSTR Jan 2028 120 call",
-      "source": "prior",
-      "as_of": "2026-09-04"
+      "name": "MRVL 2027-01-15 77.5 C",
+      "source": "live",
+      "as_of": "2026-09-18"
     },
     "MSTR280121C00135000": {
-      "price": 45.6,
-      "prev": 55.04,
+      "price": 63.675000000000004,
+      "prev": 47.9,
       "currency": "USD",
-      "name": "MSTR Jan 2028 135 call",
-      "source": "prior",
-      "as_of": "2026-09-04"
+      "name": "MSTR 2028-01-21 135 C",
+      "source": "live",
+      "as_of": "2026-09-18"
     },
-    "BSOL261016C00017000": {
-      "price": 0.29,
-      "prev": 0.4,
+    "MU280121C00330000": {
+      "price": 717.75,
+      "prev": 680.925,
       "currency": "USD",
-      "name": "BSOL Oct 2026 17 call",
-      "source": "tipranks",
-      "as_of": "2026-09-04"
+      "name": "MU 2028-01-21 330 C",
+      "source": "live",
+      "as_of": "2026-09-18"
     },
-    "BMNR280616C00025000": {
-      "price": 11.18,
-      "prev": 12.4,
+    "NCLD270115C00030000": {
+      "price": 2.025,
+      "prev": 2.025,
       "currency": "USD",
-      "name": "BMNR Jun 2028 25 call",
-      "source": "tipranks",
-      "as_of": "2026-09-04"
+      "name": "NCLD 2027-01-15 30 C",
+      "source": "live",
+      "as_of": "2026-09-18"
     },
-    "BSOL270219C00014000": {
-      "price": 2.5,
-      "prev": 2.8,
+    "NVDA261218C00130000": {
+      "price": 93.9,
+      "prev": 91.2,
       "currency": "USD",
-      "name": "BSOL Feb 2027 14 call",
-      "source": "tipranks",
-      "as_of": "2026-09-04"
+      "name": "NVDA 2026-12-18 130 C",
+      "source": "live",
+      "as_of": "2026-09-18"
     },
-    "SKHY260918C00180000": {
-      "price": 7.45,
-      "prev": 2.32,
+    "NVDA271217C00110000": {
+      "price": 120.625,
+      "prev": 117.775,
       "currency": "USD",
-      "name": "SKHY Sep 2026 180 call",
-      "source": "tipranks",
-      "as_of": "2026-09-04"
+      "name": "NVDA 2027-12-17 110 C",
+      "source": "live",
+      "as_of": "2026-09-18"
     },
-    "SKHY280121C00190000": {
-      "price": 42.0,
-      "prev": 42.57,
+    "NVDA271217C00155000": {
+      "price": 84.275,
+      "prev": 81.4,
       "currency": "USD",
-      "name": "SKHY Jan 2028 190 call",
-      "source": "tipranks",
-      "as_of": "2026-09-04"
+      "name": "NVDA 2027-12-17 155 C",
+      "source": "live",
+      "as_of": "2026-09-18"
     },
-    "BSOL270219C00015000": {
-      "price": 2.15,
-      "prev": 2.35,
+    "NVDA281215C00170000": {
+      "price": 87.375,
+      "prev": 85.15,
       "currency": "USD",
-      "name": "BSOL Feb 2027 15 call",
-      "source": "tipranks",
-      "as_of": "2026-09-04"
+      "name": "NVDA 2028-12-15 170 C",
+      "source": "live",
+      "as_of": "2026-09-18"
+    },
+    "PLTR281215C00110000": {
+      "price": 97.4,
+      "prev": 96.57499999999999,
+      "currency": "USD",
+      "name": "PLTR 2028-12-15 110 C",
+      "source": "live",
+      "as_of": "2026-09-18"
+    },
+    "TSLA270319C00410000": {
+      "price": 31.925,
+      "prev": 33.675,
+      "currency": "USD",
+      "name": "TSLA 2027-03-19 410 C",
+      "source": "live",
+      "as_of": "2026-09-18"
+    },
+    "TSLA270617C00300000": {
+      "price": 98.275,
+      "prev": 100.375,
+      "currency": "USD",
+      "name": "TSLA 2027-06-17 300 C",
+      "source": "live",
+      "as_of": "2026-09-18"
+    },
+    "TSLA270917C00390000": {
+      "price": 64.575,
+      "prev": 66.125,
+      "currency": "USD",
+      "name": "TSLA 2027-09-17 390 C",
+      "source": "live",
+      "as_of": "2026-09-18"
+    },
+    "TSLA281215C00400000": {
+      "price": 106.55000000000001,
+      "prev": 107.6,
+      "currency": "USD",
+      "name": "TSLA 2028-12-15 400 C",
+      "source": "live",
+      "as_of": "2026-09-18"
     },
     "ANET280121C00190000": {
-      "price": 55.0,
-      "prev": 53.0,
+      "price": 57.875,
+      "prev": 58.15,
       "currency": "USD",
-      "name": "ANET Jan 2028 190 call",
-      "source": "tipranks",
-      "as_of": "2026-09-04"
+      "name": "ANET 2028-01-21 190.0 C",
+      "source": "live",
+      "as_of": "2026-09-18"
+    },
+    "BMNR280121C00030000": {
+      "price": 8.925,
+      "prev": 7.725,
+      "currency": "USD",
+      "name": "BMNR 2028-01-21 30 C",
+      "source": "live",
+      "as_of": "2026-09-18"
+    },
+    "BMNR280616C00025000": {
+      "price": 11.8,
+      "prev": 10.275,
+      "currency": "USD",
+      "name": "BMNR 2028-06-16 25.0 C",
+      "source": "live",
+      "as_of": "2026-09-18"
+    },
+    "BSOL261016C00017000": {
+      "price": 0.6,
+      "prev": 0.175,
+      "currency": "USD",
+      "name": "BSOL 2026-10-16 17.0 C",
+      "source": "live",
+      "as_of": "2026-09-18"
+    },
+    "BSOL261120C00010000": {
+      "price": 5.85,
+      "prev": 4.25,
+      "currency": "USD",
+      "name": "BSOL 2026-11-20 10 C",
+      "source": "live",
+      "as_of": "2026-09-18"
+    },
+    "BSOL261120C00012000": {
+      "price": 4.15,
+      "prev": 2.35,
+      "currency": "USD",
+      "name": "BSOL 2026-11-20 12 C",
+      "source": "live",
+      "as_of": "2026-09-18"
+    },
+    "BSOL270219C00010000": {
+      "price": 6.4,
+      "prev": 4.8,
+      "currency": "USD",
+      "name": "BSOL 2027-02-19 10 C",
+      "source": "live",
+      "as_of": "2026-09-18"
+    },
+    "BSOL270219C00011000": {
+      "price": 5.65,
+      "prev": 4.0,
+      "currency": "USD",
+      "name": "BSOL 2027-02-19 11 C",
+      "source": "live",
+      "as_of": "2026-09-18"
+    },
+    "BSOL270219C00014000": {
+      "price": 3.55,
+      "prev": 2.375,
+      "currency": "USD",
+      "name": "BSOL 2027-02-19 14.0 C",
+      "source": "live",
+      "as_of": "2026-09-18"
+    },
+    "BSOL270219C00015000": {
+      "price": 3.15,
+      "prev": 1.9500000000000002,
+      "currency": "USD",
+      "name": "BSOL 2027-02-19 15.0 C",
+      "source": "live",
+      "as_of": "2026-09-18"
+    },
+    "DRAM270115C00060000": {
+      "price": 8.3,
+      "prev": 7.375,
+      "currency": "USD",
+      "name": "DRAM 2027-01-15 60 C",
+      "source": "live",
+      "as_of": "2026-09-18"
+    },
+    "ETN280121C00420000": {
+      "price": 87.75,
+      "prev": 78.5,
+      "currency": "USD",
+      "name": "ETN 2028-01-21 420 C",
+      "source": "live",
+      "as_of": "2026-09-18"
     },
     "EUV270319C00025000": {
-      "price": 3.4,
-      "prev": 2.95,
+      "price": 2.55,
+      "prev": 3.05,
       "currency": "USD",
-      "name": "EUV Mar 2027 25 call",
-      "source": "tipranks",
-      "as_of": "2026-09-04"
+      "name": "EUV 2027-03-19 25.0 C",
+      "source": "live",
+      "as_of": "2026-09-18"
     },
-    "SKHY260911C00182500": {
-      "price": 3.75,
-      "prev": 1.94,
+    "GLW280121C00155000": {
+      "price": 43.9,
+      "prev": 42.375,
       "currency": "USD",
-      "name": "SKHY Sep 2026 182.500 call",
-      "source": "yahoo",
-      "as_of": "2026-09-04"
+      "name": "GLW 2028-01-21 155 C",
+      "source": "live",
+      "as_of": "2026-09-18"
+    },
+    "GOOGL281215C00350000": {
+      "price": 90.875,
+      "prev": 88.625,
+      "currency": "USD",
+      "name": "GOOGL 2028-12-15 350 C",
+      "source": "live",
+      "as_of": "2026-09-18"
+    },
+    "HPE280121C00040000": {
+      "price": 27.775,
+      "prev": 28.225,
+      "currency": "USD",
+      "name": "HPE 2028-01-21 40 C",
+      "source": "live",
+      "as_of": "2026-09-18"
+    },
+    "HPE280121C00050000": {
+      "price": 22.7,
+      "prev": 23.0,
+      "currency": "USD",
+      "name": "HPE 2028-01-21 50 C",
+      "source": "live",
+      "as_of": "2026-09-18"
+    },
+    "IBIT261218C00040000": {
+      "price": 7.625,
+      "prev": 5.525,
+      "currency": "USD",
+      "name": "IBIT 2026-12-18 40 C",
+      "source": "live",
+      "as_of": "2026-09-18"
+    },
+    "IBIT270319C00040000": {
+      "price": 9.25,
+      "prev": 7.199999999999999,
+      "currency": "USD",
+      "name": "IBIT 2027-03-19 40 C",
+      "source": "live",
+      "as_of": "2026-09-18"
+    },
+    "IBIT280121C00040000": {
+      "price": 13.9,
+      "prev": 11.774999999999999,
+      "currency": "USD",
+      "name": "IBIT 2028-01-21 40 C",
+      "source": "live",
+      "as_of": "2026-09-18"
+    },
+    "IBIT281215C00036000": {
+      "price": 20.125,
+      "prev": 18.0,
+      "currency": "USD",
+      "name": "IBIT 2028-12-15 36 C",
+      "source": "live",
+      "as_of": "2026-09-18"
+    },
+    "IBIT281215C00037000": {
+      "price": 19.450000000000003,
+      "prev": 17.275,
+      "currency": "USD",
+      "name": "IBIT 2028-12-15 37 C",
+      "source": "live",
+      "as_of": "2026-09-18"
+    },
+    "INTC281215C00090000": {
+      "price": 51.25,
+      "prev": 51.400000000000006,
+      "currency": "USD",
+      "name": "INTC 2028-12-15 90 C",
+      "source": "live",
+      "as_of": "2026-09-18"
+    },
+    "LLY280121C01120000": {
+      "price": 243.6,
+      "prev": 241.5,
+      "currency": "USD",
+      "name": "LLY 2028-01-21 1120 C",
+      "source": "live",
+      "as_of": "2026-09-18"
+    },
+    "MRVL280616C00180000": {
+      "price": 116.15,
+      "prev": 113.65,
+      "currency": "USD",
+      "name": "MRVL 2028-06-16 180 C",
+      "source": "live",
+      "as_of": "2026-09-18"
+    },
+    "MSTR280121C00120000": {
+      "price": 69.225,
+      "prev": 53.225,
+      "currency": "USD",
+      "name": "MSTR 2028-01-21 120 C",
+      "source": "live",
+      "as_of": "2026-09-18"
+    },
+    "MU270617C00500000": {
+      "price": 546.1,
+      "prev": 510.625,
+      "currency": "USD",
+      "name": "MU 2027-06-17 500 C",
+      "source": "live",
+      "as_of": "2026-09-18"
+    },
+    "PLTR270219C00110000": {
+      "price": 72.82499999999999,
+      "prev": 71.75,
+      "currency": "USD",
+      "name": "PLTR 2027-02-19 110 C",
+      "source": "live",
+      "as_of": "2026-09-18"
+    },
+    "PLTR270917C00140000": {
+      "price": 62.25,
+      "prev": 60.975,
+      "currency": "USD",
+      "name": "PLTR 2027-09-17 140 C",
+      "source": "live",
+      "as_of": "2026-09-18"
+    },
+    "QCOM280121C00150000": {
+      "price": 55.5,
+      "prev": 63.8,
+      "currency": "USD",
+      "name": "QCOM 2028-01-21 150 C",
+      "source": "live",
+      "as_of": "2026-09-18"
+    },
+    "SKHY260918C00180000": {
+      "price": 7.525,
+      "prev": 4.449999999999999,
+      "currency": "USD",
+      "name": "SKHY 2026-09-18 180.0 C",
+      "source": "live",
+      "as_of": "2026-09-18"
+    },
+    "SKHY280121C00190000": {
+      "price": 57.675,
+      "prev": 54.85,
+      "currency": "USD",
+      "name": "SKHY 2028-01-21 190.0 C",
+      "source": "live",
+      "as_of": "2026-09-18"
+    },
+    "SPCX270319C00165000": {
+      "price": 18.975,
+      "prev": 20.450000000000003,
+      "currency": "USD",
+      "name": "SPCX 2027-03-19 165 C",
+      "source": "live",
+      "as_of": "2026-09-18"
+    },
+    "SPCX281215C00115000": {
+      "price": 70.5,
+      "prev": 73.325,
+      "currency": "USD",
+      "name": "SPCX 2028-12-15 115 C",
+      "source": "live",
+      "as_of": "2026-09-18"
+    },
+    "SPCX281215C00140000": {
+      "price": 59.575,
+      "prev": 62.125,
+      "currency": "USD",
+      "name": "SPCX 2028-12-15 140 C",
+      "source": "live",
+      "as_of": "2026-09-18"
+    },
+    "TEM281215C00065000": {
+      "price": 40.275,
+      "prev": 43.0,
+      "currency": "USD",
+      "name": "TEM 2028-12-15 65 C",
+      "source": "live",
+      "as_of": "2026-09-18"
+    },
+    "TSLA270917C00300000": {
+      "price": 108.725,
+      "prev": 109.9,
+      "currency": "USD",
+      "name": "TSLA 2027-09-17 300 C",
+      "source": "live",
+      "as_of": "2026-09-18"
+    },
+    "TSLA281215C00390000": {
+      "price": 109.825,
+      "prev": 110.975,
+      "currency": "USD",
+      "name": "TSLA 2028-12-15 390 C",
+      "source": "live",
+      "as_of": "2026-09-18"
+    },
+    "TSM280121C00400000": {
+      "price": 103.925,
+      "prev": 101.0,
+      "currency": "USD",
+      "name": "TSM 2028-01-21 400 C",
+      "source": "live",
+      "as_of": "2026-09-18"
     },
     "SPCX270319C00145000": {
-      "price": 26.0,
-      "prev": 26.3,
+      "price": 27.5,
+      "prev": 29.3,
       "currency": "USD",
-      "name": "SPCX Mar 2027 145.000 call",
-      "source": "yahoo",
-      "as_of": "2026-09-04"
+      "name": "SPCX 2027-03-19 145.0 C",
+      "source": "live",
+      "as_of": "2026-09-18"
     },
     "SKHY270115C00160000": {
-      "price": 36.12,
-      "prev": 32.7,
+      "price": 42.175,
+      "prev": 38.75,
       "currency": "USD",
-      "name": "SKHY Jan 2027 160.000 call",
-      "source": "yahoo",
-      "as_of": "2026-09-04"
+      "name": "SKHY 2027-01-15 160.0 C",
+      "source": "live",
+      "as_of": "2026-09-18"
+    },
+    "BSOL260918C00015000": {
+      "price": 1.225,
+      "prev": 0.22499999999999998,
+      "currency": "USD",
+      "name": "BSOL 2026-09-18 15.0 C",
+      "source": "live",
+      "as_of": "2026-09-18"
+    },
+    "SPCX270617C00170000": {
+      "price": 23.55,
+      "prev": 25.125,
+      "currency": "USD",
+      "name": "SPCX 2027-06-17 170.0 C",
+      "source": "live",
+      "as_of": "2026-09-18"
+    },
+    "PANW271217C00300000": {
+      "price": 126.5,
+      "prev": 135.5,
+      "currency": "USD",
+      "name": "PANW 2027-12-17 300.0 C",
+      "source": "live",
+      "as_of": "2026-09-18"
+    },
+    "MSTR270917C00125000": {
+      "price": 60.5,
+      "prev": 44.349999999999994,
+      "currency": "USD",
+      "name": "MSTR 2027-09-17 125.0 C",
+      "source": "live",
+      "as_of": "2026-09-18"
+    },
+    "EUV270319C00023000": {
+      "price": 3.225,
+      "prev": 3.4499999999999997,
+      "currency": "USD",
+      "name": "EUV 2027-03-19 23.0 C",
+      "source": "live",
+      "as_of": "2026-09-18"
+    },
+    "NCLD261016C00025000": {
+      "price": 1.625,
+      "prev": 1.15,
+      "currency": "USD",
+      "name": "NCLD 2026-10-16 25.0 C",
+      "source": "live",
+      "as_of": "2026-09-18"
+    },
+    "GOOGL271217C00370000": {
+      "price": 54.675,
+      "prev": 52.8,
+      "currency": "USD",
+      "name": "GOOGL 2027-12-17 370.0 C",
+      "source": "live",
+      "as_of": "2026-09-18"
     }
   }
 }
