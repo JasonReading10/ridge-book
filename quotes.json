@@ -161,21 +161,19 @@
     "stale": false
   },
   "BTDR": {
-    "price": 10.35,
-    "prev": 11.29,
+    "price": 10.91,
+    "prev": 10.91,
     "currency": "USD",
     "name": "Bitdeer Technologies Group",
-    "exch": "NCM",
-    "source": "yahoo-last",
+    "source": "tv-chain",
     "stale": false
   },
   "CBRS": {
-    "price": 172.62,
-    "prev": 183.92,
+    "price": 177.1,
+    "prev": 177.1,
     "currency": "USD",
     "name": "Cerebras Systems Inc.",
-    "exch": "NMS",
-    "source": "yahoo-last",
+    "source": "tv-chain",
     "stale": false
   },
   "ENTG": {
@@ -188,66 +186,59 @@
     "stale": false
   },
   "INTC": {
-    "price": 88.97,
-    "prev": 87.48,
+    "price": 112.5,
+    "prev": 112.5,
     "currency": "USD",
     "name": "Intel Corporation",
-    "exch": "NMS",
-    "source": "yahoo-last",
+    "source": "tv-chain",
     "stale": false
   },
   "NCLD": {
-    "price": 21.32,
-    "prev": 23.72,
+    "price": 24.36,
+    "prev": 24.36,
     "currency": "USD",
     "name": "Roundhill Neocloud ETF",
-    "exch": "NGM",
-    "source": "yahoo-last",
+    "source": "tv-chain",
     "stale": false
   },
   "PLTR": {
-    "price": 179.92,
-    "prev": 172.73,
+    "price": 192.07,
+    "prev": 192.07,
     "currency": "USD",
     "name": "Palantir Technologies Inc.",
-    "exch": "NMS",
-    "source": "yahoo-last",
+    "source": "tv-chain",
     "stale": false
   },
   "EUV": {
-    "price": 22.68,
-    "prev": 24.17,
+    "price": 27.07,
+    "prev": 27.07,
     "currency": "USD",
     "name": "Corgi Lithography & Semiconduct",
-    "exch": "BTS",
-    "source": "yahoo-last",
+    "source": "tv-chain",
     "stale": false
   },
   "GLW": {
-    "price": 145.56,
-    "prev": 147.16,
+    "price": 168.97,
+    "prev": 168.97,
     "currency": "USD",
     "name": "Corning Incorporated",
-    "exch": "NYQ",
-    "source": "yahoo-last",
+    "source": "tv-chain",
     "stale": false
   },
   "HPE": {
-    "price": 50.87,
-    "prev": 53.44,
+    "price": 70.48,
+    "prev": 70.48,
     "currency": "USD",
     "name": "Hewlett Packard Enterprise Comp",
-    "exch": "NYQ",
-    "source": "yahoo-last",
+    "source": "tv-chain",
     "stale": false
   },
   "IBIT": {
-    "price": 43.76,
-    "prev": 44.72,
+    "price": 48.49,
+    "prev": 48.49,
     "currency": "USD",
     "name": "iShares Bitcoin Trust ETF",
-    "exch": "NGM",
-    "source": "yahoo-last",
+    "source": "tv-chain",
     "stale": false
   },
   "LLY": {
@@ -269,21 +260,19 @@
     "stale": false
   },
   "QCOM": {
-    "price": 166.61,
-    "prev": 160.56,
+    "price": 181.03,
+    "prev": 181.03,
     "currency": "USD",
     "name": "QUALCOMM Incorporated",
-    "exch": "NMS",
-    "source": "yahoo-last",
+    "source": "tv-chain",
     "stale": false
   },
   "TEM": {
-    "price": 62.27,
-    "prev": 68.73,
+    "price": 71.98,
+    "prev": 71.98,
     "currency": "USD",
     "name": "Tempus AI, Inc.",
-    "exch": "NMS",
-    "source": "yahoo-last",
+    "source": "tv-chain",
     "stale": false
   },
   "VST": {
@@ -854,21 +843,19 @@
     "source": "yahoo-last"
   },
   "ANET": {
-    "price": 189.26,
-    "prev": 190.94,
+    "price": 215.36,
+    "prev": 215.36,
     "currency": "USD",
     "name": "Arista Networks, Inc.",
-    "exch": "NYQ",
-    "source": "yahoo-last",
+    "source": "tv-chain",
     "stale": false
   },
   "ETN": {
-    "price": 390.71,
-    "prev": 409.2,
+    "price": 445.09,
+    "prev": 445.09,
     "currency": "USD",
     "name": "Eaton Corporation, PLC",
-    "exch": "NYQ",
-    "source": "yahoo-last",
+    "source": "tv-chain",
     "stale": false
   },
   "EBTC.AX": {
@@ -930,21 +917,19 @@
     "stale": false
   },
   "BMNR": {
-    "price": 23.37,
-    "prev": 24.82,
+    "price": 26.2,
+    "prev": 26.2,
     "currency": "USD",
     "name": "BitMine Immersion Technologies,",
-    "exch": "NYQ",
-    "source": "yahoo-last",
+    "source": "tv-chain",
     "stale": false
   },
   "MSTR": {
-    "price": 124.88,
-    "prev": 126.83,
+    "price": 164.55,
+    "prev": 164.55,
     "currency": "USD",
     "name": "Strategy Inc",
-    "exch": "NMS",
-    "source": "yahoo-last",
+    "source": "tv-chain",
     "stale": false
   },
   "BMNR280121C00030000": {
@@ -1215,6 +1200,30 @@
     "currency": "USD",
     "name": "BSOL 2028-01-21 30.0 C",
     "source": "tv-mid",
+    "stale": false
+  },
+  "COIN": {
+    "price": 185.74,
+    "prev": 185.74,
+    "currency": "USD",
+    "name": "COIN",
+    "source": "tv-chain",
+    "stale": false
+  },
+  "PANW": {
+    "price": 419.91,
+    "prev": 419.91,
+    "currency": "USD",
+    "name": "PANW",
+    "source": "tv-chain",
+    "stale": false
+  },
+  "SKHY": {
+    "price": 182.56,
+    "prev": 182.56,
+    "currency": "USD",
+    "name": "SKHY",
+    "source": "tv-chain",
     "stale": false
   }
 }
