@@ -1,8 +1,8 @@
 {
-  "asOf": "2026-09-18T21:26:15Z",
-  "session": "2026-09-18",
-  "headline": "18 Sep bot tape. Book A$3.92m. Folder has not written since.",
-  "lede": "The GROK BOT book is the desk. Session 18 Sep (as-of holdings 19 Sep): 105 lines, A$3,924,349, FX 1.40408. Session stock move about A$52,465. Winners BSOL +13.4%, SNDK +11.0%, ARM +4.0%, MU +3.9%, CRYP +3.4%. Tape: NVDA 222.27, TSLA 364.27, MU 1015.8, SNDK 1791.82, AMD 559.82. Options marked at live mids, not the stock price. The folder has no file newer than 18 Sep, so this is not the 24 Sep session. The standing material read underneath is still the late-August Nvidia and Marvell prints \u2014 the bot file does not contain a newer earnings release.",
+  "asOf": "2026-10-06T20:03:08Z",
+  "session": "2026-10-06",
+  "headline": "6 Oct tape. Book A$4.39m. Options mostly prior.",
+  "lede": "The desk is the 6 Oct US close, not a new print. Book A$4.39m. Session stock move about A$17.8k, led by ALAB, MRVL, AVGO and AMD. SNDK and MU gave some back. Most option marks are the prior mid because the option chain was blocked; three calls were floored to intrinsic. EBTC\u2019s quote missed, so the prior ASX mark stays. ATOM.AX remains sold and off the book. The late-August Nvidia and Marvell prints are still the standing fundamental read \u2014 this bot file has no newer earnings.",
   "items": [
     {
       "kind": "earnings",
@@ -150,5 +150,5 @@
       ]
     }
   ],
-  "stance": "Hold the book. Nothing forced. Do not treat 18 Sep marks as today's tape. Adds only if a real washout shows up on a fresh bot file. Qty and cost stay with the bot ledger."
+  "stance": "Hold the book. Nothing forced. Do not treat prior option marks as a fresh chain, and do not put ATOM.AX back on the desk."
 }
