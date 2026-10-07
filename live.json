@@ -1,10 +1,11 @@
 {
-  "generated": "2026-10-06T20:03:08Z",
-  "asOf": "2026-10-06T20:03:08Z",
+  "generated": "2026-10-07T08:10:00Z",
+  "asOf": "2026-10-07T08:10:00Z",
   "session": "2026-10-06",
   "fx_aud_per_usd": 1.432049,
   "n_positions": 109,
   "n_stocks": 33,
   "n_options": 76,
-  "book_aud": 4387126.58
+  "book_aud": 4432885.27,
+  "options": "76 live mid, 0 neighbour, 0 prior"
 }

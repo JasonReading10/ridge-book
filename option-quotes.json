@@ -1,5 +1,5 @@
 {
-  "priced_at": "2026-10-06T20:03:08Z",
+  "priced_at": "2026-10-07T08:10:00Z",
   "ibkr_account": {
     "id": "IBKR",
     "open_option_positions": 0,
@@ -7,580 +7,580 @@
   },
   "quotes": {
     "AMZN281215C00200000": {
-      "price": 91.8,
-      "prev": 91.8,
+      "price": 96.275,
+      "prev": 96.275,
       "currency": "USD",
       "name": "AMZN 2028-12-15 200 C",
-      "source": "grok-bot",
-      "stale": true
+      "source": "tv-mid",
+      "stale": false
     },
     "AVGO270319C00350000": {
-      "price": 40.175,
-      "prev": 40.175,
+      "price": 60.075,
+      "prev": 60.075,
       "currency": "USD",
       "name": "AVGO 2027-03-19 350 C",
-      "source": "grok-bot",
-      "stale": true
+      "source": "tv-mid",
+      "stale": false
     },
     "BSOL261120C00015000": {
-      "price": 2.35,
-      "prev": 2.175,
+      "price": 2.425,
+      "prev": 2.425,
       "currency": "USD",
       "name": "BSOL 2026-11-20 15 C",
-      "source": "grok-bot",
-      "stale": true
+      "source": "tv-mid",
+      "stale": false
     },
     "BTDR280121C00010000": {
-      "price": 4.75,
-      "prev": 4.75,
+      "price": 5.05,
+      "prev": 5.05,
       "currency": "USD",
       "name": "BTDR 2028-01-21 10 C",
-      "source": "grok-bot",
-      "stale": true
+      "source": "tv-mid",
+      "stale": false
     },
     "CBRS280121C00200000": {
-      "price": 50.7,
-      "prev": 50.7,
+      "price": 57.2,
+      "prev": 57.2,
       "currency": "USD",
       "name": "CBRS 2028-01-21 200 C",
-      "source": "grok-bot",
-      "stale": true
+      "source": "tv-mid",
+      "stale": false
     },
     "GOOGL281215C00320000": {
-      "price": 99.775,
-      "prev": 99.775,
+      "price": 101.575,
+      "prev": 101.575,
       "currency": "USD",
       "name": "GOOGL 2028-12-15 320 C",
-      "source": "grok-bot",
-      "stale": true
+      "source": "tv-mid",
+      "stale": false
     },
     "INTC271217C00025000": {
-      "price": 96.9,
-      "prev": 96.9,
+      "price": 89.725,
+      "prev": 89.725,
       "currency": "USD",
       "name": "INTC 2027-12-17 25 C",
-      "source": "grok-bot",
-      "stale": true
+      "source": "tv-mid",
+      "stale": false
     },
     "MRVL270115C00077500": {
-      "price": 208.82,
-      "prev": 194.79,
+      "price": 210.55,
+      "prev": 210.55,
       "currency": "USD",
       "name": "MRVL 2027-01-15 77.5 C",
-      "source": "grok-bot",
+      "source": "tv-mid",
       "stale": false
     },
     "MSTR280121C00135000": {
-      "price": 65.825,
-      "prev": 65.825,
+      "price": 67.8,
+      "prev": 67.8,
       "currency": "USD",
       "name": "MSTR 2028-01-21 135 C",
-      "source": "grok-bot",
-      "stale": true
+      "source": "tv-mid",
+      "stale": false
     },
     "MU280121C00330000": {
-      "price": 797.225,
-      "prev": 797.225,
+      "price": 743.525,
+      "prev": 743.525,
       "currency": "USD",
       "name": "MU 2028-01-21 330 C",
-      "source": "grok-bot",
-      "stale": true
+      "source": "tv-mid",
+      "stale": false
     },
     "NCLD270115C00030000": {
-      "price": 1.7,
-      "prev": 1.7,
+      "price": 1.625,
+      "prev": 1.625,
       "currency": "USD",
       "name": "NCLD 2027-01-15 30 C",
-      "source": "grok-bot",
-      "stale": true
+      "source": "tv-mid",
+      "stale": false
     },
     "NVDA261218C00130000": {
-      "price": 110.1,
-      "prev": 105.775,
+      "price": 109.425,
+      "prev": 109.425,
       "currency": "USD",
       "name": "NVDA 2026-12-18 130 C",
-      "source": "grok-bot",
-      "stale": true
+      "source": "tv-mid",
+      "stale": false
     },
     "NVDA271217C00110000": {
-      "price": 131.0,
-      "prev": 131.0,
+      "price": 135.575,
+      "prev": 135.575,
       "currency": "USD",
       "name": "NVDA 2027-12-17 110 C",
-      "source": "grok-bot",
-      "stale": true
+      "source": "tv-mid",
+      "stale": false
     },
     "NVDA271217C00155000": {
-      "price": 93.925,
-      "prev": 93.925,
+      "price": 99.55,
+      "prev": 99.55,
       "currency": "USD",
       "name": "NVDA 2027-12-17 155 C",
-      "source": "grok-bot",
-      "stale": true
+      "source": "tv-mid",
+      "stale": false
     },
     "NVDA281215C00170000": {
-      "price": 96.4,
-      "prev": 96.4,
+      "price": 101.05,
+      "prev": 101.05,
       "currency": "USD",
       "name": "NVDA 2028-12-15 170 C",
-      "source": "grok-bot",
-      "stale": true
+      "source": "tv-mid",
+      "stale": false
     },
     "PLTR281215C00110000": {
-      "price": 108.2,
-      "prev": 108.2,
+      "price": 108.25,
+      "prev": 108.25,
       "currency": "USD",
       "name": "PLTR 2028-12-15 110 C",
-      "source": "grok-bot",
-      "stale": true
+      "source": "tv-mid",
+      "stale": false
     },
     "TSLA270319C00410000": {
-      "price": 30.75,
-      "prev": 30.75,
+      "price": 34.325,
+      "prev": 34.325,
       "currency": "USD",
       "name": "TSLA 2027-03-19 410 C",
-      "source": "grok-bot",
-      "stale": true
+      "source": "tv-mid",
+      "stale": false
     },
     "TSLA270617C00300000": {
-      "price": 100.25,
-      "prev": 100.25,
+      "price": 107.875,
+      "prev": 107.875,
       "currency": "USD",
       "name": "TSLA 2027-06-17 300 C",
-      "source": "grok-bot",
-      "stale": true
+      "source": "tv-mid",
+      "stale": false
     },
     "TSLA270917C00390000": {
-      "price": 64.025,
-      "prev": 64.025,
+      "price": 69.375,
+      "prev": 69.375,
       "currency": "USD",
       "name": "TSLA 2027-09-17 390 C",
-      "source": "grok-bot",
-      "stale": true
+      "source": "tv-mid",
+      "stale": false
     },
     "TSLA281215C00400000": {
-      "price": 105.575,
-      "prev": 105.575,
+      "price": 111.675,
+      "prev": 111.675,
       "currency": "USD",
       "name": "TSLA 2028-12-15 400 C",
-      "source": "grok-bot",
-      "stale": true
+      "source": "tv-mid",
+      "stale": false
     },
     "ANET280121C00190000": {
-      "price": 61.15,
-      "prev": 61.15,
+      "price": 67.2,
+      "prev": 67.2,
       "currency": "USD",
       "name": "ANET 2028-01-21 190.0 C",
-      "source": "grok-bot",
-      "stale": true
+      "source": "tv-mid",
+      "stale": false
     },
     "BMNR280121C00030000": {
-      "price": 8.975,
-      "prev": 8.975,
+      "price": 8.25,
+      "prev": 8.25,
       "currency": "USD",
       "name": "BMNR 2028-01-21 30 C",
-      "source": "grok-bot",
-      "stale": true
+      "source": "tv-mid",
+      "stale": false
     },
     "BMNR280616C00025000": {
-      "price": 11.8,
-      "prev": 11.8,
+      "price": 10.95,
+      "prev": 10.95,
       "currency": "USD",
       "name": "BMNR 2028-06-16 25.0 C",
-      "source": "grok-bot",
-      "stale": true
+      "source": "tv-mid",
+      "stale": false
     },
     "BSOL261016C00017000": {
-      "price": 0.525,
-      "prev": 0.525,
+      "price": 0.925,
+      "prev": 0.925,
       "currency": "USD",
       "name": "BSOL 2026-10-16 17.0 C",
-      "source": "grok-bot",
-      "stale": true
+      "source": "tv-mid",
+      "stale": false
     },
     "BSOL261120C00010000": {
-      "price": 6.7,
-      "prev": 6.45,
+      "price": 7.0,
+      "prev": 7.0,
       "currency": "USD",
       "name": "BSOL 2026-11-20 10 C",
-      "source": "grok-bot",
-      "stale": true
+      "source": "tv-mid",
+      "stale": false
     },
     "BSOL261120C00012000": {
-      "price": 4.95,
-      "prev": 4.75,
+      "price": 4.9,
+      "prev": 4.9,
       "currency": "USD",
       "name": "BSOL 2026-11-20 12 C",
-      "source": "grok-bot",
-      "stale": true
+      "source": "tv-mid",
+      "stale": false
     },
     "BSOL270219C00010000": {
-      "price": 6.9,
-      "prev": 6.9,
-      "currency": "USD",
-      "name": "BSOL 2027-02-19 10 C",
-      "source": "grok-bot",
-      "stale": true
-    },
-    "BSOL270219C00011000": {
-      "price": 5.95,
-      "prev": 5.95,
-      "currency": "USD",
-      "name": "BSOL 2027-02-19 11 C",
-      "source": "grok-bot",
-      "stale": true
-    },
-    "BSOL270219C00014000": {
-      "price": 3.8,
-      "prev": 3.8,
-      "currency": "USD",
-      "name": "BSOL 2027-02-19 14.0 C",
-      "source": "grok-bot",
-      "stale": true
-    },
-    "BSOL270219C00015000": {
-      "price": 3.25,
-      "prev": 3.25,
-      "currency": "USD",
-      "name": "BSOL 2027-02-19 15.0 C",
-      "source": "grok-bot",
-      "stale": true
-    },
-    "DRAM270115C00060000": {
-      "price": 8.75,
-      "prev": 8.75,
-      "currency": "USD",
-      "name": "DRAM 2027-01-15 60 C",
-      "source": "grok-bot",
-      "stale": true
-    },
-    "ETN280121C00420000": {
-      "price": 94.25,
-      "prev": 94.25,
-      "currency": "USD",
-      "name": "ETN 2028-01-21 420 C",
-      "source": "grok-bot",
-      "stale": true
-    },
-    "EUV270319C00025000": {
-      "price": 4.2,
-      "prev": 4.199999999999999,
-      "currency": "USD",
-      "name": "EUV 2027-03-19 25.0 C",
-      "source": "grok-bot",
-      "stale": true
-    },
-    "GLW280121C00155000": {
-      "price": 48.95,
-      "prev": 48.95,
-      "currency": "USD",
-      "name": "GLW 2028-01-21 155 C",
-      "source": "grok-bot",
-      "stale": true
-    },
-    "GOOGL281215C00350000": {
-      "price": 86.0,
-      "prev": 86.0,
-      "currency": "USD",
-      "name": "GOOGL 2028-12-15 350 C",
-      "source": "grok-bot",
-      "stale": true
-    },
-    "HPE280121C00040000": {
-      "price": 31.115,
-      "prev": 30.65,
-      "currency": "USD",
-      "name": "HPE 2028-01-21 40 C",
-      "source": "grok-bot",
-      "stale": false
-    },
-    "HPE280121C00050000": {
-      "price": 26.15,
-      "prev": 26.15,
-      "currency": "USD",
-      "name": "HPE 2028-01-21 50 C",
-      "source": "grok-bot",
-      "stale": true
-    },
-    "IBIT261218C00040000": {
-      "price": 9.15,
-      "prev": 9.149999999999999,
-      "currency": "USD",
-      "name": "IBIT 2026-12-18 40 C",
-      "source": "grok-bot",
-      "stale": true
-    },
-    "IBIT270319C00040000": {
-      "price": 10.65,
-      "prev": 10.65,
-      "currency": "USD",
-      "name": "IBIT 2027-03-19 40 C",
-      "source": "grok-bot",
-      "stale": true
-    },
-    "IBIT280121C00040000": {
-      "price": 14.95,
-      "prev": 14.95,
-      "currency": "USD",
-      "name": "IBIT 2028-01-21 40 C",
-      "source": "grok-bot",
-      "stale": true
-    },
-    "IBIT281215C00036000": {
-      "price": 21.1,
-      "prev": 21.1,
-      "currency": "USD",
-      "name": "IBIT 2028-12-15 36 C",
-      "source": "grok-bot",
-      "stale": true
-    },
-    "IBIT281215C00037000": {
-      "price": 20.55,
-      "prev": 20.55,
-      "currency": "USD",
-      "name": "IBIT 2028-12-15 37 C",
-      "source": "grok-bot",
-      "stale": true
-    },
-    "INTC281215C00090000": {
-      "price": 60.775,
-      "prev": 60.775,
-      "currency": "USD",
-      "name": "INTC 2028-12-15 90 C",
-      "source": "grok-bot",
-      "stale": true
-    },
-    "LLY280121C01120000": {
-      "price": 240.775,
-      "prev": 240.77499999999998,
-      "currency": "USD",
-      "name": "LLY 2028-01-21 1120 C",
-      "source": "grok-bot",
-      "stale": true
-    },
-    "MRVL280616C00180000": {
-      "price": 135.25,
-      "prev": 135.25,
-      "currency": "USD",
-      "name": "MRVL 2028-06-16 180 C",
-      "source": "grok-bot",
-      "stale": true
-    },
-    "MSTR280121C00120000": {
-      "price": 73.1,
-      "prev": 73.1,
-      "currency": "USD",
-      "name": "MSTR 2028-01-21 120 C",
-      "source": "grok-bot",
-      "stale": true
-    },
-    "MU270617C00500000": {
-      "price": 621.825,
-      "prev": 621.825,
-      "currency": "USD",
-      "name": "MU 2027-06-17 500 C",
-      "source": "grok-bot",
-      "stale": true
-    },
-    "PLTR270219C00110000": {
-      "price": 84.4,
-      "prev": 84.4,
-      "currency": "USD",
-      "name": "PLTR 2027-02-19 110 C",
-      "source": "grok-bot",
-      "stale": true
-    },
-    "PLTR270917C00140000": {
-      "price": 71.525,
-      "prev": 71.525,
-      "currency": "USD",
-      "name": "PLTR 2027-09-17 140 C",
-      "source": "grok-bot",
-      "stale": true
-    },
-    "QCOM280121C00150000": {
-      "price": 58.75,
-      "prev": 58.75,
-      "currency": "USD",
-      "name": "QCOM 2028-01-21 150 C",
-      "source": "grok-bot",
-      "stale": true
-    },
-    "SKHY280121C00190000": {
-      "price": 58.0,
-      "prev": 58.0,
-      "currency": "USD",
-      "name": "SKHY 2028-01-21 190.0 C",
-      "source": "grok-bot",
-      "stale": true
-    },
-    "SPCX270319C00165000": {
-      "price": 13.95,
-      "prev": 13.95,
-      "currency": "USD",
-      "name": "SPCX 2027-03-19 165 C",
-      "source": "grok-bot",
-      "stale": true
-    },
-    "SPCX281215C00115000": {
-      "price": 65.25,
-      "prev": 65.25,
-      "currency": "USD",
-      "name": "SPCX 2028-12-15 115 C",
-      "source": "grok-bot",
-      "stale": true
-    },
-    "SPCX281215C00140000": {
-      "price": 54.425,
-      "prev": 54.425,
-      "currency": "USD",
-      "name": "SPCX 2028-12-15 140 C",
-      "source": "grok-bot",
-      "stale": true
-    },
-    "TEM281215C00065000": {
-      "price": 38.75,
-      "prev": 38.75,
-      "currency": "USD",
-      "name": "TEM 2028-12-15 65 C",
-      "source": "grok-bot",
-      "stale": true
-    },
-    "TSLA270917C00300000": {
-      "price": 110.475,
-      "prev": 110.475,
-      "currency": "USD",
-      "name": "TSLA 2027-09-17 300 C",
-      "source": "grok-bot",
-      "stale": true
-    },
-    "TSLA281215C00390000": {
-      "price": 109.1,
-      "prev": 109.1,
-      "currency": "USD",
-      "name": "TSLA 2028-12-15 390 C",
-      "source": "grok-bot",
-      "stale": true
-    },
-    "TSM280121C00400000": {
-      "price": 123.45,
-      "prev": 123.45,
-      "currency": "USD",
-      "name": "TSM 2028-01-21 400 C",
-      "source": "grok-bot",
-      "stale": true
-    },
-    "SPCX270319C00145000": {
-      "price": 28.08,
-      "prev": 24.775,
-      "currency": "USD",
-      "name": "SPCX 2027-03-19 145.0 C",
-      "source": "grok-bot",
-      "stale": false
-    },
-    "SKHY270115C00160000": {
-      "price": 43.65,
-      "prev": 43.65,
-      "currency": "USD",
-      "name": "SKHY 2027-01-15 160.0 C",
-      "source": "grok-bot",
-      "stale": true
-    },
-    "SPCX270617C00170000": {
-      "price": 18.125,
-      "prev": 18.125,
-      "currency": "USD",
-      "name": "SPCX 2027-06-17 170.0 C",
-      "source": "grok-bot",
-      "stale": true
-    },
-    "PANW271217C00300000": {
-      "price": 152.5,
-      "prev": 152.5,
-      "currency": "USD",
-      "name": "PANW 2027-12-17 300.0 C",
-      "source": "grok-bot",
-      "stale": true
-    },
-    "MSTR270917C00125000": {
-      "price": 63.525,
-      "prev": 63.525000000000006,
-      "currency": "USD",
-      "name": "MSTR 2027-09-17 125.0 C",
-      "source": "grok-bot",
-      "stale": true
-    },
-    "EUV270319C00023000": {
-      "price": 4.95,
-      "prev": 4.95,
-      "currency": "USD",
-      "name": "EUV 2027-03-19 23.0 C",
-      "source": "grok-bot",
-      "stale": true
-    },
-    "NCLD261016C00025000": {
-      "price": 0.825,
-      "prev": 0.825,
-      "currency": "USD",
-      "name": "NCLD 2026-10-16 25.0 C",
-      "source": "grok-bot",
-      "stale": true
-    },
-    "GOOGL271217C00370000": {
-      "price": 47.175,
-      "prev": 47.175,
-      "currency": "USD",
-      "name": "GOOGL 2027-12-17 370.0 C",
-      "source": "grok-bot",
-      "stale": true
-    },
-    "BMNR270617C00027000": {
       "price": 7.2,
       "prev": 7.2,
       "currency": "USD",
+      "name": "BSOL 2027-02-19 10 C",
+      "source": "tv-mid",
+      "stale": false
+    },
+    "BSOL270219C00011000": {
+      "price": 6.35,
+      "prev": 6.35,
+      "currency": "USD",
+      "name": "BSOL 2027-02-19 11 C",
+      "source": "tv-mid",
+      "stale": false
+    },
+    "BSOL270219C00014000": {
+      "price": 4.1,
+      "prev": 4.1,
+      "currency": "USD",
+      "name": "BSOL 2027-02-19 14.0 C",
+      "source": "tv-mid",
+      "stale": false
+    },
+    "BSOL270219C00015000": {
+      "price": 3.45,
+      "prev": 3.45,
+      "currency": "USD",
+      "name": "BSOL 2027-02-19 15.0 C",
+      "source": "tv-mid",
+      "stale": false
+    },
+    "DRAM270115C00060000": {
+      "price": 6.175,
+      "prev": 6.175,
+      "currency": "USD",
+      "name": "DRAM 2027-01-15 60 C",
+      "source": "tv-mid",
+      "stale": false
+    },
+    "ETN280121C00420000": {
+      "price": 98.25,
+      "prev": 98.25,
+      "currency": "USD",
+      "name": "ETN 2028-01-21 420 C",
+      "source": "tv-mid",
+      "stale": false
+    },
+    "EUV270319C00025000": {
+      "price": 4.55,
+      "prev": 4.55,
+      "currency": "USD",
+      "name": "EUV 2027-03-19 25.0 C",
+      "source": "tv-mid",
+      "stale": false
+    },
+    "GLW280121C00155000": {
+      "price": 54.3,
+      "prev": 54.3,
+      "currency": "USD",
+      "name": "GLW 2028-01-21 155 C",
+      "source": "tv-mid",
+      "stale": false
+    },
+    "GOOGL281215C00350000": {
+      "price": 88.25,
+      "prev": 88.25,
+      "currency": "USD",
+      "name": "GOOGL 2028-12-15 350 C",
+      "source": "tv-mid",
+      "stale": false
+    },
+    "HPE280121C00040000": {
+      "price": 37.45,
+      "prev": 37.45,
+      "currency": "USD",
+      "name": "HPE 2028-01-21 40 C",
+      "source": "tv-mid",
+      "stale": false
+    },
+    "HPE280121C00050000": {
+      "price": 31.875,
+      "prev": 31.875,
+      "currency": "USD",
+      "name": "HPE 2028-01-21 50 C",
+      "source": "tv-mid",
+      "stale": false
+    },
+    "IBIT261218C00040000": {
+      "price": 9.475,
+      "prev": 9.475,
+      "currency": "USD",
+      "name": "IBIT 2026-12-18 40 C",
+      "source": "tv-mid",
+      "stale": false
+    },
+    "IBIT270319C00040000": {
+      "price": 10.925,
+      "prev": 10.925,
+      "currency": "USD",
+      "name": "IBIT 2027-03-19 40 C",
+      "source": "tv-mid",
+      "stale": false
+    },
+    "IBIT280121C00040000": {
+      "price": 15.25,
+      "prev": 15.25,
+      "currency": "USD",
+      "name": "IBIT 2028-01-21 40 C",
+      "source": "tv-mid",
+      "stale": false
+    },
+    "IBIT281215C00036000": {
+      "price": 21.45,
+      "prev": 21.45,
+      "currency": "USD",
+      "name": "IBIT 2028-12-15 36 C",
+      "source": "tv-mid",
+      "stale": false
+    },
+    "IBIT281215C00037000": {
+      "price": 20.725,
+      "prev": 20.725,
+      "currency": "USD",
+      "name": "IBIT 2028-12-15 37 C",
+      "source": "tv-mid",
+      "stale": false
+    },
+    "INTC281215C00090000": {
+      "price": 52.9,
+      "prev": 52.9,
+      "currency": "USD",
+      "name": "INTC 2028-12-15 90 C",
+      "source": "tv-mid",
+      "stale": false
+    },
+    "LLY280121C01120000": {
+      "price": 244.7,
+      "prev": 244.7,
+      "currency": "USD",
+      "name": "LLY 2028-01-21 1120 C",
+      "source": "tv-mid",
+      "stale": false
+    },
+    "MRVL280616C00180000": {
+      "price": 149.6,
+      "prev": 149.6,
+      "currency": "USD",
+      "name": "MRVL 2028-06-16 180 C",
+      "source": "tv-mid",
+      "stale": false
+    },
+    "MSTR280121C00120000": {
+      "price": 74.65,
+      "prev": 74.65,
+      "currency": "USD",
+      "name": "MSTR 2028-01-21 120 C",
+      "source": "tv-mid",
+      "stale": false
+    },
+    "MU270617C00500000": {
+      "price": 571.925,
+      "prev": 571.925,
+      "currency": "USD",
+      "name": "MU 2027-06-17 500 C",
+      "source": "tv-mid",
+      "stale": false
+    },
+    "PLTR270219C00110000": {
+      "price": 86.15,
+      "prev": 86.15,
+      "currency": "USD",
+      "name": "PLTR 2027-02-19 110 C",
+      "source": "tv-mid",
+      "stale": false
+    },
+    "PLTR270917C00140000": {
+      "price": 71.725,
+      "prev": 71.725,
+      "currency": "USD",
+      "name": "PLTR 2027-09-17 140 C",
+      "source": "tv-mid",
+      "stale": false
+    },
+    "QCOM280121C00150000": {
+      "price": 56.975,
+      "prev": 56.975,
+      "currency": "USD",
+      "name": "QCOM 2028-01-21 150 C",
+      "source": "tv-mid",
+      "stale": false
+    },
+    "SKHY280121C00190000": {
+      "price": 47.75,
+      "prev": 47.75,
+      "currency": "USD",
+      "name": "SKHY 2028-01-21 190.0 C",
+      "source": "tv-mid",
+      "stale": false
+    },
+    "SPCX270319C00165000": {
+      "price": 27.15,
+      "prev": 27.15,
+      "currency": "USD",
+      "name": "SPCX 2027-03-19 165 C",
+      "source": "tv-mid",
+      "stale": false
+    },
+    "SPCX281215C00115000": {
+      "price": 85.45,
+      "prev": 85.45,
+      "currency": "USD",
+      "name": "SPCX 2028-12-15 115 C",
+      "source": "tv-mid",
+      "stale": false
+    },
+    "SPCX281215C00140000": {
+      "price": 72.25,
+      "prev": 72.25,
+      "currency": "USD",
+      "name": "SPCX 2028-12-15 140 C",
+      "source": "tv-mid",
+      "stale": false
+    },
+    "TEM281215C00065000": {
+      "price": 35.075,
+      "prev": 35.075,
+      "currency": "USD",
+      "name": "TEM 2028-12-15 65 C",
+      "source": "tv-mid",
+      "stale": false
+    },
+    "TSLA270917C00300000": {
+      "price": 117.65,
+      "prev": 117.65,
+      "currency": "USD",
+      "name": "TSLA 2027-09-17 300 C",
+      "source": "tv-mid",
+      "stale": false
+    },
+    "TSLA281215C00390000": {
+      "price": 115.6,
+      "prev": 115.6,
+      "currency": "USD",
+      "name": "TSLA 2028-12-15 390 C",
+      "source": "tv-mid",
+      "stale": false
+    },
+    "TSM280121C00400000": {
+      "price": 139.775,
+      "prev": 139.775,
+      "currency": "USD",
+      "name": "TSM 2028-01-21 400 C",
+      "source": "tv-mid",
+      "stale": false
+    },
+    "SPCX270319C00145000": {
+      "price": 38.825,
+      "prev": 38.825,
+      "currency": "USD",
+      "name": "SPCX 2027-03-19 145.0 C",
+      "source": "tv-mid",
+      "stale": false
+    },
+    "SKHY270115C00160000": {
+      "price": 32.775,
+      "prev": 32.775,
+      "currency": "USD",
+      "name": "SKHY 2027-01-15 160.0 C",
+      "source": "tv-mid",
+      "stale": false
+    },
+    "SPCX270617C00170000": {
+      "price": 31.45,
+      "prev": 31.45,
+      "currency": "USD",
+      "name": "SPCX 2027-06-17 170.0 C",
+      "source": "tv-mid",
+      "stale": false
+    },
+    "PANW271217C00300000": {
+      "price": 168.75,
+      "prev": 168.75,
+      "currency": "USD",
+      "name": "PANW 2027-12-17 300.0 C",
+      "source": "tv-mid",
+      "stale": false
+    },
+    "MSTR270917C00125000": {
+      "price": 65.7,
+      "prev": 65.7,
+      "currency": "USD",
+      "name": "MSTR 2027-09-17 125.0 C",
+      "source": "tv-mid",
+      "stale": false
+    },
+    "EUV270319C00023000": {
+      "price": 5.75,
+      "prev": 5.75,
+      "currency": "USD",
+      "name": "EUV 2027-03-19 23.0 C",
+      "source": "tv-mid",
+      "stale": false
+    },
+    "NCLD261016C00025000": {
+      "price": 0.8,
+      "prev": 0.8,
+      "currency": "USD",
+      "name": "NCLD 2026-10-16 25.0 C",
+      "source": "tv-mid",
+      "stale": false
+    },
+    "GOOGL271217C00370000": {
+      "price": 51.6,
+      "prev": 51.6,
+      "currency": "USD",
+      "name": "GOOGL 2027-12-17 370.0 C",
+      "source": "tv-mid",
+      "stale": false
+    },
+    "BMNR270617C00027000": {
+      "price": 6.5,
+      "prev": 6.5,
+      "currency": "USD",
       "name": "BMNR 2027-06-17 27.0 C",
-      "source": "grok-bot",
-      "stale": true
+      "source": "tv-mid",
+      "stale": false
     },
     "COIN280121C00200000": {
-      "price": 56.5,
-      "prev": 56.5,
+      "price": 52.725,
+      "prev": 52.725,
       "currency": "USD",
       "name": "COIN 2028-01-21 200.0 C",
-      "source": "grok-bot",
-      "stale": true
+      "source": "tv-mid",
+      "stale": false
     },
     "PLTR270521C00185000": {
-      "price": 38.625,
-      "prev": 38.625,
+      "price": 38.325,
+      "prev": 38.325,
       "currency": "USD",
       "name": "PLTR 2027-05-21 185.0 C",
-      "source": "grok-bot",
-      "stale": true
+      "source": "tv-mid",
+      "stale": false
     },
     "SPCX290119C00155000": {
-      "price": 49.875,
-      "prev": 49.875,
+      "price": 67.075,
+      "prev": 67.075,
       "currency": "USD",
       "name": "SPCX 2029-01-19 155.0 C",
-      "source": "grok-bot",
-      "stale": true
+      "source": "tv-mid",
+      "stale": false
     },
     "BSOL280121C00020000": {
-      "price": 4.15,
-      "prev": 4.15,
+      "price": 4.7,
+      "prev": 4.7,
       "currency": "USD",
       "name": "BSOL 2028-01-21 20.0 C",
-      "source": "grok-bot",
-      "stale": true
+      "source": "tv-mid",
+      "stale": false
     },
     "BSOL280121C00030000": {
-      "price": 1.925,
-      "prev": 1.925,
+      "price": 2.525,
+      "prev": 2.525,
       "currency": "USD",
       "name": "BSOL 2028-01-21 30.0 C",
-      "source": "grok-bot",
-      "stale": true
+      "source": "tv-mid",
+      "stale": false
     }
   }
 }
